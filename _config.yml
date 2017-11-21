@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Welcome!
+title: "Welcome!"
 
 # Short description of your site
-description: This is the professional website of Thomas M. Massie
+description: "This is the professional website of Thomas M. Massie"
 
 # --- Navigation bar options --- #
 
@@ -97,7 +97,7 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
   linkedin: true
 
