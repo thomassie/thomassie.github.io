@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who I am, what I am doing, and how I am doing it.
 ---
 
 My name is Thomas M. Massie and I am a biologist/ecologist. After 4.5 years
