@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Thomas' website
+title: Thomas M. Massie
 
 # Short description of your site
 description: Who I am, what I do, and how I am doing it.
@@ -55,7 +55,7 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Thomas M. Massie
   email: "thomas.massie@outlook.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
