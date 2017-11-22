@@ -3,13 +3,14 @@ layout: page
 title: CV
 published: true
 ---
+
 ## 2012 – 2016: Postdoctoral researcher
 **Location**: [University of Zurich](https://www.uzh.ch/en.html) (Switzerland)  
 **Project title**: _Community dynamics in response to environmental changes._  
 **Supervisor**: [Prof. Owen L. Petchey](http://www.ieu.uzh.ch/en/staff/member/petchey_owen.html)  
 **Keywords**: bacteria · ciliates · community dynamics · functional responses · mathematical modelling · microcosm experiments · non-linear dynamics · paradox of enrichment · response to environmental changes · statistical modelling  
 
-In my postdoc project I dealed with the response behaviour of ecological communities to environmental changes. I approached this topic by 
+In my postdoc project I dealed with the response behaviour of ecological communities to environmental changes. I approached this topic by
 
 
 ## 2006 – 2012: Doctoral thesis (PhD)
