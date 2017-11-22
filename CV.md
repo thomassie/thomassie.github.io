@@ -29,5 +29,5 @@ In my postdoc project I dealed with the response behaviour of ecological communi
 
 
 ## 2001: Pre-degree (B.Sc.)
-**Biology**
+**Biology**  
 **Location**: [Justus-Liebig-University](https://www.uni-giessen.de/index.html) Gießen (Germany)
