@@ -22,7 +22,7 @@ In my postdoc project I dealed with the response behaviour of ecological communi
 
 ## 2005: Diploma thesis (M.Sc.)
 **Ecology & Nature conservation, Limnology, Microbiology, Botany**   
-**Location**: [University of Potsdam](http://www.uni-potsdam.de/) (Germany) 
+**Location**: [University of Potsdam](http://www.uni-potsdam.de/) (Germany)  
 **Project title**: _Validation of a simple bottom-up model for the development of phytoplankton blooms – chemostat experiments and mathematical modelling._   
 **Supervisors**: [Prof. Gregor F. Fussmann](https://www.mcgill.ca/cambam/people/ecology-and-evolutionary-biological-group/fussmann-gregor) and [Prof. Ursula Gaedke](https://www.uni-potsdam.de/ibb-ecology/mitarbeiterinnen/prof-dr-ursula-gaedke.html)  
 **Keywords**: chemostat experiments · harmful algae blooms · initial conditions · mathematical modelling · non-linear dynamics · paradox of enrichment   
