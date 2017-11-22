@@ -60,7 +60,7 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .main-content {
-    padding-top: 80px;   /* original: 130px */
+    padding-top: 100px;   /* original: 130px */
   }
 }
 
@@ -129,15 +129,15 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 400; /* original: 800 */
-  color: #FBFBFA; /* original: #404040 */
+  font-weight: 400; /* org.: 800 */
+  color: #FBFBFA; /* org: #404040 */
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: #7C7266; /* org.: #0085a1; */
 }
 
 .navbar-custom .navbar-brand-logo {
