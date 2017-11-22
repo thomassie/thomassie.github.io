@@ -30,7 +30,7 @@ navbar-links:
     - GitHub: "https://github.com/thomassie"
   Photography: "http://thomasmmassie.com"
   ...:
-  	- ExampleA: "http://thomasmmassie.com"
+    - ExampleA: "http://thomasmmassie.com"
     - ExampleA: "http://thomasmmassie.com"
   #Author's home: "http://thomassie.github.io"
 
