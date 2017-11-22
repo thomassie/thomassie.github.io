@@ -24,6 +24,7 @@ description: This is my professional website.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  CV: "CV"
   Resources:
     - RShiny: "http://deanattali.com/beautiful-jekyll/"
     - Photography: "http://thomasmmassie.com"
