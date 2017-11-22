@@ -38,7 +38,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #FFB13D;   /* org.: #0085a1; */
 }
 blockquote {
   color: #808080;
