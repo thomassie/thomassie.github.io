@@ -25,6 +25,7 @@ description: This is my professional website.
 navbar-links:
   About Me: "aboutme"
   CV: "CV"
+  Publications: "Publications"
   Resources:
     - RShiny: "https://thomassie.shinyapps.io/climatedataapp/"
     - GitHub: "https://github.com/thomassie"
