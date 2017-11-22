@@ -108,7 +108,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #F5F5F5;
+  background: #A6A49A; /* original: #F5F5F5 */
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-col %}
@@ -128,8 +128,8 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 800;
-  color: #404040;
+  font-weight: 300; /* original: 800 */
+  color: #FBFBFA; /* original: #404040 */
 }
 
 .navbar-custom .navbar-brand:hover,
