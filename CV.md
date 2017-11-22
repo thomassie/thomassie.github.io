@@ -18,6 +18,7 @@ In my postdoc project I dealed with the response behaviour of ecological communi
 **Project title**: _Dynamic behaviour of phytoplankton populations far from steady-state – chemostat experiments and mathematical modelling._  
 **Supervisors**: [Prof. Ursula Gaedke](https://www.uni-potsdam.de/ibb-ecology/mitarbeiterinnen/prof-dr-ursula-gaedke.html) and [Prof. Bernd Blasius](https://www.icbm.de/mathematische-modellierung/)  
 **Keywords**: cell cycle · demography · chemostat experiments · mathematical modelling · Moran effect · non-steady-state behaviour · response to environmental changes · transient population dynamics  
+**Thesis**: [download](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/5618/file/massie_diss.pdf)
 
 
 ## 2005: Diploma thesis (M.Sc.)
