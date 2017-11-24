@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimal
 title: Publications
 published: true
 ---
@@ -12,4 +12,4 @@ Altermatt, F., E. A. Fronhofer, A. Garnier, A. Giometto, F. Hammes, J. Klecka, D
 
 **Massie, T. M.**, A. Ryabov, B. Blasius, G. Weithoff, and U. Gaedke (**2013**) _Complex transient dynamics of stage-structured populations in response to environmental changes._ [The American Naturalist](http://www.journals.uchicago.edu/doi/abs/10.1086/670590) 182: 103–119.  
 
-**Massie, T. M.**, B. Blasius, G. Weithoff, U. Gaedke, and G. F. Fussmann (**2010**) _Cycles, phase synchronization, and entrainment in single-species phytoplankton populations._ [PNAS](http://www.pnas.org/content/107/9/4236.short) 107: 4236–41.  
+**Massie, T. M.**, B. Blasius, G. Weithoff, U. Gaedke, and G. F. Fussmann (**2010**) _Cycles, phase synchronization, and entrainment in single-species phytoplankton populations._ [PNAS](http://www.pnas.org/content/107/9/4236.short) 107: 4236–41.
