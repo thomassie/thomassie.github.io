@@ -29,9 +29,10 @@ navbar-links:
   Resources:
     - RShiny: "https://thomassie.shinyapps.io/climatedataapp/"
     - GitHub: "https://github.com/thomassie"
+    - stackoverflow: "https://stackoverflow.com/users/8642015/thomas-massie?tab=profile"
   Photography: "http://thomasmmassie.com"
-  ...:
-    - ExampleA: "http://thomasmmassie.com"
+  Links:
+    - Google Scholar Profile: "https://scholar.google.ch/citations?user=99uT1l4AAAAJ&hl=en"
     - ExampleA: "http://thomasmmassie.com"
   #Author's home: "http://thomassie.github.io"
 
