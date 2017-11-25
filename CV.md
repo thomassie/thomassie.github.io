@@ -10,26 +10,30 @@ published: true
 * **Supervisor**: [Prof. Owen L. Petchey](http://www.ieu.uzh.ch/en/staff/member/petchey_owen.html)  
 * **Keywords**: bacteria · ciliates · community dynamics · functional responses · mathematical modelling · microcosm experiments · non-linear dynamics · paradox of enrichment · response to environmental changes · statistical modelling  
 
-In my postdoc project I dealed with the response behaviour of ecological communities to environmental changes. I approached this topic by
+* In my postdoc project I dealed with the response behaviour of ecological communities to environmental changes. I approached this topic by .  
 
 
 ## 2006 – 2012: Doctoral thesis (PhD)
-**Ecology** (summa cum laude)  
-**Location**: [University of Potsdam](http://www.uni-potsdam.de/) (Germany)  
-**Project title**: _Dynamic behaviour of phytoplankton populations far from steady-state – chemostat experiments and mathematical modelling._  
-**Supervisors**: [Prof. Ursula Gaedke](https://www.uni-potsdam.de/ibb-ecology/mitarbeiterinnen/prof-dr-ursula-gaedke.html) and [Prof. Bernd Blasius](https://www.icbm.de/mathematische-modellierung/)  
-**Keywords**: cell cycle · demography · chemostat experiments · mathematical modelling · Moran effect · non-steady-state behaviour · response to environmental changes · transient population dynamics  
-**Thesis**: [download](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/5618/file/massie_diss.pdf)
+* **Ecology** (summa cum laude)  
+* **Location**: [University of Potsdam](http://www.uni-potsdam.de/) (Germany)  
+* **Project title**: _Dynamic behaviour of phytoplankton populations far from steady-state – chemostat experiments and mathematical modelling._  
+* **Supervisors**: [Prof. Ursula Gaedke](https://www.uni-potsdam.de/ibb-ecology/mitarbeiterinnen/prof-dr-ursula-gaedke.html) and [Prof. Bernd Blasius](https://www.icbm.de/mathematische-modellierung/)  
+* **Keywords**: cell cycle · demography · chemostat experiments · mathematical modelling · Moran effect · non-steady-state behaviour · response to environmental changes · transient population dynamics  
+* **Thesis**: [download](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/5618/file/massie_diss.pdf)  
+
+* Text  
 
 
 ## 2005: Diploma thesis (M.Sc.)
-**Ecology & Nature conservation, Limnology, Microbiology, Botany**   
-**Location**: [University of Potsdam](http://www.uni-potsdam.de/) (Germany)  
-**Project title**: _Validation of a simple bottom-up model for the development of phytoplankton blooms – chemostat experiments and mathematical modelling._   
-**Supervisors**: [Prof. Gregor F. Fussmann](https://www.mcgill.ca/cambam/people/ecology-and-evolutionary-biological-group/fussmann-gregor) and [Prof. Ursula Gaedke](https://www.uni-potsdam.de/ibb-ecology/mitarbeiterinnen/prof-dr-ursula-gaedke.html)  
-**Keywords**: chemostat experiments · harmful algae blooms · initial conditions · mathematical modelling · non-linear dynamics · paradox of enrichment   
+* **Ecology & Nature conservation, Limnology, Microbiology, Botany**   
+* **Location**: [University of Potsdam](http://www.uni-potsdam.de/) (Germany)  
+* **Project title**: _Validation of a simple bottom-up model for the development of phytoplankton blooms – chemostat experiments and mathematical modelling._   
+* **Supervisors**: [Prof. Gregor F. Fussmann](https://www.mcgill.ca/cambam/people/ecology-and-evolutionary-biological-group/fussmann-gregor) and [Prof. Ursula Gaedke](https://www.uni-potsdam.de/ibb-ecology/mitarbeiterinnen/prof-dr-ursula-gaedke.html)  
+* **Keywords**: chemostat experiments · harmful algae blooms · initial conditions · mathematical modelling · non-linear dynamics · paradox of enrichment  
+
+* Text  
 
 
 ## 2001: Pre-degree (B.Sc.)
-**Biology**  
-**Location**: [Justus-Liebig-University](https://www.uni-giessen.de/index.html) Gießen (Germany)
+* **Biology**  
+* **Location**: [Justus-Liebig-University](https://www.uni-giessen.de/index.html) Gießen (Germany)  
