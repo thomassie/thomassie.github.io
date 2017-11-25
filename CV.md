@@ -21,7 +21,7 @@ published: true
 * **Keywords**: cell cycle · demography · chemostat experiments · mathematical modelling · Moran effect · non-steady-state behaviour · response to environmental changes · transient population dynamics
 * **Thesis**: [download](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/5618/file/massie_diss.pdf)
 
-* Text  
+* Phytoplankton consists of microorganisms mostly belonging to the realm of plants.
 
 
 ## 2005: Diploma thesis (M.Sc.)
@@ -31,7 +31,7 @@ published: true
 * **Supervisors**: [Prof. Gregor F. Fussmann](https://www.mcgill.ca/cambam/people/ecology-and-evolutionary-biological-group/fussmann-gregor) and [Prof. Ursula Gaedke](https://www.uni-potsdam.de/ibb-ecology/mitarbeiterinnen/prof-dr-ursula-gaedke.html)
 * **Keywords**: chemostat experiments · harmful algae blooms · initial conditions · mathematical modelling · non-linear dynamics · paradox of enrichment
 
-* Text  
+* Harmful algae blooms (HABs) occur almost everywhere on earth, in marine and fresh water environments. 
 
 
 ## 2001: Pre-degree (B.Sc.)
