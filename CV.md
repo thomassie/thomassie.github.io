@@ -7,7 +7,7 @@ published: true
 ## 2012 – 2016: Postdoctoral researcher
 In my postdoc project I dealed with the response behaviour of ecological communities to environmental changes. I approached this topic by performing experiments with microbial communities being .
 * **Location**: [University of Zurich](https://www.uzh.ch/en.html) (Switzerland)
-* **Project title**: _Community dynamics in response to environmental changes._
+* **Project title**: _Predicting ecological responses to environmental change._
 * **Supervisor**: [Prof. Owen L. Petchey](http://www.ieu.uzh.ch/en/staff/member/petchey_owen.htm)
 * **Keywords**: bacteria · ciliates · community dynamics · functional responses · mathematical modelling · microcosm experiments · non-linear dynamics · paradox of enrichment · response to environmental changes · statistical modelling  
 
@@ -34,4 +34,4 @@ I received my diploma in Biology in 2005 by successfully graduating in the subje
 
 ## 2001: Pre-degree (B.Sc.)
 * **Biology**  
-* **Location**: [Justus-Liebig-University](https://www.uni-giessen.de/index.html) Gießen (Germany)  
+* **Location**: [Justus-Liebig-University](https://www.uni-giessen.de/index.html) Gießen (Germany)
