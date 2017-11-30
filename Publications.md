@@ -19,3 +19,4 @@ Altermatt, F., E. A. Fronhofer, A. Garnier, A. Giometto, F. Hammes, J. Klecka, D
 ## Other publications
 
 Photgraphic Portal Wissen - Das Forschungsmagazin der Universität Potsdam (**2014**)
+https://www.uni-potsdam.de/fileadmin01/projects/up-entdecken/docs/portal_wissen/2014/Portal_Wissen_2014_2.pdf
