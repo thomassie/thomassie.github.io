@@ -4,7 +4,7 @@ title: CV
 published: true
 ---
 ## 2017: Personal sabbatical
-At the moment I am taking a personal sabbatical to (a) spend more time with my family, (b) train myself in topics I never really found the time before, and (c) figure out what to do next. I am super excited to see what is comming next...! 
+At the moment I am taking a personal sabbatical to (a) spend more **time with my family**, (b) **educate myself** in topics I never really found the time before, and (c) figure out **what to do in the future**. I am super excited to see what is comming next...! 
 
 
 ## 2012 – 2016: Postdoctoral researcher
