@@ -34,7 +34,6 @@ navbar-links:
   Links:
     - University Profile: "http://www.ieu.uzh.ch/en/staff/former_member/massie_thomas.html"
     - Google Scholar Profile: "https://scholar.google.ch/citations?user=99uT1l4AAAAJ&hl=en"
-    - ExampleA: "http://thomasmmassie.com"
   #Author's home: "http://thomassie.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
