@@ -3,6 +3,9 @@ layout: page
 title: CV
 published: true
 ---
+## 2017: Personal sabbatical
+At the moment I am taking a personal sabbatical to (a) spend more time with my family, (b) train myself in topics I never really found the time before, and (c) figure out what to do next. I am super excited to see what is comming next...! 
+
 
 ## 2012 – 2016: Postdoctoral researcher
 In my postdoc project I dealed with the response behaviour of ecological communities to environmental changes. I approached this topic by performing experiments with microbial communities being .
