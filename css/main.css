@@ -8,11 +8,11 @@ published: true
 /* --- General --- */
 
 body {
-/* font-family: 'Lora', 'Times New Roman', serif; */
+  font-family: 'Lora', 'Times New Roman', serif; */
   /* font-family: 'Crimson Text', serif; */
   /* font-family: 'EB Garamond', serif; */
   /* font-family: 'Quattrocento', serif; */
-  font-family: 'Barlow', sans-serif;
+  /* font-family: 'Barlow', sans-serif; */
   font-size: 17px;
   color: #7B7C7D; /* original: #404040  */
   position: relative;
