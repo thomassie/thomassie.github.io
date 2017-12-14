@@ -7,7 +7,9 @@ published: true
 ![TMM_ValMingere.jpg]({{site.baseurl}}/img/TMM_ValMingere.jpg)
 
 My name is Thomas M. Massie and I am a biologist/ecologist. 
-I have a background in theoretical ecology.
+I have a background in theoretical ecology. That is, I am adressing fundamental ecological topics such as (resource) competition, predator-prey interactions, synchrony among and within populations, population/community dynamics and so on from a rather theoretical and often abstract point of view. 
+At the same time I am also an experimental ecologist that enjoys 
+
 After 4.5 years working as a postdoc at the University of Zurich, I recently decided to stop my scientific career, take a personal sabbatical and start a new chapter b working in...
 
 ### ...Data Science & Information Design
