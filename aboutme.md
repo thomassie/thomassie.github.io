@@ -41,7 +41,7 @@ That is, I am pretty familiar with the regions in which I used to live (Upper Sw
 
 ### ...Education
 
-I love explaining nature – its organimsms, patterns, interactions and so on – to kids and grown-ups likewise. Telling people about what is right in front of their noses and showing 
+I love explaining nature – phenomena, patterns, organimsms, interactions and so on – to kids and grown-ups likewise. Telling people about what is right in front of their noses and showing 
 
 When you see that they enjoy it, you know that they will also learn from it .  
 
