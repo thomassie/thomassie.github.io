@@ -26,7 +26,7 @@ I belive that information, even of the highly complex kind, can be communicated 
 
 ### ...Nature Conservation
 
-Well, biology and nature conservation have always been and still are at the core of all activities. I 
+Well, biology and nature conservation have always been and still are at the core of all my activities. I draw my motivation form the idea of contributing in whatever way to the preservation of our environment and a sustainable way of living. To me
 
 
 ### ...Education
