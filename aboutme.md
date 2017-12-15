@@ -12,7 +12,7 @@ I have a background in theoretical ecology. That is, I am adressing fundamental 
 
 At the same time I am also an experimental ecologist. I really enhoy designing and performing experiments that yield accurate and reproducable data – which can be quite challenging when it comes to keeping away any disturbing influences that may lead to additional, unwanted 'noise'. Hence, it is absolutely worth choosing an experimental system that delivers data to adequately inform your models. Because, your analysis, the insights you derive from these, as well as the forecasts you make can be only as good as the data you work with. 
 
-After 4.5 years working as a postdoc at the University of Zurich, I recently decided to stop my academic career, take a personal sabbatical, and start a new chapter by working in...
+After 4.5 years working as a postdoc at the University of Zurich, I recently decided to stop my academic career to take a personal sabbatical and start a new chapter by working in...
 
 
 ### ...Data Science & Information Design
@@ -21,7 +21,7 @@ I love to search data for patterns that surprise me. Do not get me wrong! It is 
 
 It is these surpising elements that make them also challenging when it comes to communication. Because what you already know is easy to understand, often by intuition. But unknown facts and patterns are far more complicated being made accessible to your mind. And that is where good communication comes into play. 
 
-I am skilled in analysing data from various sources. Mostly, data was provided by experiments which provide large data sets and reflect complex interactions
+I belive that information, even of the highly complex kind, can be commnicated to (almost) any audience. 
 
 
 
