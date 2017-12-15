@@ -14,7 +14,9 @@ At the same time I am also an experimental ecologist. I really enhoy designing a
 
 After 4.5 years working as a postdoc at the University of Zurich, I recently decided to stop my academic career, take a personal sabbatical, and start a new chapter by working in...
 
+
 ### ...Data Science & Information Design
+
 I love to search data for patterns that surprise me. Do not get me wrong! It is great when data confirms what you already know or expect. However, surprises are inevitable and very important. And also: fun. I mean, if you could decide whether to go with something simple, straighforward and expectable, or, you could choose something novel, challenging and unexpected... Well, I guess you get what I am saying. (That being said, getting no confirmation at all is pretty frustrating...)
 
 It is these surpising elements that make them also challenging when it comes to communication. Because what you already know is easy to understand, often by intuition. But unknown facts and patterns are far more complicated being made accessible to your mind. And that is where good communication comes into play. 
