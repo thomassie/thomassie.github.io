@@ -9,7 +9,7 @@ At the moment I am taking a personal sabbatical to (a) spend more **time with my
 
 ## 2012 – 2016: Postdoctoral researcher
 
-/* In my postdoc project I dealed with the response behaviour of ecological communities to environmental changes. I approached this topic by performing experiments with microbial communities being . */
+<!--- In my postdoc project I dealed with the response behaviour of ecological communities to environmental changes. I approached this topic by performing experiments with microbial communities being . --->
 
 * **Location**: [University of Zurich](https://www.uzh.ch/en.html) (Switzerland)
 * **Project title**: _Predicting ecological responses to environmental change._
@@ -18,7 +18,9 @@ At the moment I am taking a personal sabbatical to (a) spend more **time with my
 
 
 ## 2006 – 2012: Doctoral thesis (PhD)
-Phytoplankton consists of microorganisms mostly belonging to the realm of plants.
+
+<!--- Phytoplankton consists of microorganisms mostly belonging to the realm of plants. --->
+
 * **Ecology** (summa cum laude)
 * **Location**: [University of Potsdam](http://www.uni-potsdam.de/) (Germany)
 * **Project title**: _Dynamic behaviour of phytoplankton populations far from steady-state – chemostat experiments and mathematical modelling._
@@ -29,7 +31,7 @@ Phytoplankton consists of microorganisms mostly belonging to the realm of plants
 
 ## 2005: Diploma thesis (M.Sc.)
 
-/* I received my diploma in Biology in 2005 by successfully graduating in the subjects Ecology & Nature conservation, Limnology, Microbiology, and Botany. In my diploma thesis I dealed with the occurence of harmful algae blooms (HABs), i.e., mass occurrences of specific (phyto-)plankton species that can cause harm to people and other species sharing the same environment. HABs occur almost everywhere on earth, in marine and fresh water environments. */
+<!--- I received my diploma in Biology in 2005 by successfully graduating in the subjects Ecology & Nature conservation, Limnology, Microbiology, and Botany. In my diploma thesis I dealed with the occurence of harmful algae blooms (HABs), i.e., mass occurrences of specific (phyto-)plankton species that can cause harm to people and other species sharing the same environment. HABs occur almost everywhere on earth, in marine and fresh water environments. --->
 
 * **Ecology & Nature conservation, Limnology, Microbiology, and Botany**
 * **Location**: [University of Potsdam](http://www.uni-potsdam.de/) (Germany)
