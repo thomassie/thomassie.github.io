@@ -30,13 +30,13 @@ Well, biology and nature conservation have always been and still are at the core
 
 I have a broad knowledge and interest in various fields of biology. By training, my main expertise is within 
 
-	* theoretical ecology (population / community dynamics, interactions, networks...)
-	* nature conservation in general (concepts, 
-	* aquatic systems, especially freh water (limnology)
-	* microbiology
-
+  * theoretical ecology (population / community dynamics, interactions, networks...)
+  * nature conservation in general (concepts, 
+  * aquatic systems, especially freh water (limnology)
+  * microbiology
 
 More applied
+
 
 ### ...Education
 
