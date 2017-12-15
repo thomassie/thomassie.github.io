@@ -36,7 +36,7 @@ I have a broad knowledge and interest in various fields of biology. By training,
 
 However, I always felt that, although being a theoretical ecologist, I have to be familiar with the environment that surrounds me. Thus, I spend a lot of my spare time outdoors. To me, it would be an odd situation if my kids or friends ask me about a specific plant or animal and I could not tell them anything about it. And actually, this is not only odd, but also a bit dodgy. Imagine you are modelling a system, describe life cycles and interactions, but actually, you do not have any idea about the characteristics of these organisms and the environment they live in. That does make only limited sense to me, if so at all. 
 
-That is, I am pretty familiar with the regions in which I used to live (Upper Swabia, Lake Constance, Hesse, Brandenburg/Berlin, Zurich) and the respective types of habitats one can find there. It would be great being involved in a way more applied form of nature conservation compared ti what I have done so far.
+That is, I am pretty familiar with the regions in which I used to live (Upper Swabia, Lake Constance, Hesse, Brandenburg/Berlin, Zurich) and the respective types of habitats one can find there. It would be great being involved in a way more applied form of nature conservation compared to what I have done so far.
 
 
 ### ...Education
