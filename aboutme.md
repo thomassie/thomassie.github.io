@@ -29,7 +29,6 @@ I belive that information, even of the highly complex kind, can be communicated 
 Well, biology and nature conservation have always been and still are at the core of all my activities. I draw my motivation fromm the idea of contributing in whatever way to the preservation of our environment and a sustainable way of living. 
 
 I have a broad knowledge and interest in various fields of biology. By training, my main expertise is within 
-
   * theoretical ecology (population / community dynamics, interactions, networks...)
   * nature conservation in general (concepts, 
   * aquatic systems, especially freh water (limnology)
