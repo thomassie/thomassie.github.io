@@ -32,7 +32,7 @@ I have a broad knowledge and interest in various fields of biology. By training,
   * theoretical ecology (population / community dynamics, interactions, networks...)
   * nature conservation in general
   * aquatic systems, especially fresh water (lakes and rivers; i.e., limnology)
-  * microbiology (microorganisms, their life cycles, model organisms...)
+  * microbiology (microorganisms, life cycles, ecology, use as model organisms...)
 
 However, I always felt that, although being a theoretical ecologist, I have to be familiar with the environment that surrounds me. Thus, I spend a lot of my spare time outdoors. To me, it would be an odd situation if my kids or friends ask me about a specific plant or animal and I could not tell them anything about it. And actually, this is not only odd, but also a bit dodgy. Imagine you are modelling a system, describe life cycles and interactions, but actually, you do not have any idea about the characteristics of these organisms and the environment they live in. That does make only limited sense to me, if so at all. 
 
