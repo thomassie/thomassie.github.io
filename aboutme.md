@@ -29,10 +29,12 @@ I belive that information, even of the highly complex kind, can be communicated 
 Well, biology and nature conservation have always been and still are at the core of all my activities. I draw my motivation fromm the idea of contributing in whatever way to the preservation of our environment and a sustainable way of living. 
 
 I have a broad knowledge and interest in various fields of biology. By training, my main expertise is within 
+
 	* theoretical ecology (population / community dynamics, interactions, networks...)
-    * nature conservation in general (concepts, 
-    * aquatic systems, especially freh water (limnology)
-    * microbiology
+	* nature conservation in general (concepts, 
+	* aquatic systems, especially freh water (limnology)
+	* microbiology
+
 
 More applied
 
@@ -40,7 +42,8 @@ More applied
 
 I love explaining nature – its organimsms, patterns, interactions and so on – to kids and grown-ups likewise. Telling people about what is right in front of their noses and showing 
 When you see that they enjoy it, you know that they will .  
-   That is one of the most rewarding things you can experience. This and the fact that you can change things to the better is why I would love being involved in any kind of education projects.
+
+That is one of the most rewarding things you can experience. This and the fact that you can change things to the better is why I would love being involved in any kind of education projects.
 
 
 
