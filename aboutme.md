@@ -30,11 +30,13 @@ Well, biology and nature conservation have always been and still are at the core
 
 I have a broad knowledge and interest in various fields of biology. By training, my main expertise is within 
   * theoretical ecology (population / community dynamics, interactions, networks...)
-  * nature conservation in general (concepts, 
-  * aquatic systems, especially freh water (limnology)
-  * microbiology
+  * nature conservation in general
+  * aquatic systems, especially fresh water (lakes and rivers; i.e., limnology)
+  * microbiology (microorganisms, their life cycles, model organisms...)
 
-More applied
+However, I always felt that, although being a theoretical ecologist, I have to be familiar with the environment that surrounds me. To me, it would be an odd situation if my kids or friends ask me about a specific plant or animal and I could not tell them anything about it. And actually, this is not only odd, but also a bit dodgy. Imagine you are modelling a system, describe life cycles and interactions, but actually, you do not have any idea about the characteristic of these organisms. That does make only limited sense to me, if so at all.
+
+That is, I am familiar with the regions in which I used to live (Upper Swabia, Lake Constance, Hesse, Brandenburg/Berlin, Zurich) and the ecosystems occurring there ().
 
 
 ### ...Education
