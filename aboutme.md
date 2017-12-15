@@ -6,7 +6,8 @@ published: true
 ---
 ![TMM_ValMingere.jpg]({{site.baseurl}}/img/TMM_ValMingere.jpg)
 
-My name is Thomas M. Massie and I am a biologist / ecologist. 
+My name is Thomas M. Massie and I am a biologist / ecologist.
+
 I have a background in theoretical ecology. That is, I am adressing fundamental ecological processes such as (resource) competition, predator-prey interactions, synchrony among and within populations and so on. These processes influences the dynamic bahaviour of single individuals, populations, and, of course, entire communities since no species is isolated from others within an ecosystem.  
 
 At the same time I am also an experimental ecologist. I really enhoy designing and performing experiments that yield accurate and reproducable data – which can be quite challenging when it comes to keeping away any disturbing influences that may lead to additional, unwanted 'noise'. Hence, it is absolutely worth choosing an experimental system that delivers data to adequately inform your models. Because, your analysis, the insights you derive from these, as well as the forecasts you make can be only as good as the data you work with. 
