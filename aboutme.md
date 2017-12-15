@@ -10,7 +10,7 @@ My name is Thomas M. Massie and I am a biologist / ecologist.
 
 I have a background in theoretical ecology. That is, I am adressing fundamental ecological processes such as (resource) competition, predator-prey interactions, synchrony among and within populations and so on. These processes influences the dynamic bahaviour of single individuals, populations, and, of course, entire communities since no species is isolated from others within an ecosystem.  
 
-At the same time I am also an experimental ecologist. I really enhoy designing and performing experiments that yield accurate and reproducable data – which can be quite challenging when it comes to keeping away any disturbing influences that may lead to additional, unwanted 'noise'. Hence, it is absolutely worth choosing an experimental system that delivers data to adequately inform your models. Because, your analysis, the insights you derive from these, as well as the forecasts you make can be only as good as the data you work with. 
+At the same time I am also an experimental ecologist. I really enhoy designing and performing experiments that yield accurate and reproducable data – which can be quite challenging when it comes to keeping away any disturbing influences that may lead to additional, unwanted 'noise'. Hence, it is absolutely worth choosing an experimental system that delivers data to adequately inform your models. Because, your analysis, the insights you infer from these, as well as the forecasts you make can be only as good as the data you work with. 
 
 After 4.5 years working as a postdoc at the University of Zurich, I recently decided to stop my academic career to take a personal sabbatical and start a new chapter by working in...
 
@@ -25,7 +25,19 @@ I belive that information, even of the highly complex kind, can be communicated 
 
 
 ### ...Nature Conservation
-Well, biology and nature conservation is 
+
+Well, biology and nature conservation have always been and still are at the core of all activities. I 
 
 
 ### ...Education
+
+
+
+
+
+
+
+
+
+
+
