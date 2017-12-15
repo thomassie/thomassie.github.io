@@ -21,8 +21,7 @@ I love to search data for patterns that surprise me. Do not get me wrong! It is 
 
 It is these surpising elements that make them also challenging when it comes to communication. Because what you already know is easy to understand, often by intuition. But unknown facts and patterns are far more complicated being made accessible to your mind. And that is where good communication comes into play. 
 
-I belive that information, even of the highly complex kind, can be communicated to (almost) any audience. But therefore you have to know your audience and be aware of available communication tools. And, maybe not that easy for scientists, you have to do the splits between accurately reflecting data and facts, and the degree of simplification that is necessary to make them graspable for your audience.
-
+I belive that information, even of the highly complex kind, can be communicated to (almost) any audience. But therefore you have to know your audience and be aware of available communication tools. And, maybe not that easy for scientists, you have to do the splits between accurately reflecting data and facts, and the degree of simplification that is necessary to make them graspable for your audience. A challenge, but a very cool one! 
 
 
 ### ...Nature Conservation
