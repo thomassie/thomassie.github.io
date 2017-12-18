@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+subtitle: ''
 # subtitle: 'Who I am, what I am doing, and how I am doing it.'
 published: true
 ---
