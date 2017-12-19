@@ -3,7 +3,7 @@ layout: page
 title: About me
 published: true
 ---
-![TMM_ValMingere.jpg]({{site.baseurl}}/img/TMM_ValMingere.jpg)
+![TMM_ValMingere_b.jpg]({{site.baseurl}}/img/TMM_ValMingere_b.jpg)
 
 My name is Thomas M. Massie and I am a biologist / ecologist.
 
