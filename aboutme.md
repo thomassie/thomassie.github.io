@@ -40,7 +40,12 @@ That is, I am pretty familiar with the regions in which I used to live (Upper Sw
 
 ### ...Education
 
-I believe that people only preserve what they are aware of. 
+I believe that most people only preserve what they are aware of. You have heard about slaughtered rhinos, sharks being killed for their fins, or polar bears dying because of melting ice making it impossible for them to hunt. Any human being has to be aware of the fact that nature's condition is not good, and it is getting visibly worse.
+
+Documentaries from BBC and others do an amazing job in reaching a vast number of people showing them nature's beauty, curiosities and wonders. Having said that, it is also a bit disapointing that the direct environment many viewers live in gets much less attention.
+
+
+That is why awareness training is so important. 
 
 I love explaining nature – phenomena, patterns, organimsms, interactions and so on – to kids and grown-ups likewise. Telling people about what is right in front of them but they are not at all aware of it, is something really nice. 
 
