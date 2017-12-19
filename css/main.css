@@ -43,12 +43,12 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 200;   /* original: 800 */
 }
 a {
-  color: #004C7A;   /* org.: #008AFF */
+  color: #335987;   /* org.: #008AFF */
 }
 a:hover,
 a:focus {
   /*color: #FFB13D;   /* org.: #0085a1; */
-  color: #46637A;
+  color: #004C7A;
 }
 blockquote {
   color: #808080;
