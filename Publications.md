@@ -3,6 +3,8 @@ layout: page
 title: Publications
 published: true
 ---
+![Publications.jpg]({{site.baseurl}}/img/Publications.jpg)
+
 ## Scientific, peer-reviewed publications
 
 Petchey, O. L., M. Pontarp, **T. M. Massie**, F. Altermatt, A. Beckerman, D. Childs, S. Kéfi, J. Levine, B. Matthews, B. McGill, A. Ozgul, G. M. Palamara, F. Pennekamp, M. Schaepmann, P. Spaak, M. Weilenmann (**2015**) _The Ecological Forecast Horizon, and examples of its uses and determinants._  [Ecology Letters](http://onlinelibrary.wiley.com/doi/10.1111/ele.12443/full) 18: 597–611  
@@ -19,4 +21,3 @@ Altermatt, F., E. A. Fronhofer, A. Garnier, A. Giometto, F. Hammes, J. Klecka, D
 ## Other publications
 
 Photgraphic work. Topic: Time. [Portal Wissen - Das Forschungsmagazin der Universität Potsdam](https://www.uni-potsdam.de/fileadmin01/projects/up-entdecken/docs/portal_wissen/2014/Portal_Wissen_2014_2.pdf) (**2014**)
-
