@@ -3,7 +3,7 @@ layout: page
 title: Publications
 published: true
 ---
-![Publications.jpg]({{site.baseurl}}/img/Publications.jpg)
+![Publications_all.jpg]({{site.baseurl}}/img/Publications_all.jpg)
 
 ## Scientific, peer-reviewed publications
 
