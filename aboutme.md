@@ -3,7 +3,7 @@ layout: page
 title: About me
 published: true
 ---
-![TMM_Chaiserstock_08.jpg]({{site.baseurl}}/img/TMM_Chaiserstock_08.jpg)
+![TMM_Chaiserstock_09.jpg]({{site.baseurl}}/img/TMM_Chaiserstock_09.jpg)
 
 My name is Thomas M. Massie and I am a biologist / ecologist.
 
