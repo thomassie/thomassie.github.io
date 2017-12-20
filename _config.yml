@@ -28,10 +28,10 @@ navbar-links:
   Publications: "Publications"
   Projects:
     - RShiny: "RShiny"
+  Photography: "http://thomasmmassie.com"
   Resources:
     - GitHub: "https://github.com/thomassie"
     - stackoverflow: "https://stackoverflow.com/users/8642015/thomas-massie?tab=profile"
-  Photography: "http://thomasmmassie.com"
   Links:
     - Former University Profile: "http://www.ieu.uzh.ch/en/staff/former_member/massie_thomas.html"
     - Google Scholar Profile: "https://scholar.google.ch/citations?user=99uT1l4AAAAJ&hl=en"
