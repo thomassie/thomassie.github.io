@@ -26,8 +26,9 @@ navbar-links:
   About Me: "aboutme"
   CV: "CV"
   Publications: "Publications"
+  Projects:
+    - RShiny: "RShiny"
   Resources:
-    - RShiny: "https://thomassie.shinyapps.io/climatedataapp/"
     - GitHub: "https://github.com/thomassie"
     - stackoverflow: "https://stackoverflow.com/users/8642015/thomas-massie?tab=profile"
   Photography: "http://thomasmmassie.com"
