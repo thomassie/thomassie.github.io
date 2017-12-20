@@ -31,7 +31,7 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #B48B2D;   /* org.: #008AFF */
+  color: #335987;   /* org.: #008AFF */
 }
 h1,h2,h3,h4,h5,h6 {
 /* font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
@@ -48,7 +48,7 @@ a {
 a:hover,
 a:focus {
   /*color: #FFB13D;   /* org.: #0085a1; */
-  color: #004C7A;
+  color: #608782;
 }
 blockquote {
   color: #808080;
