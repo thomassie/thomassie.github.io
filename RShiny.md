@@ -7,10 +7,10 @@ published: true
 Here you can find some projects that I have done using the R package [RShiny](https://shiny.rstudio.com/). Shiny allows to make interactive web apps straight from R. That is, people who are not familiar with R code are given the opportunity to explore data and infer insights from it. Really nice!
 
 
-  * [**Time-discrete logistic growth**](##time-discrete-logistic-growth):
+  * [**Discrete logistic growth**](###discrete-logistic-growth):
     Time-discrete population growth, the road to chaos, and a comparison to the case when additional, demographic stochasticity is present.
   * [**Climate data**](###climate-data): Have look at the climate of specific countries and regions in the world and how average temperatures changed there.
-  * [**Hurricanes and typhoons**](##hurricanes-and-typhoons): Get an idea about hurricanes and typhoons: their paths and strengths, as well as a couple of summary statistics.
+  * [**Hurricanes and typhoons**](###hurricanes-and-typhoons): Get an idea about hurricanes and typhoons: their paths and strengths, as well as a couple of summary statistics.
 
 
 
