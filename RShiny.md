@@ -14,7 +14,9 @@ Here you can find some projects that I have done using the R package [RShiny](ht
 
 ## Discrete logistic growth
 
-Imagine an organism that propagates once a year, and all individuals within a population do so at the same point in time. This is the case for many, many living creatures, especially when their life cycle is influenced by seasons. That is, there are specific conditions during a year that are more favourable than others for fathering and raising offspring. Without any restrictions related to population density (food, diseases, competition...) such an organisms would show exponential growth. For example, if any individual would create two descendants, then the population would evolve according to 2<sup>n</sup>.   
+Imagine an organism that propagates once a year, and all individuals within a population do so at the same point in time. This is the case for many, many living creatures, especially when their life cycle is influenced by seasons. That is, there are specific conditions during a year that are more favourable than others for fathering and raising offspring. Without any restrictions related to population density (food, diseases, competition...) such an organisms would show exponential growth. For example, if any individual would create two descendants, then the population would evolve according to 2<sup>n</sup>, with n being the number of reproduction cycles, i.e., years.
+
+However, we all know that no population growths without limits. There are certain factors that regulate the number of individuals, such as the availability of resources (food, space...), or the susceptibility to diseases. These factors are related to the number of individuals living in a given space, that is population density. Therefore, these growth-limiting factors are called density-dependent.
 [here](https://thomassie.shinyapps.io/logisticgrowthtimediscrete/)
 
 ![LogisticGrowth.png]({{site.baseurl}}/img/LogisticGrowth.png)  
