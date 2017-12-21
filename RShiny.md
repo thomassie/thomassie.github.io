@@ -14,7 +14,7 @@ Here you can find some projects that I have done using the R package [RShiny](ht
 
 ## Discrete logistic growth
 
-Imagine an organism that propagates once a year, and all individuals within a population do so at the same point in time. This is the case for many, many living creatures, especially when their life cycle is influenced by seasons. That is, there are specific conditions during a year that are more favourable than others for fathering and raising offspring. Without any restrictions related to population density (food, diseases, competition...) such an organisms would show exponential growth. For example, if any individual would create two descendants, then the population would evolve according to $2^n$ \alpha.  
+Imagine an organism that propagates once a year, and all individuals within a population do so at the same point in time. This is the case for many, many living creatures, especially when their life cycle is influenced by seasons. That is, there are specific conditions during a year that are more favourable than others for fathering and raising offspring. Without any restrictions related to population density (food, diseases, competition...) such an organisms would show exponential growth. For example, if any individual would create two descendants, then the population would evolve according to 2<sup>n.   
 [here](https://thomassie.shinyapps.io/logisticgrowthtimediscrete/)
 
 ![LogisticGrowth.png]({{site.baseurl}}/img/LogisticGrowth.png)  
