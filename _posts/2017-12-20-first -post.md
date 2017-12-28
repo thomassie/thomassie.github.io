@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New site, first post!
-image: /img/Thomas_Sardona_01_smaller.png
+image: /img/Thomas_Sardona_01.png
 tags: [random, exciting-stuff, news]
 published: true
 ---
