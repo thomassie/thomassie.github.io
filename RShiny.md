@@ -4,7 +4,7 @@ title: R Shiny
 published: true
 ---
 
-Here you can find some projects that I have done using the R package [RShiny](https://shiny.rstudio.com/). Shiny allows to make interactive web apps straight from R. That is, people who are not familiar with R code are given the opportunity to explore data and infer insights from it. Really nice!
+Here you can find some projects that I have done using the R package [R Shiny](https://shiny.rstudio.com/). Shiny allows to make interactive web apps straight from R. That is, people who are not familiar with R code are given the opportunity to explore data and infer insights from it. Really nice!
 
   * [**Discrete logistic growth**](###discrete-logistic-growth):
     Time-discrete population growth, the road to chaos, and a comparison to the case when additional, demographic stochasticity is present.
