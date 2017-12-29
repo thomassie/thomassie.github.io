@@ -7,7 +7,7 @@ published: true
 Whenever I can I spent my spare-time outdoors. Nature is recreation, inspiration, and playground all at the same time. And to me, it is the all-you-need, all-in-one package.
 
 
-#### Zurich
+### Zurich
 ![Photography_Zurich_02.jpg]({{site.baseurl}}/img/Photography_Zurich_02.jpg)  
 
 ![Photography_Zurich_01.jpg]({{site.baseurl}}/img/Photography_Zurich_01.jpg)  
