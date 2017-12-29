@@ -15,35 +15,35 @@ Whenever I can I spent my spare-time outdoors. Nature is recreation, inspiration
 ![Photography_Fuchsenloch_02.jpg]({{site.baseurl}}/img/Photography_Fuchsenloch_02.jpg)  
   
 
-## Mountains
+### Mountains
 ![Photography_Calanca_01.jpg]({{site.baseurl}}/img/Photography_Calanca_01.jpg)  
 ![Photography_Chaiserstock_01.jpg]({{site.baseurl}}/img/Photography_Chaiserstock_01.jpg)  
 
-**Animals**  
+### Animals  
 ![Photography_Slow_worm_01.jpg]({{site.baseurl}}/img/Photography_Slow_worm_01.jpg)   
 ![Photography_Mosquito_01.jpg]({{site.baseurl}}/img/Photography_Mosquito_01.jpg)  
 
-**Moods**
+### Moods
 
 
 
-**Abstract**
+### Abstract
 ![Photography_Euphorbia_01.jpg]({{site.baseurl}}/img/Photography_Euphorbia_01.jpg)  
+![Photography_BlueBlossom_01.jpg]({{site.baseurl}}/img/Photography_BlueBlossom_01.jpg)  
 
-
-**Black & White**
-
-
-
-**Macro**
+### Black & White
 
 
 
-**Architecture**
+### Macro
 
 
 
-**Documentary**
+### Urban
+
+
+
+### Documentary
 
 
 
