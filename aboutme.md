@@ -48,7 +48,7 @@ I love explaining nature – phenomena, patterns, organimsms, interactions and s
 
 Giving people of any age an understanding of nature is one of the most rewarding things I can imagine. This and the fact that you can change the current situation to the better is why I would love being involved in any kind of education projects dealing with nature and/or natural sciences.  
 
-![Photography_Education_01_round.png]({{site.baseurl}}/img/Photography_Education_01_round.png) 
+![Photography_Education_01_round_ext.jpg]({{site.baseurl}}/img/Photography_Education_01_round_ext.jpg) 
 
 
 
