@@ -107,10 +107,15 @@ img {
 }
 
 /* TMM: Inserted this to always center images. */
-img[src$="centerme"] {
+img.center {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+/*img[src$="centerme"] {
   display:block;
   margin: 0 auto;
-}
+}*/
 
 .disqus-comments {
   margin-top: 30px;
