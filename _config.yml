@@ -28,7 +28,7 @@ navbar-links:
   Publications: "Publications"
   Projects:
     - RShiny: "RShiny"
-  Photography: "Photography"
+  #Photography: "Photography"
   Resources:
     - GitHub: "https://github.com/thomassie"
     - stackoverflow: "https://stackoverflow.com/users/8642015/thomas-massie?tab=profile"
