@@ -46,7 +46,11 @@ But having said that, I see that the direct environment many viewers live in get
 
 I love explaining nature – phenomena, patterns, organimsms, interactions and so on – to kids and grown-ups likewise. I often do this at my kids' kindergarten ([Freier Chindsgi Hoenggerberg](http://chindsgi-hoenggerberg.ch/)). It is fun to show them slow-worms, common toads or alpine newts. Some have never seen a slow-worm and understandably believe that it is a snake. Common toads are not frogs and they can get along pretty well without water. However, at some point in their life it is cricial because of their amphibian way of life. And this lets one also explain the similarities between an alpine newt and the famous axolotl. 
 
-Giving people of any age an understanding of nature is one of the most rewarding things I can imagine. This and the fact that you can change the current situation to the better is why I would love being involved in any kind of education projects dealing with nature and/or natural sciences.
+Giving people of any age an understanding of nature is one of the most rewarding things I can imagine. This and the fact that you can change the current situation to the better is why I would love being involved in any kind of education projects dealing with nature and/or natural sciences.  
+
+![Photography_Education_01.jpg]({{site.baseurl}}/img/Photography_Education_01.jpg) 
+
+
 
 
 
