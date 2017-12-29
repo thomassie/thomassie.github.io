@@ -15,7 +15,7 @@ Whenever I can I spent my spare-time outdoors. Nature is recreation, inspiration
 ![Photography_Fuchsenloch_02.jpg]({{site.baseurl}}/img/Photography_Fuchsenloch_02.jpg)  
   
 
-**Mountains**  
+## Mountains
 ![Photography_Calanca_01.jpg]({{site.baseurl}}/img/Photography_Calanca_01.jpg)  
 ![Photography_Chaiserstock_01.jpg]({{site.baseurl}}/img/Photography_Chaiserstock_01.jpg)  
 
