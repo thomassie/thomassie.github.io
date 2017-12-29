@@ -28,7 +28,7 @@ Whenever I can I spent my spare-time outdoors. Nature is recreation, inspiration
 
 
 **Abstract**
-
+![Photography_Euphorbia_01.jpg]({{site.baseurl}}/img/Photography_Euphorbia_01.jpg)  
 
 
 **Black & White**
