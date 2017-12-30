@@ -19,7 +19,7 @@ Whenever I can I spent my spare-time outdoors. Nature is recreation, inspiration
 ### Landscapes
 ![Photography_Snowy_01.jpg]({{site.baseurl}}/img/Photography_Snowy_01.jpg)
 <!---{:.image-caption}-->
-*A spruce grove peacfully surrounded by snow and clouds. (Wertacher Hoernle, Allgäu, Germany; 2015. See [Google maps](https://www.google.de/maps/place/Wertacher+H%C3%B6rnle/@47.5455537,10.3713793,14z/data=!3m1!4b1!4m5!3m4!1s0x479c88a0bc99ad3d:0x61830788aa4221e7!8m2!3d47.5455556!4d10.3888889!5m1!1e4))*
+*A spruce grove peacfully surrounded by snow and clouds. (Wertacher Hörnle, Allgäu, Germany; 2015. See [Google maps](https://www.google.de/maps/place/Wertacher+H%C3%B6rnle/@47.5455537,10.3713793,14z/data=!3m1!4b1!4m5!3m4!1s0x479c88a0bc99ad3d:0x61830788aa4221e7!8m2!3d47.5455556!4d10.3888889!5m1!1e4))*
 
 ![Photography_Chaiserstock_01.jpg]({{site.baseurl}}/img/Photography_Chaiserstock_01.jpg)
 <!---{:.image-caption}-->
