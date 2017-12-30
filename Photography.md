@@ -8,16 +8,22 @@ Whenever I can I spent my spare-time outdoors. Nature is recreation, inspiration
 
 
 ### Zurich
-![Photography_Zurich_02.jpg]({{site.baseurl}}/img/Photography_Zurich_02.jpg)  
+![Photography_Zurich_02.jpg]({{site.baseurl}}/img/Photography_Zurich_02.jpg)
+<!---{:.image-caption}-->
+*rih3rh*
 
-![Photography_Zurich_01.jpg]({{site.baseurl}}/img/Photography_Zurich_01.jpg)  
+![Photography_Zurich_01.jpg]({{site.baseurl}}/img/Photography_Zurich_01.jpg)
+<!---{:.image-caption}-->
+*rih3rh*
 
 ### Landscapes
-![Photography_Snowy_01.jpg]({{site.baseurl}}/img/Photography_Snowy_01.jpg)  
-
-![Photography_Chaiserstock_01.jpg]({{site.baseurl}}/img/Photography_Chaiserstock_01.jpg) 
+![Photography_Snowy_01.jpg]({{site.baseurl}}/img/Photography_Snowy_01.jpg)
 <!---{:.image-caption}-->
-*A beautiful sunset close to Chaiserstock, a mountain at the border of the Swiss cantons Schwyz and Uri.  
+*rih3rh*
+
+![Photography_Chaiserstock_01.jpg]({{site.baseurl}}/img/Photography_Chaiserstock_01.jpg)
+<!---{:.image-caption}-->
+* While looking for a spot to roll out my sleeping pad, the sun beautifully sets close to Chaiserstock, a mountain at the border of the Swiss cantons Schwyz and Uri.  
 ([Google maps](https://www.google.de/maps/place/Chaiserstock/@46.9283654,8.7198237,3181m/data=!3m2!1e3!4b1!4m5!3m4!1s0x4785465b7017563f:0x7ebcbd1e8cd02f7c!8m2!3d46.9283663!4d8.7285785) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2697735.56&N=1198374.07&zoom=7.83192809488736))*
 
 ### Mountains
@@ -28,7 +34,10 @@ Whenever I can I spent my spare-time outdoors. Nature is recreation, inspiration
 ### Animals  
 ![Photography_Slow_worm_01.jpg]({{site.baseurl}}/img/Photography_Slow_worm_01.jpg)   
 
-![Photography_Mosquito_01.jpg]({{site.baseurl}}/img/Photography_Mosquito_01.jpg)  
+![Photography_Mosquito_01.jpg]({{site.baseurl}}/img/Photography_Mosquito_01.jpg) 
+
+### Plants
+
 
 ### Moods
 
