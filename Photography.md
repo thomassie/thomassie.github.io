@@ -19,7 +19,7 @@ Whenever I can I spent my spare-time outdoors. Nature is recreation, inspiration
 ### Landscapes
 ![Photography_Snowy_01.jpg]({{site.baseurl}}/img/Photography_Snowy_01.jpg)
 <!---{:.image-caption}-->
-*A spruce grove surrounded by snow and clouds. *
+*A spruce grove surrounded by snow and clouds.*
 
 ![Photography_Chaiserstock_01.jpg]({{site.baseurl}}/img/Photography_Chaiserstock_01.jpg)
 <!---{:.image-caption}-->
