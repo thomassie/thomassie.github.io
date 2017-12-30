@@ -11,7 +11,7 @@ I have a background in theoretical ecology. That is, I am adressing fundamental 
 
 At the same time I am also an experimental ecologist. I really enjoy designing and performing experiments that yield accurate and reproducable data – which can be quite challenging when it comes to avoiding any disturbing influences that may lead to additional, unwanted 'noise'. Hence, it is absolutely worth choosing an experimental system that delivers reliable data to adequately inform your models. Because, your analysis, the insights you infer from these, as well as any forecasts you make can be only as good as the data you work with.  
 
-After 4.5 years working as a postdoc at the University of Zurich, I recently decided to stop my academic career, take a personal sabbatical and start a new chapter by working in...
+After 4.5 years working as a postdoc at the University of Zurich, I recently decided to stop my academic career for now, take a personal sabbatical and start a new chapter by working in...
 
 
 ### ...Data Science & Information Design
