@@ -15,15 +15,14 @@ Whenever I can I spent my spare-time outdoors. Nature is recreation, inspiration
 ### Landscapes
 ![Photography_Snowy_01.jpg]({{site.baseurl}}/img/Photography_Snowy_01.jpg)  
 
-![Photography_Fuchsenloch_02.jpg]({{site.baseurl}}/img/Photography_Fuchsenloch_02.jpg) 
+![Photography_Chaiserstock_01.jpg]({{site.baseurl}}/img/Photography_Chaiserstock_01.jpg) 
 {:.image-caption}
 *The caption for my image*
-  
 
 ### Mountains
-![Photography_Calanca_01.jpg]({{site.baseurl}}/img/Photography_Calanca_01.jpg)  
+![Photography_Sardonna_01.jpg]({{site.baseurl}}/img/Photography_Sardonna_01.jpg)  
 
-![Photography_Chaiserstock_01.jpg]({{site.baseurl}}/img/Photography_Chaiserstock_01.jpg)  
+![Photography_Joeri_01.jpg]({{site.baseurl}}/img/Photography_Joeri_01.jpg)  
 
 ### Animals  
 ![Photography_Slow_worm_01.jpg]({{site.baseurl}}/img/Photography_Slow_worm_01.jpg)   
@@ -37,14 +36,14 @@ Whenever I can I spent my spare-time outdoors. Nature is recreation, inspiration
 ### Abstract
 ![Photography_Euphorbia_01.jpg]({{site.baseurl}}/img/Photography_Euphorbia_01.jpg)  
 
-![Photography_BlueBlossom_01.jpg]({{site.baseurl}}/img/Photography_BlueBlossom_01.jpg)  
+ 
 
 ### Black & White
 
 
 
 ### Macro
-
+![Photography_BlueBlossom_01.jpg]({{site.baseurl}}/img/Photography_BlueBlossom_01.jpg) 
 
 
 ### Urban
