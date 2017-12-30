@@ -15,7 +15,9 @@ Whenever I can I spent my spare-time outdoors. Nature is recreation, inspiration
 ### Landcapes
 ![Photography_Snowy_01.jpg]({{site.baseurl}}/img/Photography_Snowy_01.jpg)  
 
-![Photography_Fuchsenloch_02.jpg]({{site.baseurl}}/img/Photography_Fuchsenloch_02.jpg) {:.image-caption} *The caption for my image*
+![Photography_Fuchsenloch_02.jpg]({{site.baseurl}}/img/Photography_Fuchsenloch_02.jpg) 
+{:.image-caption}
+*The caption for my image*
   
 
 ### Mountains
