@@ -16,8 +16,8 @@ Whenever I can I spent my spare-time outdoors. Nature is recreation, inspiration
 ![Photography_Snowy_01.jpg]({{site.baseurl}}/img/Photography_Snowy_01.jpg)  
 
 ![Photography_Chaiserstock_01.jpg]({{site.baseurl}}/img/Photography_Chaiserstock_01.jpg) 
-{:.image-caption}
-*The caption for my image*
+<!---{:.image-caption}-->
+*A beautiful sunset below Chaiserstock, a mountain at the border of the Swiss cantons Schwyz and Uri. [map](https://www.google.de/maps/place/Chaiserstock/@46.9283654,8.7198237,3181m/data=!3m2!1e3!4b1!4m5!3m4!1s0x4785465b7017563f:0x7ebcbd1e8cd02f7c!8m2!3d46.9283663!4d8.7285785)*
 
 ### Mountains
 ![Photography_Sardonna_01.jpg]({{site.baseurl}}/img/Photography_Sardonna_01.jpg)  
