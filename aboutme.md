@@ -20,9 +20,9 @@ I love to search data for patterns that surprise me. Do not get me wrong! It is 
 
 It is these surpising elements that make them also challenging when it comes to communication. Because what you already know is easy to understand, often by intuition. But unknown facts and patterns are far more complicated being made accessible to your mind. And that is where good communication comes into play.  
 
-I belive that information, even of the highly complex kind, can be communicated to (almost) any audience. But therefore you have to know your audience and be aware of available communication tools. And, maybe not that easy for scientists, you have to do the splits between accurately reflecting data and facts, and the degree of simplification that is necessary to make them graspable for your audience. A challenge, but a very cool one!  
+I belive that information, even of the highly complex kind, can be communicated to (almost) any audience. But therefore you have to know your audience and be aware of available communication tools. And, maybe not that easy for scientists, you have to do the splits between accurately reflecting data and facts, and the degree of simplification that is necessary to make them graspable for your audience. A challenge, but a very cool one!
 
-![Data_ext.jpg]({{site.baseurl}}/img/Data_ext.jpg)
+![Data_ext.jpg]({{site.baseurl}}/img/Data_ext.jpg)  
 
 
 ### ...Nature Conservation
@@ -37,9 +37,9 @@ I have a broad knowledge and interest in various fields of biology. By training,
 
 However, I always felt that, although being a theoretical ecologist, I have to be familiar with the environment that surrounds me. Thus, I spend a lot of my spare time outdoors. To me, it would be an odd situation if my kids or friends ask me about a specific plant or animal and I could not tell them anything about it. And actually, this is not only odd, but also a bit dodgy. Imagine you are modelling a system, describe life cycles and interactions, but actually, you do not have any idea about the characteristics of these organisms and the environment they live in. That does make only limited sense to me, if so at all.
 
-That is, I am pretty familiar with the regions in which I used to live (Upper Swabia, Lake Constance, Hesse, Brandenburg/Berlin, Zurich) and the respective types of habitats one can find there. It would be great being involved in a way more applied form of nature conservation compared to what I have done so far.  
+That is, I am pretty familiar with the regions in which I used to live (Upper Swabia, Lake Constance, Hesse, Brandenburg/Berlin, Zurich) and the respective types of habitats one can find there. It would be great being involved in a way more applied form of nature conservation compared to what I have done so far.
 
-![Edu_ext.jpg]({{site.baseurl}}/img/Edu_ext.jpg) 
+![Edu_ext.jpg]({{site.baseurl}}/img/Edu_ext.jpg)  
 
 
 ### ...Education
@@ -50,9 +50,9 @@ But having said that, I see that the direct environment many viewers live in get
 
 I love explaining nature – phenomena, patterns, organimsms, interactions and so on – to kids and grown-ups likewise. I often do this at my kids' kindergarten ([Freier Chindsgi Hoenggerberg](http://chindsgi-hoenggerberg.ch/)). It is fun to show them slow-worms, common toads or alpine newts. Some have never seen a slow-worm and understandably believe that it is a snake. Common toads are not frogs and they can get along pretty well without water. However, at some point in their life it is cricial because of their amphibian way of life. And this lets one also explain the similarities between an alpine newt and the famous axolotl. 
 
-Giving people of any age an understanding of nature is one of the most rewarding things I can imagine. This and the fact that you can change the current situation to the better is why I would love being involved in any kind of education projects dealing with nature and/or natural sciences.  
+Giving people of any age an understanding of nature is one of the most rewarding things I can imagine. This and the fact that you can change the current situation to the better is why I would love being involved in any kind of education projects dealing with nature and/or natural sciences.
 
-![Photography_Education_01_round_ext.jpg]({{site.baseurl}}/img/Photography_Education_01_round_ext.jpg) 
+![Photography_Education_01_round_ext.jpg]({{site.baseurl}}/img/Photography_Education_01_round_ext.jpg)  
 
 
 
