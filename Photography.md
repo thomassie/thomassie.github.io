@@ -23,9 +23,11 @@ published: true
 *An unnamed mountain peak above the remains of the Jöri glacier. (Next to Flüela Wisshorn, Grisons, Switzerland; 2014. See [Google maps](https://www.google.de/maps/place/Fl%C3%BCela+Wisshorn/@46.7681172,9.9670055,3190m/data=!3m1!1e3!4m5!3m4!1s0x47835edd1bcf944b:0x1645236d51bd13e4!8m2!3d46.7621491!4d9.9666971) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2793043.56&N=1182602.81&zoom=9.059999999999999).)*
 
 ### Animals  
-![Photography_Slow_worm_01.jpg]({{site.baseurl}}/img/Photography_Slow_worm_01.jpg)   
+![Photography_Slow_worm_01.jpg]({{site.baseurl}}/img/Photography_Slow_worm_01.jpg)
+*A slow-worm resting on a chilly spring afternoon. (Höngger Berg, Zurich, Switzerland; 2017.)*
 
-![Photography_Mosquito_01.jpg]({{site.baseurl}}/img/Photography_Mosquito_01.jpg) 
+![Photography_Mosquito_01.jpg]({{site.baseurl}}/img/Photography_Mosquito_01.jpg)
+*A mosquito waiting for the sun to warm it up. (Langenargen, Lake Constance, Germany; 2017.)*
 
 ### Plants
 
