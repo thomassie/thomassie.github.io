@@ -38,7 +38,7 @@ published: true
 
 ### Abstract
 ![Photography_Euphorbia_01.jpg]({{site.baseurl}}/img/Photography_Euphorbia_01.jpg)
-**
+*Leaves of an Euphorbia sp. plant. (Muothatal, Schwyz, Switzerland; 2016)*
 
  
 
