@@ -17,9 +17,10 @@ published: true
 
 ### Mountains
 ![Photography_Sardonna_01.jpg]({{site.baseurl}}/img/Photography_Sardonna_01.jpg)
-*View from Fuorcla Raschglius past the ridge of Fil de Cassons towards Engadine. [Google maps](https://www.google.de/maps/place/Fuorcla+Raschglius/@46.8836504,9.2649864,3183m/data=!3m1!1e3!4m5!3m4!1s0x4784d985ec903857:0xc5eb61c6409b873d!8m2!3d46.8875514!4d9.2581629) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2739400.96&N=1194291.14&zoom=7.488594761554028)*
+*View from Fuorcla Raschglius past the ridge of Fil de Cassons towards Engadine. (Hike from Bargis to Elm, Grisons, Siwtzerland. The Swiss tectonic arena Sardona is amazing and since 2008 an UNESCO world heritage. See [Google maps](https://www.google.de/maps/place/Fuorcla+Raschglius/@46.8836504,9.2649864,3183m/data=!3m1!1e3!4m5!3m4!1s0x4784d985ec903857:0xc5eb61c6409b873d!8m2!3d46.8875514!4d9.2581629) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2739400.96&N=1194291.14&zoom=7.488594761554028))*
 
-![Photography_Joeri_01.jpg]({{site.baseurl}}/img/Photography_Joeri_01.jpg)  
+![Photography_Joeri_01.jpg]({{site.baseurl}}/img/Photography_Joeri_01.jpg)
+*A mountain peak above the remains of the Jöri glacier. 
 
 ### Animals  
 ![Photography_Slow_worm_01.jpg]({{site.baseurl}}/img/Photography_Slow_worm_01.jpg)   
