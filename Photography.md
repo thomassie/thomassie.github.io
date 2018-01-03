@@ -27,7 +27,7 @@ published: true
 *A slow-worm resting on a chilly spring afternoon. (Höngger Berg, Zurich, Switzerland; 2017.)*
 
 ![Photography_Mosquito_01.jpg]({{site.baseurl}}/img/Photography_Mosquito_01.jpg)
-*A mosquito waiting for the sun to warm it up. (Langenargen, Lake Constance, Germany; 2017.)*
+*A mosquito (Tipula sp.) waiting for the sun to warm it up. (Langenargen, Lake Constance, Germany; 2017.)*
 
 ### Plants
 
@@ -37,7 +37,8 @@ published: true
 
 
 ### Abstract
-![Photography_Euphorbia_01.jpg]({{site.baseurl}}/img/Photography_Euphorbia_01.jpg)  
+![Photography_Euphorbia_01.jpg]({{site.baseurl}}/img/Photography_Euphorbia_01.jpg)
+**
 
  
 
