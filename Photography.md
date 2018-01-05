@@ -3,7 +3,7 @@ layout: page
 title: Photography
 published: true
 ---
-![TMM_FuorclaRaschaglius_01.jpg]({{site.baseurl}}/img/TMM_FuorclaRaschaglius_01.jpg)
+![TMM_FuorclaRaschaglius_02.jpg]({{site.baseurl}}/img/TMM_FuorclaRaschaglius_02.jpg)
 
 <!---Whenever I can I spent my spare-time outdoors. Nature is recreation, inspiration, and playground all at the same time. And to me, it is the all-you-need, all-in-one package.-->
 
