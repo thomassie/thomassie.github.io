@@ -33,9 +33,6 @@ published: true
 ![Photography_Wetterhorn_01.jpg]({{site.baseurl}}/img/Photography_Wetterhorn_01.jpg)
 *View from Nünalpstock to Berglistock, Wetterhorn, and Schreckhorn. (Bernese Oberland, Bern, Switzerland; 2015. See [Google maps](https://www.google.de/maps/place/Wetterhorn/@46.612957,8.1056487,12797m/data=!3m1!1e3!4m13!1m7!3m6!1s0x478f9ccc88c05cdf:0x4e0e685eedd6e167!2sSchreckhorn!3b1!8m2!3d46.5899!4d8.11818!3m4!1s0x478f9b3e9807434f:0xebe54706949d956d!8m2!3d46.6387486!4d8.1155813) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2653335.61&N=1164177.73&zoom=5.461928094887355).)*
 
-
-
-
 ### Animals  
 ![Photography_Slow_worm_01.jpg]({{site.baseurl}}/img/Photography_Slow_worm_01.jpg)
 *A slow-worm resting on a chilly spring afternoon. (Höngger Berg, Zurich, Switzerland; 2017.)*
@@ -73,6 +70,9 @@ published: true
 
 
 <!---!### Urban-->
+
+
+<!---!### Travel experiences-->
 
 
 ### Zurich
