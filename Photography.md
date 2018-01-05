@@ -72,7 +72,7 @@ published: true
 ![Photography_BlueBlossom_01.jpg]({{site.baseurl}}/img/Photography_BlueBlossom_01.jpg) 
 
 
-### Urban
+<!---!### Urban-->
 
 
 ### Zurich
