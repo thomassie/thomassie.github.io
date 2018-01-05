@@ -61,10 +61,10 @@ published: true
 
 ### Black & White
 
-![Photography_BW_Sardonna_02.jpg]({{site.baseurl}}/img/Photography_BW_Sardonna_02.jpg)
+![Photography_BW_Sardona_02.jpg]({{site.baseurl}}/img/Photography_BW_Sardona_02.jpg)
 *View from Fuorcla Raschglius past the ridge of Fil de Cassons towards Engadine. (Hike from Bargis to Elm, Grisons, Siwtzerland; 2016. The [Swiss tectonic arena Sardona](https://www.eda.admin.ch/aboutswitzerland/en/home/dossiers/unesco-welterbe--schutz-universeller-schaetze-/tektonikarena-sardona.html) is amazing and since 2008 an [UNESCO world heritage](http://whc.unesco.org/en/list/1179). See [Google maps](https://www.google.de/maps/place/Fuorcla+Raschglius/@46.8836504,9.2649864,3183m/data=!3m1!1e3!4m5!3m4!1s0x4784d985ec903857:0xc5eb61c6409b873d!8m2!3d46.8875514!4d9.2581629) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2739400.96&N=1194291.14&zoom=7.488594761554028).)*
 
-![Photography_BW_Sardonna_01.jpg]({{site.baseurl}}/img/Photography_BW_Sardonna_01.jpg)
+![Photography_BW_Sardona_01.jpg]({{site.baseurl}}/img/Photography_BW_Sardona_01.jpg)
 *View from Fuorcla Raschglius past the ridge of Fil de Cassons towards Engadine. (Hike from Bargis to Elm, Grisons, Siwtzerland; 2016. The [Swiss tectonic arena Sardona](https://www.eda.admin.ch/aboutswitzerland/en/home/dossiers/unesco-welterbe--schutz-universeller-schaetze-/tektonikarena-sardona.html) is amazing and since 2008 an [UNESCO world heritage](http://whc.unesco.org/en/list/1179). See [Google maps](https://www.google.de/maps/place/Fuorcla+Raschglius/@46.8836504,9.2649864,3183m/data=!3m1!1e3!4m5!3m4!1s0x4784d985ec903857:0xc5eb61c6409b873d!8m2!3d46.8875514!4d9.2581629) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2739400.96&N=1194291.14&zoom=7.488594761554028).)*
 
 ![Photography_BW_Chaiserstock_02.jpg]({{site.baseurl}}/img/Photography_BW_Chaiserstock_02.jpg)
