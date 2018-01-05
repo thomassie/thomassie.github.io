@@ -49,9 +49,6 @@ published: true
 ### Plants
 
 
-### Moods
-
-
 
 ### Abstract
 ![Photography_Euphorbia_01.jpg]({{site.baseurl}}/img/Photography_Euphorbia_01.jpg)
