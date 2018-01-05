@@ -11,6 +11,10 @@ published: true
 <!---{:.image-caption}-->
 *A spruce grove peacfully surrounded by snow and clouds. (Wertacher Hörnle, Allgäu, Germany; 2015. See [Google maps](https://www.google.de/maps/place/Wertacher+H%C3%B6rnle/@47.5455537,10.3713793,14z/data=!3m1!4b1!4m5!3m4!1s0x479c88a0bc99ad3d:0x61830788aa4221e7!8m2!3d47.5455556!4d10.3888889!5m1!1e4).)*  
 
+![Photography_Calanca_01.jpg]({{site.baseurl}}/img/Photography_Calanca_01.jpg)
+<!---{:.image-caption}-->
+*Indian summer in Calanca valley. (Calanca valley, Grissons, Switzerland; 2017. See [Google maps](https://www.google.de/maps/place/Val+Calanca/@46.3383324,9.0369065,25724m/data=!3m1!1e3!4m5!3m4!1s0x4784519997372e3f:0x3421dab80dd6ea4!8m2!3d46.3383333!4d9.1069444) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2725128.41&N=1130086.71&zoom=4.203184093441111).)*  
+
 ![Photography_Chaiserstock_01.jpg]({{site.baseurl}}/img/Photography_Chaiserstock_01.jpg)
 <!---{:.image-caption}-->
 *While looking for a spot to roll out my sleeping pad, the sun beautifully set behind the Riemenstalden valley. (Close to Chaiserstock, Schwyz, Switzerland; 2015. See [Google maps](https://www.google.de/maps/place/Chaiserstock/@46.9283654,8.7198237,3181m/data=!3m2!1e3!4b1!4m5!3m4!1s0x4785465b7017563f:0x7ebcbd1e8cd02f7c!8m2!3d46.9283663!4d8.7285785) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2697735.56&N=1198374.07&zoom=7.83192809488736).)*  
