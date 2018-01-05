@@ -78,14 +78,14 @@ published: true
 ### Zurich
 ![Photography_Zurich_02.jpg]({{site.baseurl}}/img/Photography_Zurich_02.jpg)
 <!---{:.image-caption}-->
-*rih3rh*  
+**  
 
 ![Photography_Zurich_01.jpg]({{site.baseurl}}/img/Photography_Zurich_01.jpg)
 <!---{:.image-caption}-->
-*rih3rh* 
+** 
 
 
-### Documentary
+
 
 
 
