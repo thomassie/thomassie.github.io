@@ -21,7 +21,7 @@ published: true
 
 ### Mountains
 
-![Photography_Mountains_Sattelpass_01.jpg]({{site.baseurl}}/img/Photography_Mountains_Sattelpass_01.jpg.jpg)
+![Photography_Mountains_Sattelpass_01.jpg]({{site.baseurl}}/img/Photography_Mountains_Sattelpass_01.jpg)
 *Mountain silhouettes in morning back light. (View from Sattelpass, Obwalden, Switzerland; 2015. See [Google maps](https://www.google.de/maps/place/Sattelpass/@46.8657991,8.0374011,12737m/data=!3m1!1e3!4m5!3m4!1s0x478feb3b82f56763:0xcabd83c53146e2a8!8m2!3d46.8658!4d8.07242) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2648308.00&N=1190719.00&zoom=7).)*
 
 ![Photography_Mountains_Unterjoch_01.jpg]({{site.baseurl}}/img/Photography_Mountains_Unterjoch_01.jpg)
