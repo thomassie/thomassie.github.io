@@ -16,7 +16,7 @@ published: true
 *View from Fuorcla Raschglius to Fil de Cassons. (Hike from Bargis to Elm, Grisons, Siwtzerland; 2016.)*
 
 ![Photography_BW_Chaiserstock_02.jpg]({{site.baseurl}}/img/Photography_BW_Chaiserstock_02.jpg)
-*View from below Chaiserstock to Lake Lucerne. (Right below Chaiserstock, Schwyz, Switzerland; 2015. See [Google maps](https://www.google.de/maps/place/Chaiserstock/@46.9283654,8.7198237,3181m/data=!3m2!1e3!4b1!4m5!3m4!1s0x4785465b7017563f:0x7ebcbd1e8cd02f7c!8m2!3d46.9283663!4d8.7285785) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2697735.56&N=1198374.07&zoom=7.83192809488736).)*
+*View from below Chaiserstock to Lake Lucerne. (Right below Chaiserstock, Schwyz, Switzerland; 2015. See [Google maps](https://www.google.de/maps/place/Chaiserstock/@46.9283654,8.7198237,3181m/data=!3m2!1e3!4b1!4m5!3m4!1s0x4785465b7017563f:0x7ebcbd1e8cd02f7c!8m2!3d46.9283663!4d8.7285785) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2697735.56&N=1198374.07&zoom=7.83192809488736).)*  
 
 
 ### Landscapes
@@ -33,7 +33,8 @@ published: true
 
 ![Photography_Fuchsenloch_01.jpg]({{site.baseurl}}/img/Photography_Fuchsenloch_01.jpg)
 <!---{:.image-caption}-->
-*As the day draws to a close. (Fuchsenloch, Upper Swabia, Germany; 2016. See [Google maps](https://www.google.ch/maps/@47.8173618,9.7090123,3127m/data=!3m1!1e3).)* 
+*As the day draws to a close. (Fuchsenloch, Upper Swabia, Germany; 2016. See [Google maps](https://www.google.ch/maps/@47.8173618,9.7090123,3127m/data=!3m1!1e3).)*  
+
 
 ### Mountains
 
@@ -47,7 +48,7 @@ published: true
 *An unnamed mountain peak above the remains of the Jöri glacier. (Next to Flüela Wisshorn, Grisons, Switzerland; 2015. See [Google maps](https://www.google.de/maps/place/Fl%C3%BCela+Wisshorn/@46.7681172,9.9670055,3190m/data=!3m1!1e3!4m5!3m4!1s0x47835edd1bcf944b:0x1645236d51bd13e4!8m2!3d46.7621491!4d9.9666971) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2793043.56&N=1182602.81&zoom=9.059999999999999).)*-->
 
 ![Photography_Wetterhorn_01.jpg]({{site.baseurl}}/img/Photography_Wetterhorn_01.jpg)
-*View from Nünalpstock to Berglistock, Wetterhorn, and Schreckhorn. (Bernese Oberland, Bern, Switzerland; 2015. See [Google maps](https://www.google.de/maps/place/Wetterhorn/@46.612957,8.1056487,12797m/data=!3m1!1e3!4m13!1m7!3m6!1s0x478f9ccc88c05cdf:0x4e0e685eedd6e167!2sSchreckhorn!3b1!8m2!3d46.5899!4d8.11818!3m4!1s0x478f9b3e9807434f:0xebe54706949d956d!8m2!3d46.6387486!4d8.1155813) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2653335.61&N=1164177.73&zoom=5.461928094887355).)*
+*View from Nünalpstock to Berglistock, Wetterhorn, and Schreckhorn. (Bernese Oberland, Bern, Switzerland; 2015. See [Google maps](https://www.google.de/maps/place/Wetterhorn/@46.612957,8.1056487,12797m/data=!3m1!1e3!4m13!1m7!3m6!1s0x478f9ccc88c05cdf:0x4e0e685eedd6e167!2sSchreckhorn!3b1!8m2!3d46.5899!4d8.11818!3m4!1s0x478f9b3e9807434f:0xebe54706949d956d!8m2!3d46.6387486!4d8.1155813) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2653335.61&N=1164177.73&zoom=5.461928094887355).)*  
 
 ### Animals  
 ![Photography_Slow_worm_01.jpg]({{site.baseurl}}/img/Photography_Slow_worm_01.jpg)
@@ -57,25 +58,35 @@ published: true
 *A mosquito (Tipula sp.) waiting for the sun to warm it up. (Langenargen, Lake Constance, Germany; 2017.)*
 
 ![Photography_Ibex_02.jpg]({{site.baseurl}}/img/Photography_Ibex_02.jpg)
-*Eya-to-eye with an Ibex. (right below Eggishorn, Valais, Switzerland; 2015.)*
+*Eya-to-eye with an Ibex. (right below Eggishorn, Valais, Switzerland; 2015.)*  
 
 ### Plants
 
 
 
 ### Abstract
+
 ![Photography_Euphorbia_01.jpg]({{site.baseurl}}/img/Photography_Euphorbia_01.jpg)
 *Leaves of an Euphorbia sp. plant. (Muothatal, Schwyz, Switzerland; 2016)*
 
 
 ### Small worlds
+
 ![Photography_BlueBlossom_01.jpg]({{site.baseurl}}/img/Photography_BlueBlossom_01.jpg) 
+**
 
 ![Photography_Spider_01.jpg]({{site.baseurl}}/img/Photography_Spider_01.jpg) 
+**  
 
 
+### Urban
 
-<!---!### Urban-->
+![Photography_BlueBlossom_01.jpg]({{site.baseurl}}/img/Photography_BlueBlossom_01.jpg) 
+**
+
+![Photography_Spider_01.jpg]({{site.baseurl}}/img/Photography_Spider_01.jpg) 
+**  
+
 
 
 <!---!### Travel experiences-->
