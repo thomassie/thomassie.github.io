@@ -62,6 +62,11 @@ published: true
 
 ### Plants
 
+![Photography_Fern_01.jpg]({{site.baseurl}}/img/Photography_Fern_01.jpg) 
+**
+
+![Photography_Spider_01.jpg]({{site.baseurl}}/img/Photography_Spider_01.jpg) 
+**  
 
 
 ### Abstract
@@ -89,19 +94,21 @@ published: true
 
 
 
-<!---!### Travel experiences-->
+### Travel experiences
 
 
 ### Zurich
-![Photography_Zurich_02.jpg]({{site.baseurl}}/img/Photography_Zurich_02.jpg)
+![Photography_Hiking_Chaiserstock_01.jpg]({{site.baseurl}}/img/Photography_Hiking_Chaiserstock_01.jpg)
 <!---{:.image-caption}-->
 **  
 
-![Photography_Zurich_01.jpg]({{site.baseurl}}/img/Photography_Zurich_01.jpg)
+![Photography_Hiking_ValMinger_01.jpg]({{site.baseurl}}/img/Photography_Hiking_ValMinger_01.jpg)
 <!---{:.image-caption}-->
 ** 
 
-
+![Photography_Hiking_Baerenturm_01.jpg]({{site.baseurl}}/img/Photography_Hiking_Baerenturm_01.jpg)
+<!---{:.image-caption}-->
+** 
 
 
 
