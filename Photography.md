@@ -86,24 +86,12 @@ published: true
 ![Photography_Spider_01.jpg]({{site.baseurl}}/img/Photography_Spider_01.jpg) 
 **
 
-![Photography_Spider_01.jpg]({{site.baseurl}}/img/Photography_Spider_01.jpg) 
+![Photography_SmallWorld_Milliped_01.jpg]({{site.baseurl}}/img/Photography_SmallWorld_Milliped_01.jpg) 
 **  
-
-
-### Urban
-
-![Photography_BlueBlossom_01.jpg]({{site.baseurl}}/img/Photography_BlueBlossom_01.jpg) 
-**
-
-![Photography_Spider_01.jpg]({{site.baseurl}}/img/Photography_Spider_01.jpg) 
-**  
-
 
 
 ### Travel experiences
 
-
-### Zurich
 ![Photography_Hiking_Chaiserstock_01.jpg]({{site.baseurl}}/img/Photography_Hiking_Chaiserstock_01.jpg)
 <!---{:.image-caption}-->
 **  
@@ -116,6 +104,17 @@ published: true
 <!---{:.image-caption}-->
 **   
 
+
+### Urban
+
+![Photography_Zurich_02.jpg ]({{site.baseurl}}/img/Photography_Zurich_02.jpg) 
+**
+
+![Photography_Spider_01.jpg]({{site.baseurl}}/img/Photography_Spider_01.jpg) 
+**  
+
+
+### Zurich
 
 
 
