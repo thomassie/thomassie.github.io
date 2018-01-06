@@ -65,7 +65,10 @@ published: true
 ![Photography_Fern_01.jpg]({{site.baseurl}}/img/Photography_Fern_01.jpg) 
 **
 
-![Photography_Spider_01.jpg]({{site.baseurl}}/img/Photography_Spider_01.jpg) 
+![Photography_Plants_Dryas_01.jpg]({{site.baseurl}}/img/Photography_Plants_Dryas_01.jpg) 
+**
+
+![Photography_Plants_Orchid_01.jpg]({{site.baseurl}}/img/Photography_Plants_Orchid_01.jpg) 
 **  
 
 
@@ -78,6 +81,9 @@ published: true
 ### Small worlds
 
 ![Photography_BlueBlossom_01.jpg]({{site.baseurl}}/img/Photography_BlueBlossom_01.jpg) 
+**
+
+![Photography_Spider_01.jpg]({{site.baseurl}}/img/Photography_Spider_01.jpg) 
 **
 
 ![Photography_Spider_01.jpg]({{site.baseurl}}/img/Photography_Spider_01.jpg) 
@@ -108,7 +114,7 @@ published: true
 
 ![Photography_Hiking_Baerenturm_01.jpg]({{site.baseurl}}/img/Photography_Hiking_Baerenturm_01.jpg)
 <!---{:.image-caption}-->
-** 
+**   
 
 
 
