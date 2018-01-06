@@ -81,13 +81,13 @@ published: true
 ### Small worlds
 
 ![Photography_BlueBlossom_01.jpg]({{site.baseurl}}/img/Photography_BlueBlossom_01.jpg) 
-**
+*A beetle on a carnation at late evening.*
 
 ![Photography_Spider_01.jpg]({{site.baseurl}}/img/Photography_Spider_01.jpg) 
-**
+*A spider (Micrommata virescens) threatening.*
 
 ![Photography_SmallWorld_Milliped_01.jpg]({{site.baseurl}}/img/Photography_SmallWorld_Milliped_01.jpg) 
-**  
+*A milliped at night.*  
 
 
 ### Travel experiences
