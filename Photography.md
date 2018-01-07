@@ -66,7 +66,7 @@ published: true
 *Detail of a frond (golden-scale male fern, Dryopteris affinis). (Bödmeren forest, Schwyz, Switzerland; 2016. See [Google maps](https://www.google.ch/maps/place/B%C3%B6dmerenwald/@46.9744847,8.8287852,3178m/data=!3m2!1e3!4b1!4m13!1m7!3m6!1s0x47854f8f952344ad:0x12bfdb8ee8c9f75f!2zQsO2ZG1lcmVuLCA2NDMz!3b1!8m2!3d46.9740731!4d8.6500291!3m4!1s0x478537bebdeeb301:0x4052f2267a487f02!8m2!3d46.9690616!4d8.8278492) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2708146.63&N=1204132.80&zoom=6).)*
 
 ![Photography_Plants_Dryas_01.jpg]({{site.baseurl}}/img/Photography_Plants_Dryas_01.jpg) 
-**
+*Blossom of a mountain avens (Dryas octopetala). (Close to Rossstock, Schwyz, Switzerland; 2016. See [Google maps](https://www.google.ch/maps/place/Rossstock/@46.9315979,8.6993588,6361m/data=!3m1!1e3!4m5!3m4!1s0x4785468f4aabd9a9:0x1409251cde96acc8!8m2!3d46.9171492!4d8.7077273) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2697109.96&N=1197762.87&zoom=7).)*
 
 ![Photography_Plants_Orchid_01.jpg]({{site.baseurl}}/img/Photography_Plants_Orchid_01.jpg) 
 **  
