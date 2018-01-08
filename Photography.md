@@ -98,11 +98,11 @@ published: true
 
 ![Photography_Hiking_ValMinger_01.jpg]({{site.baseurl}}/img/Photography_Hiking_ValMinger_01.jpg)
 <!---{:.image-caption}-->
-** 
+*After hiking through Val Mingèr I decided to spend the night close to Sur il Foss at the transition to Val Plavna. That also implied a night of bellowing red deer... (Between Val Mingèr  (part of the stunning [Swiss National Park](http://www.nationalpark.ch/en/)) and Val Plavna, Grisons, Switzerland; 2016. See [Google maps](https://www.google.ch/maps/place/Sur+il+Foss/@46.7082991,10.2191811,12775m/data=!3m1!1e3!4m5!3m4!1s0x4783405db29df59d:0x46f255f7b55bd519!8m2!3d46.7083!4d10.2542) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2814814.45&N=1177073.46&zoom=7.925261428220694).)* 
 
 ![Photography_Hiking_Baerenturm_01.jpg]({{site.baseurl}}/img/Photography_Hiking_Baerenturm_01.jpg)
 <!---{:.image-caption}-->
-*Imagine you wake up, open your tent and this is the first impression of the day... Wonderful!* (Bärenturm, Schwyz, Switzerland; 2016. See [Google maps](https://www.google.ch/maps/place/46%C2%B051'42.8%22N+8%C2%B004'19.0%22E/@46.8657991,8.0636652,3184m/data=!3m1!1e3!4m6!3m5!1s0x478feb3a7a8220db:0x3c9dd83ea3d07943!7e2!8m2!3d46.8618911!4d8.0719444) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2647768.30&N=1190329.52&zoom=9.126666666666663).)*
+*Imagine you wake up, open your tent and this is the first impression of the day... Wonderful!* (Bärenturm, Obwalden, Switzerland; 2016. See [Google maps](https://www.google.ch/maps/place/46%C2%B051'42.8%22N+8%C2%B004'19.0%22E/@46.8657991,8.0636652,3184m/data=!3m1!1e3!4m6!3m5!1s0x478feb3a7a8220db:0x3c9dd83ea3d07943!7e2!8m2!3d46.8618911!4d8.0719444) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2647768.30&N=1190329.52&zoom=9.126666666666663).)*
 
 <!---### Urban
 ![Photography_Zurich_02.jpg ]({{site.baseurl}}/img/Photography_Zurich_02.jpg) 
