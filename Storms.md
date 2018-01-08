@@ -3,6 +3,7 @@ layout: page
 title: Storms
 published: true
 ---
+![Storms_01.jpg]({{site.baseurl}}/img/Storms_01.jpg)
 
 In this project I analysed and visualised storms belonging to the revised Atlantic hurricane database (HURDAT2). I did this to practice of [R Shiny](https://shiny.rstudio.com/) and [Leaflet](http://leafletjs.com/) [for R](https://rstudio.github.io/leaflet/), which both are wonderful tools to communicate information.  
 
