@@ -1,10 +1,11 @@
 ---
-title: "Storm data preparation"
-author: "Thomas M. Massie"
-date: "1/8/2018"
+title: Storm data preparation
+author: Thomas M. Massie
+date: 1/8/2018
 output:
   html_document:
     keep_md: true
+published: true
 ---
 
 
@@ -12,6 +13,7 @@ output:
 ## Loading the data
 
 I downloaded the data sets from NOAA's [National Hurricane Center](http://www.nhc.noaa.gov/data/#hurdat), one for hurricanes and one for typhoons, and stored them in my respective GitHub repository. Data format is the revised Atlantic hurricane database (HURDAT2, see [here](http://www.aoml.noaa.gov/hrd/hurdat/Data_Storm.html) for details).  
+
 Now, to start I will load both data sets from my repository, and add a variable that indicates the respective ocean it belongs to.
 
 ```r
