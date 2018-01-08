@@ -16,11 +16,6 @@ I downloaded the data sets from NOAA's [National Hurricane Center](http://www.nh
 
 Now, to start I will load both data sets from my repository, and add a variable that indicates the respective ocean it belongs to.
 
-    dd.atlantic <- read_csv("https://raw.githubusercontent.com/thomassie/Storms/master/Data/atlantic.csv?token=AFYWCm0CTFVvcnJCMs2F3z0u0Ce_ditGks5aXIiEwA%3D%3D") %>%
-      mutate(Ocean = "atlantic")
-    dd.pacific  <- read_csv("https://raw.githubusercontent.com/thomassie/Storms/master/Data/pacific.csv?token=AFYWCuigbUpPM8d8V93uIzgYr-aat70Eks5aXIlcwA%3D%3D") %>%
-      mutate(Ocean = "pacific")
-
 ```r
 dd.atlantic <- read_csv("https://raw.githubusercontent.com/thomassie/Storms/master/Data/atlantic.csv?token=AFYWCm0CTFVvcnJCMs2F3z0u0Ce_ditGks5aXIiEwA%3D%3D") %>%
   mutate(Ocean = "atlantic")
