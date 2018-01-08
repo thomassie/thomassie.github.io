@@ -435,6 +435,8 @@ footer .theme-by {
   }
 }
 
+
+
 /* --- Tags --- */
 
 .blog-tags {
@@ -480,6 +482,9 @@ footer .theme-by {
     float: left;
   }
 }
+
+
+
 /* --- Post and page headers --- */
 
 .intro-header {
@@ -637,6 +642,8 @@ footer .theme-by {
   }
 }
 
+
+
 /* --- Pager --- */
 
 .pager li a {
@@ -676,6 +683,8 @@ footer .theme-by {
   }
 }
 
+
+
 /* --- Tables --- */
 
 table {
@@ -712,10 +721,12 @@ table tr td :last-child {
   margin-bottom: 0;
 }
 
+
+
 /* --- Code blocks --- */
 
 pre {
-  font-size: 16px;
+  font-size: 13px;
   line-height: 1.5em;
 }
 pre code {
@@ -723,11 +734,13 @@ pre code {
 }
 pre.highlight, .highlight > pre, td.code pre {
   background: #FAFAFA;
-  background-image: linear-gradient(#F9F9F9 50%, #FDFDFD 50%);
+  background-image: linear-gradient(#FCF8F3 50%, #FDFDFD 50%);
+  /* background-image: linear-gradient(#F9F9F9 50%, #FDFDFD 50%); */
   background-repeat: repeat;
   background-size: 3em 3em;
   background-position: 0px 10px;
-  border-left: 7px solid #444;
+  border-left: 5px solid #6586A0;
+  /* border-left: 7px solid #444; */
 }
 code table, code table td, code table th, code table tbody, code table tr,
 td.gutter pre {
@@ -741,12 +754,15 @@ td.gutter pre {
 td.code pre {
   border-width: 0 0 0 2px;
   border-style: solid;
-  border-color: #444;
+  border-color: #6586A0;
+  /* border-color: #444; */
   border-radius: 0;
 }
 td.gutter {
   padding-top: 3px;
 }
+
+
 
 /* --- Social media sharing section --- */
 
