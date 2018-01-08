@@ -28,6 +28,7 @@ navbar-links:
   Publications: "Publications"
   Projects:
     - RShiny: "RShiny"
+    - Storms: "Storms"
   Photography: "Photography"
   Resources:
     - GitHub: "https://github.com/thomassie"
