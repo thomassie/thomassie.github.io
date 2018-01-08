@@ -125,7 +125,7 @@ Next, I make some adjustments but leave the original variables as they were (for
 - One important step is making new date, time, and datetime variables.
 - Also, wind speed is converted into the metric system (km per hour).
 - Further, I included a variable named 'Duration' which will come into play at a latter point when the duration of a storm is calculated.
-- And last, there are some inconsistencies in the data: Generally, when there is no data availabe for pressure cells were filled with '-999'. However, sometimes it is '-99' or odd entries. To make it homogeneous and to avoid trouble when using the values in calculation, I changed all these entries to 'NA'.
+- And last, there are some inconsistencies in the data: Generally, when there is no data available for pressure cells were filled with '-999'. However, sometimes it is '-99' or odd entries. To make it homogeneous and to avoid trouble when using the values in calculation, I changed all these entries to 'NA'.
 
 ```r
 dd <- dd.org %>%
@@ -160,7 +160,7 @@ dd[c("ID",
 ```
 
 
-For plotting reasons, entries refering to the position of a storm at a given time have to be transferred into a format that is easier to handle, i.e. numeric. For example, '28.0N' is becomming '28', and '94.8W' is transferred into '265.2'. Westward and soutward values are getting a negative sign, just like in an cartesian system. However, due to the fact that mapping is often far easier with positive values, both, 360 (degrees) is added to westward and eastward values. Hope that is comprehensible.
+For plotting reasons, entries referring to the position of a storm at a given time have to be transferred into a format that is easier to handle, i.e. numeric. For example, '28.0N' is becoming '28', and '94.8W' is transferred into '265.2'. Westward and southward values are getting a negative sign, just like in an cartesian system. However, due to the fact that mapping is often far easier with positive values, both, 360 (degrees) is added to westward and eastward values. Hope that is comprehensible.
 
 ```r
 dd$Latitude[which(grepl("N", dd$Latitude)==TRUE)] <- as.numeric(gsub("N", "", dd$Latitude[which(grepl("N", dd$Latitude)==TRUE)]))
@@ -173,7 +173,7 @@ dd$Longitude <- as.numeric(dd$Longitude)
 ```
 
 
-Finally, as announced previuously, the duration of a storm is calculated.
+Finally, as announced previously, the duration of a storm is calculated.
 
 ```r
 # ids <- as.character(unique(dd$ID))
