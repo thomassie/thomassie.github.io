@@ -72,10 +72,9 @@ published: true
 *Porttrait of a heath spotted orchid (Dactylorhiza maculata). (Below Schwarzstock, Schwyz, Switzerland; 2016. See [Google maps](https://www.google.ch/maps/place/Rossstock/@46.9596068,8.7239278,1589m/data=!3m1!1e3!4m5!3m4!1s0x4785468f4aabd9a9:0x1409251cde96acc8!8m2!3d46.9171492!4d8.7077273) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2697930.77&N=1201490.11&zoom=8.403816883535699).)*   
 
 
-### Abstract
-
+<!---### Abstract
 ![Photography_Euphorbia_01.jpg]({{site.baseurl}}/img/Photography_Euphorbia_01.jpg)
-*Leaves of an Euphorbia sp. plant. (Muothatal, Schwyz, Switzerland; 2016)*
+*Leaves of an Euphorbia sp. plant. (Muothatal, Schwyz, Switzerland; 2016)* -->
 
 
 ### Small worlds
