@@ -105,16 +105,14 @@ published: true
 **   
 
 
-### Urban
-
+<!---### Urban
 ![Photography_Zurich_02.jpg ]({{site.baseurl}}/img/Photography_Zurich_02.jpg) 
 **
-
 ![Photography_Spider_01.jpg]({{site.baseurl}}/img/Photography_Spider_01.jpg) 
-**  
+**  -->
 
 
-### Zurich
+<!---### Zurich  -->
 
 
 
