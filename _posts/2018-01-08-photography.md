@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New site, first post!'
+title: New photography section
 image: /img/Photography_Ibex_02_round.png
 tags:
   - photography
