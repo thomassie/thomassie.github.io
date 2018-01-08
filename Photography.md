@@ -29,7 +29,7 @@ published: true
 
 ![Photography_Chaiserstock_01.jpg]({{site.baseurl}}/img/Photography_Chaiserstock_01.jpg)
 <!---{:.image-caption}-->
-*While looking for a spot to roll out my sleeping pad, the sun beautifully set behind the Riemenstalden valley. (Close to Chaiserstock, Schwyz, Switzerland; 2015. See [Google maps](https://www.google.de/maps/place/Chaiserstock/@46.9283654,8.7198237,3181m/data=!3m2!1e3!4b1!4m5!3m4!1s0x4785465b7017563f:0x7ebcbd1e8cd02f7c!8m2!3d46.9283663!4d8.7285785) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2697735.56&N=1198374.07&zoom=7.83192809488736).)* 
+*While looking for a spot to roll out my sleeping pad, the sun beautifully set behind the Riemenstalden valley. (Close to Chaiserstock, Schwyz, Switzerland; 2016. See [Google maps](https://www.google.de/maps/place/Chaiserstock/@46.9283654,8.7198237,3181m/data=!3m2!1e3!4b1!4m5!3m4!1s0x4785465b7017563f:0x7ebcbd1e8cd02f7c!8m2!3d46.9283663!4d8.7285785) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2697735.56&N=1198374.07&zoom=7.83192809488736).)* 
 
 ![Photography_Fuchsenloch_01.jpg]({{site.baseurl}}/img/Photography_Fuchsenloch_01.jpg)
 <!---{:.image-caption}-->
@@ -94,7 +94,7 @@ published: true
 
 ![Photography_Hiking_Chaiserstock_01.jpg]({{site.baseurl}}/img/Photography_Hiking_Chaiserstock_01.jpg)
 <!---{:.image-caption}-->
-**  
+*Me on top of Chaiserstock. (Chaiserstock, Schwyz, Switzerland; 2016. See [Google maps](https://www.google.de/maps/place/Chaiserstock/@46.9283654,8.7198237,3181m/data=!3m2!1e3!4b1!4m5!3m4!1s0x4785465b7017563f:0x7ebcbd1e8cd02f7c!8m2!3d46.9283663!4d8.7285785) or [geo.admin.ch](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2697735.56&N=1198374.07&zoom=7.83192809488736).)*  
 
 ![Photography_Hiking_ValMinger_01.jpg]({{site.baseurl}}/img/Photography_Hiking_ValMinger_01.jpg)
 <!---{:.image-caption}-->
