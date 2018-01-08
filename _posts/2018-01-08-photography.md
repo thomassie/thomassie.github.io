@@ -1,13 +1,15 @@
 ---
 layout: post
 title: 'New site, first post!'
-image: /img/Thomas_Sardona_01.png
+image: /img/Photography_Ibex_02_round.png
 tags:
-  - random
-  - exciting
+  - photography
+  - pictures
   - news
 published: true
+date: '2018-01-08'
 ---
 
-Finally, it's done: Besides the website cumulating my photographical work ([thomasmmassie.com](thomasmmassie.com)), I now launched a site that deals with my person and the things that I do and that I am interested in. You will find some info about myself, a brief CV and a couple of projects that I was, am, and will be working on. Especially latter will be filled more and more during the next days, weeks and months.  
-Moreover, the blog section is also intended to reflect my opinions about current affairs.
+Hey there!
+
+I now included a [section](Photography.md) referring to my photographical work, which can be found in a more comprehensive manner under [thommasmmassie.com](http://www.thomasmmassie.com/). You are more than welcome to have a look at it!
