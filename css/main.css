@@ -752,7 +752,7 @@ td.gutter pre {
   padding: 0;
 }
 td.code pre {
-  border-width: 0 0 0 4px;
+  border-width: 1 1 1 4px;
   /* border-width: 0 0 0 2px; */
   border-style: solid;
   border-color: #6586A0;
@@ -760,7 +760,8 @@ td.code pre {
   border-radius: 0;
 }
 td.gutter {
-  padding-top: 3px;
+  padding-top: 2px;
+  /* adding-top: 3px; */
 }
 
 
