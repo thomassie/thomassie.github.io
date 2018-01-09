@@ -229,7 +229,7 @@ There you go!
 
 ## Storing the dataset
 
-I am going to save the workspace and the dataset for later use and exploration!
+I save the workspace and the dataset for later use and exploration!
 
 ```r
 save.image("Data/StormWS.RData")
