@@ -723,6 +723,7 @@ table tr td :last-child {
 
 
 
+
 /* --- Code blocks --- */
 
 pre {
@@ -765,11 +766,15 @@ td.gutter {
 
 
 
+
 /* --- Social media sharing section --- */
 
 #social-share-section {
   margin-bottom: 30px;
 }
+
+
+
 
 /* --- Notification boxes --- */
 .box-note, .box-warning, .box-error {
