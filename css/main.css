@@ -760,8 +760,7 @@ td.code pre {
   border-radius: 0;
 }
 td.gutter {
-  padding-top: 10px;
-  /* adding-top: 3px; */
+  padding-top: 3px;
 }
 
 
