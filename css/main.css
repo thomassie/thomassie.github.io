@@ -734,7 +734,7 @@ pre code {
 }
 pre.highlight, .highlight > pre, td.code pre {
   background: #FAFAFA;
-  background-image: linear-gradient(##FBFBFA 50%, ##FCF8F3 50%);
+  background-image: linear-gradient(##FAFAFA 50%, ###F4F4F0 50%);
   /* background-image: linear-gradient(#F9F9F9 50%, #FDFDFD 50%); */
   background-repeat: repeat;
   background-size: 3em 3em;
