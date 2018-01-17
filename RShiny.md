@@ -27,7 +27,7 @@ Explore climate data from different countries and regions, and get an idea about
 
 [here](https://thomassie.shinyapps.io/climatedataapp/)
 
-![ClimateData.png]({{site.baseurl}}/img/ClimateData.png)  
+![ClimateData_02.png]({{site.baseurl}}/img/ClimateData_02.png)  
 
 ### Hurricanes and typhoons
 
