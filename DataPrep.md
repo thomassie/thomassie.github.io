@@ -21,10 +21,10 @@ To each data set I add a variable that indicates the respective ocean it belongs
 ```r
 # Data for Atlantic storms.
 dd.atlantic <- get_hurdat(basin = "AL") %>%
-  mutate(Ocean = "atlantic")
+  mutate(Ocean = "Atlantic")
 # Data for northeast and north-central Pacific storms.
 dd.pacific <- get_hurdat(basin = "EP") %>%
-  mutate(Ocean = "pacific")
+  mutate(Ocean = "Pacific")
 ```
 
 I combine both data sets to a single one.
