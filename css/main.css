@@ -140,8 +140,9 @@ img.center {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #F4F4F0; /* original: #F5F5F5 */
-  background-color: transparent; /* TMM added this line*/
+  background: rgba(244, 244, 240, 0.3);
+  /*background: #F4F4F0; /* original: #F5F5F5 */
+  /* background-color: transparent; /* TMM added this line*/
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-col %}
