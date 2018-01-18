@@ -16,8 +16,9 @@ Here are some projects that I have done using the R package [Shiny](https://shin
 
 Imagine an organism that propagates once a year, and all individuals within a population do so at the same point in time. This is the case for many, many living creatures, especially when their life cycle is influenced by seasons. That is, there are specific conditions during a year that are more favourable than others for fathering and raising offspring. Without any restrictions related to population density (food, diseases, competition...) such an organisms would show exponential growth. For example, if any individual would create two descendants, then the population would evolve according to 2<sup>n</sup>, with n being the number of reproduction cycles, i.e., years.
 
-However, we all know that no population growths without limits. There are certain factors that regulate the number of individuals, such as the availability of resources (food, space...), or the susceptibility to diseases. These factors are related to the number of individuals living in a given space, that is population density. Therefore, these growth-limiting factors are called density-dependent.
-[here](https://thomassie.shinyapps.io/logisticgrowthtimediscrete/)
+However, we all know that no population growths without limits. There are certain factors that regulate the number of individuals, such as the availability of resources (food, space...), or the susceptibility to diseases. These factors are related to the number of individuals living in a given space, that is population density. Therefore, these growth-limiting factors are called density-dependent.  
+
+You can find the app [here](https://thomassie.shinyapps.io/logisticgrowthtimediscrete/).
 
 ![LogisticGrowth.png]({{site.baseurl}}/img/LogisticGrowth.png)  
 
@@ -25,7 +26,7 @@ However, we all know that no population growths without limits. There are certai
 ### Climate data
 Explore climate data from different countries and regions, and get an idea about what the annual cycle of average surface temperatures looks like. For example, it is intereting to see in which regions the cycle shows an unimodal shape with a maximum in June/July/August (Northern hemisphere), or when this peak is shifted to November/December/January (Southern hemisphere).  
 
-[here](https://thomassie.shinyapps.io/climatedataapp/)
+You can find the app [here](https://thomassie.shinyapps.io/climatedataapp/)
 
 ![ClimateData_02.png]({{site.baseurl}}/img/ClimateData_02.png)  
 
