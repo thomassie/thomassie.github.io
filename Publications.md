@@ -20,4 +20,6 @@ Altermatt, F., E. A. Fronhofer, A. Garnier, A. Giometto, F. Hammes, J. Klecka, D
 
 ## Other publications
 
-Photgraphic work. Topic: Time. [Portal Wissen - Das Forschungsmagazin der Universität Potsdam](https://www.uni-potsdam.de/fileadmin01/projects/up-entdecken/docs/portal_wissen/2014/Portal_Wissen_2014_2.pdf) (**2014**)
+Photgraphic work. Topic: Time. [Portal Wissen - Das Forschungsmagazin der Universität Potsdam](https://www.uni-potsdam.de/fileadmin01/projects/up-entdecken/docs/portal_wissen/2014/Portal_Wissen_2014_2.pdf) (**2014**)  
+
+Photographic work. Portrait of a kindergarten. [Freier Chindsgi Hönggerberg](http://chindsgi-hoenggerberg.ch) (**2017**)
