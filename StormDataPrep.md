@@ -151,7 +151,7 @@ There you go!
 
 ## Storing the data set
 
-I save the workspace for later use and [exploration](StormDataExploration.html)!
+I save the workspace for later use and [exploration](StormDataExploration.md)!
 
 ```r
 save.image("StormDataWorkSpace.RData")
