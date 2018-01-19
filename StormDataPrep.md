@@ -10,12 +10,12 @@ published: true
 
 # Storm data preparation
 
-Since I wnat to focus on the analysis of the storm data, I use R's [hurdat package](https://cran.r-project.org/web/packages/HURDAT/index.html), which does a lot of the cleaning for those who want to save time ([vignette](https://cran.r-project.org/web/packages/HURDAT/HURDAT.pdf)).
+Since I want to focus on the analysis of the storm data, I use R's [hurdat package](https://cran.r-project.org/web/packages/HURDAT/index.html), which does a lot of the cleaning for those who want to save time ([vignette](https://cran.r-project.org/web/packages/HURDAT/HURDAT.pdf)).
 
 
 ## Reading the data
 
-I read in two data sets: one for hurricanes (Atlantic ocean) and one for typhoons (northeast and central Pacific ocean). The original data format is the revised Atlantic hurricane database (HURDAT2, see [here](http://www.aoml.noaa.gov/hrd/hurdat/Data_Storm.html) for details). You probably want to have a look at the decription that is provided [here](http://www.aoml.noaa.gov/hrd/hurdat/newhurdat-format.pdf).
+I read in two data sets: one for hurricanes (Atlantic ocean) and one for typhoons (northeast and central Pacific ocean). The original data format is the revised Atlantic hurricane database (HURDAT2, see [here](http://www.aoml.noaa.gov/hrd/hurdat/Data_Storm.html) for details). You probably want to have a look at the description that is provided [here](http://www.aoml.noaa.gov/hrd/hurdat/newhurdat-format.pdf).
 To each data set I add a variable that indicates the respective ocean it belongs to.
 
 ```r
@@ -63,7 +63,7 @@ str(dd.org)
 Next, I make a couple of adjustments so that the data set matches my needs for analysis:
 
   - *Year*: to summarise/describe data by year.
-  - *DateTimeSameYear*: when you only want to explore seasonal occurances.
+  - *DateTimeSameYear*: when you only want to explore seasonal occurrence.
   - *Duration*: giving amount of time s storm lasted.
   - *WindKPH*: wind speed in km per hour.
   - *KeyPlus*: a combination of *Key* and *Name*.
