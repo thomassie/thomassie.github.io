@@ -262,7 +262,7 @@ plot_grid(plot.dur, plot.wind, plot.pres + remove("x.text"),
           ncol = 3, nrow = 1)
 ```
 
-![unnamed-chunk-11-1.png]({{site.baseurl}}/StormDataExploration_files/figure-html/unnamed-chunk-11-1.png)
+![unnamed-chunk-11-1.png]({{site.baseurl}}/img/unnamed-chunk-11-1.png)
 
 Rankings are a nice way to get an idea about the top of the pops. However, a lot of data is neglected and, hence, one misses a lot of information, too. Here is another way of visualising the storm data: each point represents a measure of minimum pressure (in hPa or mbar).
 
