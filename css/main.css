@@ -14,7 +14,7 @@ body {
   /* font-family: 'Quattrocento', serif; */
   font-family: 'Barlow', sans-serif;
   font-size: 16px;
-  color: #3C3C3C; /* original: #404040  */
+  color: #4F4F4F; /* original: #404040  */
   position: relative;
   background: #FFF;
   {% if site.page-col %}
