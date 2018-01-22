@@ -3,6 +3,7 @@ layout: page
 title: About me
 published: true
 ---
+
 ![TMM_Chaiserstock_03.jpg]({{site.baseurl}}/img/TMM_Chaiserstock_03.jpg)
 
 My name is Thomas M. Massie and I am a biologist / ecologist.
@@ -46,7 +47,7 @@ That is, I am pretty familiar with the regions in which I used to live (Upper Sw
 
 I believe that most people only preserve what they are aware of. You have heard about slaughtered rhinos, sharks being killed for their fins, or polar bears dying because of melting ice making it impossible for them to hunt. Any human being has to be aware of the fact that nature's condition is not good, and it is getting visibly worse. Documentaries from BBC and others do an amazing job in reaching a vast number of people showing them nature with all its beauty, curiosities and wonders, and at the same time informing them about the various ways humans are threatening it. I am sure that from these documentaries alone a great number of people got interested in nature and might have even engaged in nature conservation. That is cool!
 
-But having said that, I see that the direct environment many viewers live in gets much less attention. I always used to live in regions where I could not encounter elephants or sharks or polar bears. The last bear was killed in the early 19th century, the last wolf at the transition into the 20th century (but, latter are back again). But besides these iconic species there are so many more to discover and that are fascinating because of their habitus, behaviour, life cycle or role inside an ecological network. Without knowing what lives around you, you will have no interest in preserving it. That is why awareness training is so important. 
+But having said that, I see that the direct environment many viewers live in gets much less attention. I always used to live in regions where I could not encounter elephants or sharks or polar bears. The last bear was killed in the early 19th century, the last wolf at the transition into the 20th century (but, latter are back again). But besides these iconic species there are so many more to discover and that are fascinating because of their habitus, behaviour, life cycle or role inside an ecological network. Without knowing what lives around you, you will have no interest in preserving it. That is why awareness training is so important.
 
 I love explaining nature – phenomena, patterns, organisms, interactions and so on – to kids and grown-ups likewise. I often do this at my kids' kindergarten ([Freier Chindsgi Hoenggerberg](http://chindsgi-hoenggerberg.ch/)). It is fun to show them slow-worms, common toads or alpine newts. Some have never seen a slow-worm and understandably believe that it is a snake. Common toads are not frogs and they can get along pretty well without water. However, at some point in their life it is critical because of their amphibian way of life. And this lets one also explain the similarities between an alpine newt and the famous axolotl.
 
