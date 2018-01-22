@@ -61,7 +61,6 @@ str(dd.org)
 ```
 
 Next, I make a couple of adjustments so that the data set matches my needs for analysis:
-
   - *Year*: to summarise/describe data by year.
   - *DateTimeSameYear*: when you only want to explore seasonal occurrence.
   - *Duration*: giving amount of time s storm lasted.
