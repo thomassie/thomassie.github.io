@@ -1,22 +1,12 @@
 ---
-title: "Storm data preparation"
-author: "Thomas M. Massie"
-date: "2018-01-12"
-output: 
-  html_document: 
+title: Storm data preparation
+author: Thomas M. Massie
+date: '2018-01-12'
+output:
+  html_document:
     keep_md: true
+published: true
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Storm data preparation
 
 Since I wnat to focus on the analysis of the storm data, I use R's [hurdat package](https://cran.r-project.org/web/packages/HURDAT/index.html), which does a lot of the cleaning for those who want to save time ([vignette](https://cran.r-project.org/web/packages/HURDAT/HURDAT.pdf)). 
@@ -166,12 +156,8 @@ There you go!
 
 ## Storing the data set
 
-I save the workspace for later use and exploration!
+I save the workspace for later use and [exploration](StormDataExploration.md)!
 
 ```r
 save.image("StormDataWorkSpace.RData")
 ```
-
-
-
-
