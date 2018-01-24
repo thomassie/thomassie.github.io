@@ -1,12 +1,21 @@
 ---
-title: ''
-author: Thomas M. Massie
-date: 1/8/2018
-output:
-  html_document:
+title: "Storm data preparation"
+author: "Thomas M. Massie"
+date: "2018-01-12"
+output: 
+  html_document: 
     keep_md: true
-published: true
 ---
+
+
+
+
+
+
+
+
+
+
 
 # Storm data preparation
 
@@ -57,7 +66,7 @@ str(dd.org)
 ##  $ SE64    : int  NA NA NA NA NA NA NA NA NA NA ...
 ##  $ SW64    : int  NA NA NA NA NA NA NA NA NA NA ...
 ##  $ NW64    : int  NA NA NA NA NA NA NA NA NA NA ...
-##  $ Ocean   : chr  "atlantic" "atlantic" "atlantic" "atlantic" ...
+##  $ Ocean   : chr  "Atlantic" "Atlantic" "Atlantic" "Atlantic" ...
 ```
 
 Next, I make a couple of adjustments so that the data set matches my needs for analysis:
@@ -82,6 +91,12 @@ dd <- dd.org %>%
                                               ifelse(WindKPH %in% 154:177, "2",
                                                      ifelse(WindKPH %in% 178:208, "3",
                                                             ifelse(WindKPH %in% 209:251, "4", "5")))))))
+```
+
+There is one manipulation that is critical for plotting (at least) with [Leaflet for R](https://rstudio.github.io/leaflet/): All longitude values have to be positive. Otherwise Leaflet gets confused and the data "jumps" by 360\degree.
+
+```r
+dd$Lon <- ifelse(dd$Lon < 0, dd$Lon + 360, dd$Lon)
 ```
 
 Then, for some variables it makes more sense if they are declared as factors.
@@ -124,7 +139,7 @@ There you go!
 ##  $ Record          : chr  NA NA NA NA ...
 ##  $ Status          : Factor w/ 12 levels "DB","ET","EX",..: 4 4 4 4 4 4 11 11 11 11 ...
 ##  $ Lat             : num  28 28 28 28.1 28.2 28.2 28.3 28.4 28.6 29 ...
-##  $ Lon             : num  -94.8 -95.4 -96 -96.5 -96.8 -97 -97.6 -98.3 -98.9 -99.4 ...
+##  $ Lon             : num  265 265 264 264 263 ...
 ##  $ Wind            : int  80 80 80 80 80 70 60 60 50 50 ...
 ##  $ Pressure        : int  NA NA NA NA NA NA NA NA NA NA ...
 ##  $ NE34            : int  NA NA NA NA NA NA NA NA NA NA ...
@@ -139,7 +154,7 @@ There you go!
 ##  $ SE64            : int  NA NA NA NA NA NA NA NA NA NA ...
 ##  $ SW64            : int  NA NA NA NA NA NA NA NA NA NA ...
 ##  $ NW64            : int  NA NA NA NA NA NA NA NA NA NA ...
-##  $ Ocean           : Factor w/ 2 levels "atlantic","pacific": 1 1 1 1 1 1 1 1 1 1 ...
+##  $ Ocean           : Factor w/ 2 levels "Atlantic","Pacific": 1 1 1 1 1 1 1 1 1 1 ...
 ##  $ Year            : Factor w/ 166 levels "1851","1852",..: 1 1 1 1 1 1 1 1 1 1 ...
 ##  $ DateTimeSameYear: POSIXct, format: "2018-06-25 00:00:00" "2018-06-25 06:00:00" ...
 ##  $ WindKPH         : num  129 129 129 129 129 113 97 97 80 80 ...
@@ -156,3 +171,7 @@ I save the workspace for later use and exploration!
 ```r
 save.image("StormDataWorkSpace.RData")
 ```
+
+
+
+
