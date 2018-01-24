@@ -1,12 +1,26 @@
 ---
-title: Storm data preparation
-author: Thomas M. Massie
-date: '2018-01-12'
+layout: page
+title: ""
+date: 2018-01-12
+author: "Thomas M. Massie"
 output:
   html_document:
     keep_md: true
-published: true
 ---
+<!-- mathjax: default -->
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Storm data preparation
 
 Since I wnat to focus on the analysis of the storm data, I use R's [hurdat package](https://cran.r-project.org/web/packages/HURDAT/index.html), which does a lot of the cleaning for those who want to save time ([vignette](https://cran.r-project.org/web/packages/HURDAT/HURDAT.pdf)). 
@@ -61,12 +75,12 @@ str(dd.org)
 
 Next, I make a couple of adjustments so that the data set matches my needs for analysis:
 
-  - *Year*: to summarise/describe data by year.
-  - *DateTimeSameYear*: when you only want to explore seasonal occurances.
-  - *Duration*: giving amount of time s storm lasted.
-  - *WindKPH*: wind speed in km per hour.
-  - *KeyPlus*: a combination of *Key* and *Name*.
-  - *SaffirSimpson*: assigning storms a value on the [Saffir-Simpson scale](https://en.wikipedia.org/wiki/Saffir%E2%80%93Simpson_scale).
+- *Year*: to summarise/describe data by year.
+- *DateTimeSameYear*: when you only want to explore seasonal occurances.
+- *Duration*: giving amount of time s storm lasted.
+- *WindKPH*: wind speed in km per hour.
+- *KeyPlus*: a combination of *Key* and *Name*.
+- *SaffirSimpson*: assigning storms a value on the [Saffir-Simpson scale](https://en.wikipedia.org/wiki/Saffir%E2%80%93Simpson_scale).
 
 ```r
 dd <- dd.org %>%
@@ -156,8 +170,12 @@ There you go!
 
 ## Storing the data set
 
-I save the workspace for later use and [exploration](StormDataExploration.md)!
+I save the workspace for later use and exploration!
 
 ```r
 save.image("StormDataWorkSpace.RData")
 ```
+
+
+
+
