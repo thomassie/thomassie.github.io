@@ -1,11 +1,12 @@
 ---
 layout: page
-title: ""
-date: 2018-01-12
-author: "Thomas M. Massie"
+title: ''
+date: {}
+author: Thomas M. Massie
 output:
   html_document:
     keep_md: true
+published: true
 ---
 <!-- mathjax: default -->
 
@@ -170,12 +171,8 @@ There you go!
 
 ## Storing the data set
 
-I save the workspace for later use and exploration!
+I save the workspace for later use and [exploration](StormDataExploration.md)!
 
 ```r
 save.image("StormDataWorkSpace.RData")
 ```
-
-
-
-
