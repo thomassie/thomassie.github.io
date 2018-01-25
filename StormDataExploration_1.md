@@ -509,14 +509,14 @@ ggplot(data = dd,
   guides(colour = guide_legend(override.aes = list(alpha = 1)))
 ```
 
-![](StormDataExploration_1_files/figure-html/unnamed-chunk-18-1.png)<!-- -->
+![unnamed-chunk-18-1.png](StormDataExploration_1_files/figure-html/unnamed-chunk-18-1.png)<!-- -->
 
 I was using a spline fit that just draws a pretty nice line through the data points. It represents the relationship a bit better. A non-linear fit makes only sense when one has a model at hand that is based on theory and/or part of a hypothesis. That is, one describes the relationship by a model, to then fit it to the data. But since I have no causal explanation why exactly wind speed does not scale linearily with air pressure and how the relationship can be rather explained I just leave it like that... =)
 
 
 ## Storing the data set
 
-Again, I save the workspace for further analysis!
+Again, I save the workspace for further analysis in [part 2](StormDataExploration_2).
 
 ```r
 save.image("StormDataWorkSpace.RData")
