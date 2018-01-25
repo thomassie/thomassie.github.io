@@ -24,12 +24,12 @@ published: true
 
 # Storm data preparation
 
-Since I wnat to focus on the analysis of the storm data, I use R's [hurdat package](https://cran.r-project.org/web/packages/HURDAT/index.html), which does a lot of the cleaning for those who want to save time ([vignette](https://cran.r-project.org/web/packages/HURDAT/HURDAT.pdf)). 
+Since I wnat to focus on the analysis of the storm data, I use R's [hurdat package](https://cran.r-project.org/web/packages/HURDAT/index.html), which does a lot of the cleaning for those who want to save time ([vignette](https://cran.r-project.org/web/packages/HURDAT/HURDAT.pdf)).
 
 
 ## Reading the data
 
-I read in two data sets: one for hurricanes (Atlantic ocean) and one for typhoons (northeast and central Pacific ocean). The original data format is the revised Atlantic hurricane database (HURDAT2, see [here](http://www.aoml.noaa.gov/hrd/hurdat/Data_Storm.html) for details). You probably want to have a look at the decription that is provided [here](http://www.aoml.noaa.gov/hrd/hurdat/newhurdat-format.pdf). 
+I read in two data sets: one for hurricanes (Atlantic ocean) and one for typhoons (northeast and central Pacific ocean). The original data format is the revised Atlantic hurricane database (HURDAT2, see [here](http://www.aoml.noaa.gov/hrd/hurdat/Data_Storm.html) for details). You probably want to have a look at the decription that is provided [here](http://www.aoml.noaa.gov/hrd/hurdat/newhurdat-format.pdf).
 To each data set I add a variable that indicates the respective ocean it belongs to.
 
 ```r
@@ -107,12 +107,12 @@ dd$Lon <- ifelse(dd$Lon < 0, dd$Lon + 360, dd$Lon)
 Then, for some variables it makes more sense if they are declared as factors.
 
 ```r
-dd[c("Key", 
+dd[c("Key",
      "Year",
      "KeyPlus",
      "Status",
      "Ocean",
-     "SaffirSimpson")] = lapply(dd[c("Key", 
+     "SaffirSimpson")] = lapply(dd[c("Key",
                                      "Year",
                                      "KeyPlus",
                                      "Status",
@@ -134,7 +134,7 @@ for (i in as.character(unique(dd$Key))) {
 }
 ```
 
-There you go! 
+There you go!
 
 ```
 ## Classes 'tbl_df', 'tbl' and 'data.frame':	76559 obs. of  28 variables:
@@ -171,7 +171,7 @@ There you go!
 
 ## Storing the data set
 
-I save the workspace for later use and [exploration](StormDataExploration.md)!
+I save the workspace for later use and [exploration](StormDataExpl.md)!
 
 ```r
 save.image("StormDataWorkSpace.RData")
