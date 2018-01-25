@@ -15,13 +15,6 @@ published: true
 
 
 
-
-
-
-
-
-
-
 # Storm data preparation
 
 Since I wnat to focus on the analysis of the storm data, I use R's [hurdat package](https://cran.r-project.org/web/packages/HURDAT/index.html), which does a lot of the cleaning for those who want to save time ([vignette](https://cran.r-project.org/web/packages/HURDAT/HURDAT.pdf)).
@@ -171,7 +164,7 @@ There you go!
 
 ## Storing the data set
 
-I save the workspace for later use and [exploration](StormDataExpl.md)!
+I save the workspace for later use and [exploration](StormDataExploration.html)!
 
 ```r
 save.image("StormDataWorkSpace.RData")
