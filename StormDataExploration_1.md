@@ -119,14 +119,14 @@ p.min <- rep(NA, length(unique(dd$Year)))
 d.max <- p.min
 w.max <- p.min
 for (i in 1:length(unique(dd$Year))) {
-  p.min[i] = first(filter(dd, 
-                          Year == unique(dd$Year)[i] & 
+  p.min[i] = first(filter(dd,
+                          Year == unique(dd$Year)[i] &
                             Pressure == as.character(dd.sum.year$MinPressure[i]))$DateTime)
-  d.max[i] = first(filter(dd, 
-                          Year == unique(dd$Year)[i] & 
+  d.max[i] = first(filter(dd,
+                          Year == unique(dd$Year)[i] &
                             Duration == as.character(dd.sum.year$MaxDuration[i]))$DateTime)
-  w.max[i] = first(filter(dd, 
-                          Year == unique(dd$Year)[i] & 
+  w.max[i] = first(filter(dd,
+                          Year == unique(dd$Year)[i] &
                             WindKPH == as.character(dd.sum.year$MaxWindKPH[i]))$DateTime)
 }
 
@@ -158,7 +158,7 @@ Then I introduce a couple of choices to get a nice ranking and to narrow the dat
 ```r
 # The first 'n.select' storms are selected for ranking
 n.select <- 20
-# Time window: from 'year.min' to 'year.max'. 
+# Time window: from 'year.min' to 'year.max'.
 # Fill in identical years to get data only of year x.
 year.min <- 2012
 year.max <- 2015
@@ -173,19 +173,19 @@ But at first, we will have a glimpse at the rankings comming from the **entire**
 topn.Duration       <- arrange(dd.sum, desc(dd.sum$MaxDuration))[1:n.select,] %>%
   mutate(criterion = "duration")
 # Rearrange levels.
-topn.Duration$KeyPlus <- factor(topn.Duration$KeyPlus, 
+topn.Duration$KeyPlus <- factor(topn.Duration$KeyPlus,
                                 levels = topn.Duration$KeyPlus[desc(topn.Duration$MaxDuration)])
 # ...strongest wind speed recorded (entire data set)
 topn.WindKPH.Max  <- arrange(dd.sum, desc(dd.sum$MaxWindKPH))[1:n.select,] %>%
   mutate(criterion = "wind")
 # Rearrange levels.
-topn.WindKPH.Max$KeyPlus <- factor(topn.WindKPH.Max$KeyPlus, 
+topn.WindKPH.Max$KeyPlus <- factor(topn.WindKPH.Max$KeyPlus,
                                    levels = topn.WindKPH.Max$KeyPlus[desc(topn.WindKPH.Max$MaxWindKPH)])
 # ...minimum pressure (entire data set)
 topn.Pressure.Min  <- arrange(dd.sum, -desc(dd.sum$MinPressure))[1:n.select,] %>%
   mutate(criterion = "pressure")
 # Rearrange levels.
-topn.Pressure.Min$KeyPlus <- factor(topn.Pressure.Min$KeyPlus, 
+topn.Pressure.Min$KeyPlus <- factor(topn.Pressure.Min$KeyPlus,
                                     levels = topn.Pressure.Min$KeyPlus[desc(topn.Pressure.Min$MinPressure)])
 #dd.topn <- rbind(topn.Duration, topn.Strength.Max, topn.Pressure.Min)
 ```
@@ -279,20 +279,20 @@ plot.pres <- topn.Pressure.Min %>%
   # coord_cartesian(ylim = c(800, max(topn.Pressure.Min$MinPressure))) +
   scale_x_discrete(limits = rev(levels(topn.Pressure.Min$KeyPlus))) +
   rremove("legend") +
-  coord_flip() 
+  coord_flip()
 ```
 
 
 ...which are ten put together in a single figure. We can now have a look at the 20 storms that lasted the longest (**A**), showed the highest maximum wind speed (**B**), and the lowest minimum pressure (**C**). (I know that one can argue about cuttig the scale here. However, no storm will ever reach 0 hPa, and therefore, I introduced this 'baseline'.)  
 
 ```r
-plot_grid(plot.dur, plot.wind, plot.pres + remove("x.text"), 
+plot_grid(plot.dur, plot.wind, plot.pres + remove("x.text"),
           labels = c("A", "B", "C"),
           label_colour = "#3C3C3C",
           ncol = 3, nrow = 1)
 ```
 
-![](StormDataExploration_1_files/figure-html/unnamed-chunk-11-1.png)<!-- -->
+![unnamed-chunk-11-1.png](StormDataExploration_1_files/figure-html/unnamed-chunk-11-1.png)<!-- -->
 
 Rankings are a nice way to get an idea about the top of the pops. However, a lot of data is neglected and, hence, one misses a lot of information, too. Here is another way of visualising the storm data: each point represents a measure of minimum pressure (in hPa or mbar).
 
@@ -332,7 +332,7 @@ plot.pressure.main <- ggplot(data = dd,
   theme_bw() +
   geom_rug(alpha = 0.02,
            colour = "#999999") +
-  labs(x = "Year", 
+  labs(x = "Year",
        y = "Minimum in central pressure (mbar)",
        title = "Do extreme events become more severe?",
        subtitle = expression("Storm intensity indicated by minimum in central pressure. \nThe lower the pressure the more intense the storm."),
@@ -353,7 +353,7 @@ plot.pressure.main <- ggplot(data = dd,
         panel.grid.major = element_line(colour = "#D7D8D8", size = 0.2),
         panel.grid.minor = element_line(colour = "#D7D8D8", size = 0.2)) +
   theme(legend.title = element_blank(),
-        legend.justification=c(0,1), 
+        legend.justification=c(0,1),
         legend.position=c(1.02, 0.3),
         legend.background = element_blank(),
         legend.key = element_blank()) +
@@ -361,11 +361,11 @@ plot.pressure.main <- ggplot(data = dd,
   # ggpubr::color_palette("jco") +
   # scale_colour_manual(values = c("#B78A3F", "#58758C")) +
   scale_colour_manual(values = c("#FF281E", "#0090CF")) +
-  guides(colour = guide_legend(override.aes = list(alpha = 1))) 
+  guides(colour = guide_legend(override.aes = list(alpha = 1)))
 
 # A density plot on top of the main plot.
 # TREAT the date.time AS NUMERIC!!!
-plot.pressure.dens.x <- axis_canvas(plot.pressure.main, axis = "x") + 
+plot.pressure.dens.x <- axis_canvas(plot.pressure.main, axis = "x") +
   geom_density(data = dd, aes(x = as.numeric(DateTime), fill = Ocean),
                alpha = 0.6, size = 0.2) +
   # ggpubr::color_palette("jco")
@@ -384,18 +384,18 @@ plot.pressure.dens.y <- axis_canvas(plot.pressure.main, axis = "y", coord_flip =
 Now, one can combine all three plots to a single figure.
 
 ```r
-plot.pressure.1 <- insert_xaxis_grob(plot.pressure.main, 
-                                     plot.pressure.dens.x, 
-                                     grid::unit(0.2, "null"), 
+plot.pressure.1 <- insert_xaxis_grob(plot.pressure.main,
+                                     plot.pressure.dens.x,
+                                     grid::unit(0.2, "null"),
                                      position = "top")
-plot.pressure.2 <- insert_yaxis_grob(plot.pressure.1, 
-                                     plot.pressure.dens.y, 
-                                     grid::unit(.2, "null"), 
+plot.pressure.2 <- insert_yaxis_grob(plot.pressure.1,
+                                     plot.pressure.dens.y,
+                                     grid::unit(.2, "null"),
                                      position = "right")
 ggdraw(plot.pressure.2)
 ```
 
-![](StormDataExploration_1_files/figure-html/unnamed-chunk-13-1.png)<!-- -->
+![unnamed-chunk-13-1.png](StormDataExploration_1_files/figure-html/unnamed-chunk-13-1.png)<!-- -->
 
 Now, the same figure for wind speed.
 
@@ -435,7 +435,7 @@ plot.wind.main <- ggplot(data = dd,
   theme_bw() +
   geom_rug(alpha = 0.02,
            colour = "#999999") +
-  labs(x = "Year", 
+  labs(x = "Year",
        y = "Maximum wind speed (km/h)",
        title = "Do extreme events become more severe?",
        subtitle = expression("Storm intensity indicated by maximum wind speed."),
@@ -455,7 +455,7 @@ plot.wind.main <- ggplot(data = dd,
         panel.grid.major = element_line(colour = "#D7D8D8", size = 0.2),
         panel.grid.minor = element_line(colour = "#D7D8D8", size = 0.2)) +
   theme(legend.title = element_blank(),
-        legend.justification=c(0,1), 
+        legend.justification=c(0,1),
         legend.position=c(1.0, 0.95),
         legend.background = element_blank(),
         legend.key = element_blank()) +
@@ -469,7 +469,7 @@ plot.wind.main <- ggplot(data = dd,
 
 # A density plot on top of the main plot.
 # TREAT the date.time AS NUMERIC!!!
-plot.wind.dens.x <- axis_canvas(plot.wind.main, axis = "x") + 
+plot.wind.dens.x <- axis_canvas(plot.wind.main, axis = "x") +
   geom_density(data = dd, aes(x = as.numeric(DateTime), fill = Ocean),
                alpha = 0.6, size = 0.2) +
   # ggpubr::color_palette("jco")
@@ -488,18 +488,18 @@ plot.wind.dens.y <- axis_canvas(plot.wind.main, axis = "y", coord_flip = TRUE) +
 Again, combining all subplots...
 
 ```r
-plot.wind.1 <- insert_xaxis_grob(plot.wind.main, 
-                                 plot.wind.dens.x, 
-                                 grid::unit(0.2, "null"), 
+plot.wind.1 <- insert_xaxis_grob(plot.wind.main,
+                                 plot.wind.dens.x,
+                                 grid::unit(0.2, "null"),
                                  position = "top")
-plot.wind.2 <- insert_yaxis_grob(plot.wind.1, 
-                                 plot.wind.dens.y, 
-                                 grid::unit(.2, "null"), 
+plot.wind.2 <- insert_yaxis_grob(plot.wind.1,
+                                 plot.wind.dens.y,
+                                 grid::unit(.2, "null"),
                                  position = "right")
 ggdraw(plot.wind.2)
 ```
 
-![](StormDataExploration_1_files/figure-html/unnamed-chunk-15-1.png)<!-- -->
+![unnamed-chunk-15-1.png](StormDataExploration_1_files/figure-html/unnamed-chunk-15-1.png)<!-- -->
 
 
 
@@ -510,5 +510,3 @@ Again, I save the workspace for further analysis!
 ```r
 save.image("StormDataWorkSpace.RData")
 ```
-
-
