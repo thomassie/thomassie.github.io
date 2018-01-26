@@ -11,7 +11,7 @@ Before any analysis, one has to get an idea about the data. That is, what is the
 
 - How many storms reaching the category 'hurricane'/'typhoon' occur in the Atlantic and Pacific oceans?
 - How strong are they?
-- Is there a pattern with respect to where storm arise and disappear again? What does it look like?
+- Is there a pattern with respect to where storms arise and disappear again? What does it look like?
 - What were the strongest storms ever recorded and where did they appear?
 
-These are pretty simple questions and the dataset should be able to answer them. But before diving into the numbers the data set has to prepared for analysis. I describe the way that I have done this [here](StormDataPreparation.md).
+These are rather simple questions and the dataset should be able to answer them. But before diving into the numbers the data set has to be prepared for analysis. I describe the way that I have done this [here](StormDataPreparation.md).
