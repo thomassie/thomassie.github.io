@@ -11,7 +11,10 @@ output:
 
 
 
-# Storm data exploration (1/n)
+
+
+
+# Storm data exploration (1/2)
 
 
 
@@ -96,8 +99,7 @@ dd.sum.year <- dd %>%
             Items = length(Pressure)) %>%
   arrange(-desc(Year))
 
-# '-Inf' and 'Inf' values are not useful here.
-# If these values are not removed they later appear in the plots.
+# Again, 'Inf' values are not useful here.
 dd.sum.year$MinPressure <- as.numeric(gsub("Inf", "NA", dd.sum.year$MinPressure))
 ```
 
@@ -190,18 +192,12 @@ plot.dur <- topn.Duration %>%
   ggplot(aes(x = KeyPlus,
              y = MaxDuration,
              fill = Ocean)) +
-  # geom_bar(stat="identity") +
   geom_col(alpha = 0.7) +
-  # scale_x_discrete(limits = rev(levels(topn.Duration$ID.plus))) +
-  # theme_bw() +
   theme_classic() +
   xlab("") +
   ylab("") +
   ggtitle("Maximum duration \n(days)") +
   theme(axis.text = element_text(size = 10),
-        # axis.line = element_blank(),
-        # axis.text.x = element_blank(),
-        # axis.ticks.y = element_blank(),
         axis.text.x = element_text(angle = 0, hjust = 0.5, size = 12)) +
   geom_text(aes(label = MaxDuration),
             angle = 0,
@@ -210,9 +206,6 @@ plot.dur <- topn.Duration %>%
             position = position_dodge(width = 0.1),
             hjust = 1.5,
             vjust = 0.5) +
-  # theme(panel.border = element_rect(colour = "black", fill = NA, size = 1)) +
-  # scale_y_continuous(expand = c(0.1,0)) +
-  # geom_hline(yintercept = 0) +
   scale_y_continuous(expand = c(0,0)) +
   scale_fill_manual(values = c("#FF281E", "#0090CF")) +
   coord_flip() +
@@ -267,14 +260,13 @@ plot.pres <- topn.Pressure.Min %>%
                      limits = c(800, max(topn.Pressure.Min$MinPressure)),
                      oob = rescale_none) +
   scale_fill_manual(values = c("#FF281E", "#0090CF")) +
-  # coord_cartesian(ylim = c(800, max(topn.Pressure.Min$MinPressure))) +
   scale_x_discrete(limits = rev(levels(topn.Pressure.Min$KeyPlus))) +
   rremove("legend") +
   coord_flip()
 ```
 
 
-...which are ten put together in a single figure. We can now have a look at the 20 storms that lasted the longest (**A**), showed the highest maximum wind speed (**B**), and the lowest minimum pressure (**C**). (I know that one can argue about cuttig the scale here. However, no storm will ever reach 0 hPa, and therefore, I introduced this 'baseline'.)  
+...which are ten put together in a single figure. We can now have a look at the 20 storms that lasted the longest (**A**), showed the highest maximum wind speed (**B**), and the lowest minimum pressure (**C**). (I know that one can argue about cutting the scale here. However, no storm will ever reach 0 hPa, and therefore, I introduced this 'baseline'.)  
 
 ```r
 plot_grid(plot.dur, plot.wind, plot.pres + remove("x.text"),
@@ -296,7 +288,6 @@ plot.pressure.main <- ggplot(data = dd,
              alpha = 0.1,
              size = 0.3) +
   geom_point(data = dd.sum.year,
-             # geom_point(data = filter(dd.sum.year, year.min <= year(dd.sum.year$DateTime.p) & year(dd.sum.year$DateTime.p) <= year.max),
              aes(x = DateTime.p,
                  y = MinPressure),
              shape = 1,
@@ -310,13 +301,11 @@ plot.pressure.main <- ggplot(data = dd,
             alpha = 0.5,
             colour = "#333333") +
   geom_smooth(data = dd.sum.year,
-              # geom_smooth(data = filter(dd.sum.year, year.min <= year(dd.sum.year$DateTime.p) & year(dd.sum.year$DateTime.p) <= year.max),
               aes(x = DateTime.p,
                   y = MinPressure),
               method = "lm",
               se = FALSE,
               span = 0.2,
-              # linetype = "dashed",
               colour = "#999999",
               alpha = 0.9,
               size = 0.8) +
@@ -348,9 +337,6 @@ plot.pressure.main <- ggplot(data = dd,
         legend.position=c(1.02, 0.3),
         legend.background = element_blank(),
         legend.key = element_blank()) +
-  # geom_text(data = dd.lines, aes(label = year(int), x = int, y = -Inf), angle = 0, inherit.aes = F, hjust = -0.2, vjust = -36, size = 3.5) +
-  # ggpubr::color_palette("jco") +
-  # scale_colour_manual(values = c("#B78A3F", "#58758C")) +
   scale_colour_manual(values = c("#FF281E", "#0090CF")) +
   guides(colour = guide_legend(override.aes = list(alpha = 1)))
 
@@ -359,15 +345,11 @@ plot.pressure.main <- ggplot(data = dd,
 plot.pressure.dens.x <- axis_canvas(plot.pressure.main, axis = "x") +
   geom_density(data = dd, aes(x = as.numeric(DateTime), fill = Ocean),
                alpha = 0.6, size = 0.2) +
-  # ggpubr::color_palette("jco")
-  # scale_fill_manual(values = c("#B78A3F", "#58758C"))
   scale_fill_manual(values = c("#FF281E", "#0090CF"))
 # ...and one on the right site.
 plot.pressure.dens.y <- axis_canvas(plot.pressure.main, axis = "y", coord_flip = TRUE) +
   geom_density(data = dd, aes(x = as.numeric(Pressure), fill = Ocean),
                alpha = 0.6, size = 0.2) +
-  # ggpubr::color_palette("jco") +
-  # scale_fill_manual(values = c("#B78A3F", "#58758C")) +
   scale_fill_manual(values = c("#FF281E", "#0090CF")) +
   coord_flip()
 ```
@@ -459,26 +441,19 @@ Not bad, but the data seem to show a significant and systematic deviation from t
 ![unnamed-chunk-17-1.png](StormDataExploration_1_files/figure-html/unnamed-chunk-17-1.png)<!-- -->
 
 
-Well, apparently the residuals are not euqually distributed, but rather heteroskedastically. That means that a linear relationship does not hold here. For now, I do not want to go into non-linear regression analysis. Therefore, let me simply show how a better relationship between air pressure and wind speed may look like.
+Well, apparently the residuals are not equally distributed, but rather heteroskedastically. That means that a linear relationship does not hold here. For now, I do not want to go into non-linear regression analysis. Therefore, let me simply show how a better relationship between air pressure and wind speed may look like.
 
 ```r
 ggplot(data = dd,
        aes(x = Pressure,
            y = WindKPH)) +
-  # geom_hline(yintercept = 209) +
   geom_point(aes(colour = Ocean),
              alpha = 0.4,
              size = 1.1) +
   scale_colour_manual(values = c("#FF281E", "#0090CF")) +
-  # geom_smooth(formula = y ~ -x^2,
-  #             color = "#333333") +
   geom_smooth(method = "lm",
               formula = y ~ splines::bs(x, 3),
               color = "#333333") +
-  # geom_smooth(aes(group = Ocean,
-  #                 colour = Ocean),
-  #             size = 0.5,
-  #             method = "lm") +
   geom_hline(yintercept = 0, size = 0.8, colour = "#3C3C3C") +
   labs(x = "Minimum Pressure (hPa)",
        y = "Maximum wind speed (km/h)",
@@ -505,18 +480,17 @@ ggplot(data = dd,
         legend.background = element_blank(),
         legend.key = element_blank(),
         legend.text = element_text(size = 10, colour = "#3C3C3C")) +
-  # annotate("text", x = 920, y = 310, label = paste("rho = ", round(rho.wind.pres, 2))) +
   guides(colour = guide_legend(override.aes = list(alpha = 1)))
 ```
 
 ![unnamed-chunk-18-1.png](StormDataExploration_1_files/figure-html/unnamed-chunk-18-1.png)<!-- -->
 
-I was using a spline fit that just draws a pretty nice line through the data points. It represents the relationship a bit better. A non-linear fit makes only sense when one has a model at hand that is based on theory and/or part of a hypothesis. That is, one describes the relationship by a model, to then fit it to the data. But since I have no causal explanation why exactly wind speed does not scale linearily with air pressure and how the relationship can be rather explained I just leave it like that... =)
+I was using a spline fit that just draws a pretty nice line through the data points. It represents the relationship a bit better. A non-linear fit makes only sense when one has a model at hand that is based on theory and/or part of a hypothesis. That is, one describes the relationship by a model, to then fit it to the data. But since I have no causal explanation why exactly wind speed does not scale linearly with air pressure and how the relationship can be rather explained I just leave it like that... =)
 
 
 ## Storing the data set
 
-Again, I save the workspace for further analysis in [part 2](StormDataExploration_2).
+Again, I save the workspace for further analysis!
 
 ```r
 save.image("StormDataWorkSpace.RData")
