@@ -486,7 +486,7 @@ I was using a spline fit that just draws a pretty nice line through the data poi
 
 ## Storing the data set
 
-Again, I save the workspace and skip over to [part 2](StormDataExploration_2.md).
+Again, I save the workspace and skip over to [part 2](StormDataExploration_2.html).
 
 ```r
 save.image("StormDataWorkSpace.RData")
