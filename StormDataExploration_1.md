@@ -1,20 +1,16 @@
 ---
 layout: page
-title: ""
-date: 2018-01-14
-author: "Thomas M. Massie"
+title: ''
+date: {}
+author: Thomas M. Massie
 output:
   html_document:
     keep_md: true
+published: true
 ---
 
 
-
-
-
-
-
-# Storm data exploration (1/2)
+# Storm data exploration (1/n)
 
 
 
@@ -490,7 +486,7 @@ I was using a spline fit that just draws a pretty nice line through the data poi
 
 ## Storing the data set
 
-Again, I save the workspace for further analysis!
+Again, I save the workspace and skip over to [part 2](StormDataExploration_2.md).
 
 ```r
 save.image("StormDataWorkSpace.RData")
