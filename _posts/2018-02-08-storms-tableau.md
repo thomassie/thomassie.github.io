@@ -9,7 +9,7 @@ tags:
   - visualisation
   - Tableau
 published: true
-date: '2018-01-07'
+date: '2018-02-07'
 ---
 Another way of exploring the HURDAT2 data set is employing [Tableau](https://www.tableau.com), a pretty nice software for analysis and visualisation of data.
 
