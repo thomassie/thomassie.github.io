@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Storm data exploration using Tableau.
-image: /img/Storms_small.png
+image: /img/DataExpTableau.png
 tags:
   - data analysis
   - storms
