@@ -136,7 +136,7 @@ img.center {
 }
 
 /* TMM added this button style. */
-.button {
+button {
     border: none;
     /* text-align: center;
     text-decoration: none;
@@ -153,9 +153,13 @@ img.center {
     padding:       5px 18px;
     color:         #999999; /* #F5F5F1; */
     display:       inline-block;
-    font:          normal 400 20px/1 "Open Sans", sans-serif;
+    font:          thin 400 20px/1 "Open Sans", sans-serif;
     text-align:    center;
     text-shadow:   none;
+}
+
+.main-body button {
+  display: block; margin: 0 auto;
 }
 
 
