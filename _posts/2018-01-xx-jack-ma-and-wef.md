@@ -12,15 +12,20 @@ published: false
 date: '2018-01-08'
 ---
 
-The recent world economic forum in Davos brought together some of the most powerful
-and influential people from politics and economics – just like every year. I will
-not discuss the meaning or purpose of these meetings, nor the people that attend it.
-Rather, I would like to share my thoughts about a couple of things that came to my
-mind when I was watching [this](https://www.youtube.com/watch?v=V9ENp2BQ8lE) interview with
+The recent world economic forum in Davos brought together some of the most powerful and influential people from politics and economics – just like every year. I will not discuss the meaning or purpose of these meetings, nor the people that attend it. Rather, I would like to share my thoughts about a couple of things that came to my mind when I was watching [this](https://www.youtube.com/watch?v=V9ENp2BQ8lE) interview with
 [Jack Ma](https://en.wikipedia.org/wiki/Jack_Ma).
 
 **The use of technology.**  
 
+Like so often, it seems that our future well-being lies within our technological progress. Jack Ma, and I believe many others, too, obviously believe that only technology provides the answers to the pressing problems we face right now. Really? Is it that old inherent promise that technology will somehow solve poverty, pollution, diseases and anything else keeping us away from living a happy life?
+
+I guess it is absolutely fine to state that technology increased our overall wealth and improved our health (i.e., life expectancy). 
+
+It is about the 'why' we are inventing things. Sure, we try to overcome anything that fatally affects our health. That is why we do research on how to cure certain diseases, regenerate from
+
+We cannot even design operating systems that are 100 % safe. Why do we assume, despite being fully aware of this, that operating systems for autonomous cars cannot be hacked? I do not get that. Well, I admit that I do not know much about the technology behind autonomous driving.  
+
+If I out myself in the position of a perverted terrorist aiming to kill as many people as possible, I guess one of my first choices would be to hack autonomously driving cars and trucks and let them collide on highways, for instance.
 
 **Anticipating upcoming social and environmental issues.**   
 
@@ -29,14 +34,9 @@ mind when I was watching [this](https://www.youtube.com/watch?v=V9ENp2BQ8lE) int
 "It will come. Whether you like it or not." (could not be more pessimistic)
 
 **Philanthropy – and where the money comes from.**  
-When I go to museums, zoos and so on I realise that very often parts of them (or
-sometimes even entire museums) are funded by financial institutions,
-pharmaceutical companies or private persons. That might seem to be something good
-and appreciable. And actually, I think it is. Returning a bit of the money you earned
-to the society that you also benefit from is good, no doubt.
+When I go to museums, zoos and so on I realise that very often parts of them (or sometimes even entire museums) are funded by financial institutions, pharmaceutical companies or private persons. That might seem to be something good and appreciable. And actually, I think it is. Returning a bit of the money you earned to the society that you also benefit from is good, no doubt.
 
-However, I find myself often pondering about where the money comes from, that is,
-how it was generated.
+However, I find myself often pondering about where the money comes from, that is, how it was generated.
 
 Super rich people spending money
 Relative vs. absolute.
@@ -74,7 +74,7 @@ The Harry Gants (from Matt Ruff's [Sewer, Gas and Electric](https://www.amazon.d
 
 Actually, that this is true for *most* people is just my personal impression derived from the attention we give them (see the next point). I have not done any research on this. But, let us assume that it is true. This would mean that the majority of people does not really care about how money is generated or earned, respectively, given the businesses many (or most?) billionaires follow. That is a problem. And it directly or indirectly rebounds upon us with respect to sustainability, (technological) progress, and social functioning. Because, if we do not care about how we earn money or which businesses we follow, we also do not care about our future because we set our priorities all wrong: money before well-being, before freedom, before equality, before peace. Progress is biased by the desire to gain wealth. A desire motivated by greed.
 
-That might sound harsh and exaggerated. However, if you do not pay attention to the personal impacts of your actions this will have severe consequences for society. Reckless and ignorant behaviour might work out for a minority of individuals, and as long as the majority still accepts or tolerates its behavior a society can still thrive. However, under reverse conditions it will certainly fail. That is, we should be clear that these individuals with an intent only on personal well-being are not capable of dictating the course of a society. 
+That might sound harsh and exaggerated. However, if you do not pay attention to the personal impacts of your actions this will have severe consequences for society. Reckless and ignorant behaviour might work out for a minority of individuals, and as long as the majority still accepts or tolerates its behavior a society can still thrive. However, under reverse conditions it will certainly fail. That is, we should be clear that these individuals with an intent only on personal well-being are not capable of dictating the course of a society.
 Because I believe that personal credibility and integrity scale up and are reflected in the behaviour of a society I also believe that mankind can do much better than now. A redistribution of wealth (and power?) is is an important step in the right direction.
 
 
@@ -88,3 +88,11 @@ people have to get accumulate incredible amounts of money.
 
 
 **Money as motivating force?**
+
+
+
+
+
+**Final comment**
+
+I am taking a bit the role of a pessimist, here. And I would be happy to discuss these topics with people having a much more optimistic view of them.
