@@ -135,6 +135,20 @@ img.center {
   }
 }
 
+/* TMM added this button style. */
+.button {
+    /* border: none; */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background:    #f1ede3;
+    border-radius: 1000px;
+    padding:       8px 20px;
+    color:         #4f4f4f;
+    /* font:          normal 400 20px/1 "Open Sans", sans-serif; */
+    text-shadow:   none;
+}
 
 
 
