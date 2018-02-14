@@ -23,13 +23,13 @@ Now, there are a couple of possibilities of how to model density-dependent popul
 ![LogisticGrowth.png]({{site.baseurl}}/img/LogisticGrowth.png)  
 
 
-### Climate data
+## Climate data
 Explore climate data from different countries and regions, and get an idea about what the annual cycle of average surface temperatures looks like. For example, it is intereting to see in which regions the cycle shows an unimodal shape with a maximum in June/July/August (Northern hemisphere), or when this peak is shifted to November/December/January (Southern hemisphere).  
 
 You can find the app [here](https://thomassie.shinyapps.io/climatedataapp/)
 
 ![ClimateData_02.png]({{site.baseurl}}/img/ClimateData_02.png)  
 
-### Hurricanes and typhoons
+## Hurricanes and typhoons
 
 (comming soon)
