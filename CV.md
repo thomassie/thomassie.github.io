@@ -6,14 +6,14 @@ published: true
 ![TMM_Portrait_08_more_d.jpg]({{site.baseurl}}/img/TMM_Portrait_08_more_d.jpg)
 
 {% raw %}
-<button onclick="window.open('/CV_Summary___Thomas_Massie.pdf')">Download CV</button>
+<button class="button" onclick="window.open('/CV_Summary___Thomas_Massie.pdf')">Download CV</button>
 {% endraw %}
 
 
 
 
 ## 2017: Personal sabbatical
-At the moment I am taking a personal sabbatical to (a) spend more **time with my family**, (b) **educate myself** in topics I never really found the time before, and (c) figure out **what to do in the future**. I am super excited to see what is comming next...! 
+At the moment I am taking a personal sabbatical to (a) spend more **time with my family**, (b) **educate myself** in topics I never really found the time before, and (c) figure out **what to do in the future**. I am super excited to see what is comming next...!
 
 
 ## 2012 – 2016: Postdoctoral researcher
