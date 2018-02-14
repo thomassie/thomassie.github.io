@@ -6,8 +6,18 @@ published: true
 ![TMM_Portrait_08_more_d.jpg]({{site.baseurl}}/img/TMM_Portrait_08_more_d.jpg)
 
 {% raw %}
+background:    #f1ede3;
+border-radius: 1000px;
+padding:       8px 20px;
+color:         #4f4f4f;
+display:       inline-block;
+font:          normal 400 20px/1 "Open Sans", sans-serif;
+text-align:    center;
+text-shadow:   none;
 <button onclick="window.open('/CV_Summary___Thomas_Massie.pdf')">Download CV</button>
 {% endraw %}
+
+
 
 
 ## 2017: Personal sabbatical
