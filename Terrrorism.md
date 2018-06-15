@@ -3,7 +3,7 @@ layout: page
 title: Terrorism
 published: true
 ---
-![Terrrorism.png]({{site.baseurl}}/img/Terrrorism.png)
+![Terrorism.png]({{site.baseurl}}/img/Terrorism.png)
 
 [Terrorism](https://en.wikipedia.org/wiki/Terrorism) is a term that became an inherent part in everyone's vocabulary, especially after Al-Qaeda's attack on the World Trade Center's Twin Towers (1 WTC and 2 WTC) in New York City (US) on 11 September 2001, commonly referred to as [9/11](https://en.wikipedia.org/wiki/September_11_attacks). This attack resulted in a war ([Iraq's invasion in 2003](https://en.wikipedia.org/wiki/2003_invasion_of_Iraq)) and further destabilised an entire region. We all, but especially the people living there, still have to deal with its aftermath, e.g. [ISIS](https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant).  
 
