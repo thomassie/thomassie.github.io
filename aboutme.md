@@ -21,7 +21,7 @@ At the moment, I am working as a **data analyst** and **visualisation expert** w
   * the **analysis** of client and internal data to generate meaningful and easy-to-grasp **visualisations**,
   * the **development of tools** the teams can use to make their work more efficient and effective, and
   * the **advanced training** of people to make sure that they are confident using these tools and capable of performing basic data wrangling and visualisation tasks.
-  * 
+
 It is a really interesting field to work in and learn from.
 
 
