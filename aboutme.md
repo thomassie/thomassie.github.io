@@ -9,16 +9,12 @@ published: true
 My name is Thomas M. Massie and I am a biologist/ecologist that turned into a data analyst/visualiser.
 
 
-### Past
-
 I did my **PhD in theoretical ecology**. That is, I was addressing fundamental ecological processes such as (resource) competition, predator-prey interactions, synchrony among and within populations and so on. Such processes influences the dynamic behaviour of single individuals, populations, and, of course, entire communities since no species is isolated from others within an ecosystem.
 
 My focus was on **changing environmental conditions** and how these **impact population and community dynamics**. I used a combined approach of **mathematical models** and highly accurate **experimental systems** to generate **forecasts** of the dynamics in response to these changes. 
 
 In 2016, after 4.5 years as a **postdoc at University of Zurich**, I decided to no longer pursue an academic career. The reasons were diverse and too complex to be explained in detail here. However, I can say that I strongly felt that I needed something new and exciting outside the ivory tower. And also, something that allows for better planning when having a family.
 
-
-### Present
 
 At the moment, I am working as a **data analyst** and **visualisation expert** with **PricewaterhouseCoopers Switzerland** in Zurich. To be more precise, I am supporting the people within the deals environment. My tasks include
 
@@ -29,9 +25,7 @@ At the moment, I am working as a **data analyst** and **visualisation expert** w
 It is a really interesting field to work in and learn from.
 
 
-### ...and future?
-
-Well, business data can be really interesting, especially when working with an audit/consulting company like P*w*C. The insights one gets here are hard to get anywhere else. However, I am still interested in many other topics. What is common to them is the **clever communication of information**. That is, communicating the main concerns in an **efficient and effective** way. 
+And what about the future plans? Well, business data can be really interesting, especially when working with an audit/consulting company like P*w*C. The insights one gets here are hard to get anywhere else. However, I am still interested in many other topics. What is common to them is the **clever communication of information**. That is, communicating the main concerns in an **efficient and effective** way. 
 
 The topics I am most interested in are..
 
@@ -46,7 +40,7 @@ The topics I am most interested in are..
    ![Data_ext.jpg]({{site.baseurl}}/img/Data_ext.jpg)  
 
 
- * Nature Conservation
+ * ...**Nature Conservation**
    
    Well, biology and nature conservation have always been and still are at the core of all my activities. I draw my motivation from the idea of contributing in whatever way to the preservation of our environment and a sustainable way of living.
    
@@ -64,7 +58,7 @@ The topics I am most interested in are..
    ![Edu_ext.jpg]({{site.baseurl}}/img/Edu_ext.jpg)  
 
 
- * ...Education
+ * ...**Education**
    
    I believe that most people only preserve what they are aware of. You have heard about slaughtered rhinos, sharks being killed for their fins, or polar bears dying because of melting ice making it impossible for them to hunt. Any human being has to be aware of the fact that nature's condition is not good, and it is getting visibly worse. Documentaries from BBC and others do an amazing job in reaching a vast number of people showing them nature with all its beauty, curiosities and wonders, and at the same time informing them about the various ways humans are threatening it. I am sure that from these documentaries alone a great number of people got interested in nature and might have even engaged in nature conservation. That is cool!
 
