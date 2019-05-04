@@ -25,9 +25,7 @@ At the moment, I am working as a **data analyst** and **visualisation expert** w
 It is a really interesting field to work in and learn from.
 
 
-And what about the future plans? Well, business data can be really interesting, especially when working with an audit/consulting company like P*w*C. The insights one gets here are hard to get anywhere else. However, I am still interested in many other topics. What is common to them is the **clever communication of information**. That is, communicating the main concerns in an **efficient and effective** way. 
-
-The topics I am most interested in are..
+And what about the future plans? Well, business data can be really interesting, especially when working with an audit/consulting company like P*w*C. The insights one gets here are hard to get anywhere else. However, I am still interested in many other topics. What is common to them is the **clever communication of information**. That is, communicating the main concerns in an **efficient and effective** way. The topics I am most interested in are..
 
  * ...**Data Science & Information Design**
    
@@ -45,7 +43,6 @@ The topics I am most interested in are..
    Well, biology and nature conservation have always been and still are at the core of all my activities. I draw my motivation from the idea of contributing in whatever way to the preservation of our environment and a sustainable way of living.
    
    I have a broad knowledge and interest in various fields of biology. By training, my main expertise is within
-   
    * theoretical ecology (population / community dynamics, interactions, networks...)
    * nature conservation in general
    * aquatic systems, especially fresh water (lakes and rivers; i.e., limnology)
@@ -64,7 +61,7 @@ The topics I am most interested in are..
 
    But having said that, I see that the direct environment many viewers live in gets much less attention. I always used to live in regions where I could not encounter elephants or sharks or polar bears. The last bear was killed in the early 19th century, the last wolf at the transition into the 20th century (but, latter are back again). But besides these iconic species there are so many more to discover and that are fascinating because of their habitus, behaviour, life cycle or role inside an ecological network. Without knowing what lives around you, you will have no interest in preserving it. That is why awareness training is so important.
 
-   I love explaining nature – phenomena, patterns, organisms, interactions and so on – to kids and grown-ups likewise. I often do this at my kids' kindergarten ([Freier Chindsgi Hoenggerberg](http://chindsgi-hoenggerberg.ch/)). It is fun to show them slow-worms, common toads or alpine newts. Some have never seen a slow-worm and understandably believe that it is a snake. Common toads are not frogs and they can get along pretty well without water. However, at some point in their life it is critical because of their amphibian way of life. And this lets one also explain the similarities between an alpine newt and the famous axolotl.
+   I love explaining nature – phenomena, patterns, organisms, interactions and so on – to kids and grown-ups likewise. I regularly did this at my kids' former kindergarten ([Freier Chindsgi Hoenggerberg](http://chindsgi-hoenggerberg.ch/)). It is fun to show them slow-worms, common toads or alpine newts. Some have never seen a slow-worm and understandably believe that it is a snake. Common toads are not frogs and they can get along pretty well without water. However, at some point in their life it is critical because of their amphibian way of life. And this lets one also explain the similarities between an alpine newt and the famous axolotl. 
 
    Giving people of any age an understanding of nature is one of the most rewarding things I can imagine. This and the fact that you can change the current situation to the better is why I would love being involved in any kind of education projects dealing with nature and/or natural sciences.
 
