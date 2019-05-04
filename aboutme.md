@@ -43,7 +43,7 @@ The topics I am most interested in are..
 
 	 I believe that information, even of the highly complex kind, can be communicated to (almost) any audience. But therefore you have to know your audience and be aware of available communication tools. And, maybe not that easy for scientists, you have to do the splits between accurately reflecting data and facts, and the degree of simplification that is necessary to make them graspable for your audience. A challenge, but a very cool one!
 
-![Data_ext.jpg]({{site.baseurl}}/img/Data_ext.jpg)  
+   ![Data_ext.jpg]({{site.baseurl}}/img/Data_ext.jpg)  
 
 
  * Nature Conservation
@@ -61,7 +61,7 @@ The topics I am most interested in are..
 
    That is, I am pretty familiar with the regions in which I used to live (Upper Swabia, Lake Constance, Hesse, Brandenburg/Berlin, Zurich) and the respective types of habitats one can find there. It would be great being involved in a way more applied form of nature conservation compared to what I have done so far.
 
-![Edu_ext.jpg]({{site.baseurl}}/img/Edu_ext.jpg)  
+   ![Edu_ext.jpg]({{site.baseurl}}/img/Edu_ext.jpg)  
 
 
  * ...Education
@@ -74,7 +74,7 @@ The topics I am most interested in are..
 
    Giving people of any age an understanding of nature is one of the most rewarding things I can imagine. This and the fact that you can change the current situation to the better is why I would love being involved in any kind of education projects dealing with nature and/or natural sciences.
 
-![Photography_Education_01_round_ext.jpg]({{site.baseurl}}/img/Photography_Education_01_round_ext.jpg)  
+   ![Photography_Education_01_round_ext.jpg]({{site.baseurl}}/img/Photography_Education_01_round_ext.jpg)  
 
 
 
