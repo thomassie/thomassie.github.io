@@ -6,41 +6,16 @@ published: true
 
 ![TMM_Chaiserstock_03.jpg]({{site.baseurl}}/img/TMM_Chaiserstock_03.jpg)
 
-My name is Thomas M. Massie and I am a biologist/ecologist that turned into a data analyst/visualiser.
+My name is Thomas M. Massie and I am a biologist/ecologist.
+
+I have a background in theoretical ecology. That is, I am addressing fundamental ecological processes such as (resource) competition, predator-prey interactions, synchrony among and within populations and so on. These processes influences the dynamic behaviour of single individuals, populations, and, of course, entire communities since no species is isolated from others within an ecosystem.  
+
+At the same time I am also an experimental ecologist. I really enjoy designing and performing experiments that yield accurate and reproducible data – which can be quite challenging when it comes to avoiding any disturbing influences that may lead to additional, unwanted 'noise'. Hence, it is absolutely worth choosing an experimental system that delivers reliable data to adequately inform your models. Because your analysis, the insights you infer from these, as well as any forecasts you make can be only as good as the data you work with.  
+
+After 4.5 years working as a postdoc at the University of Zurich, I recently decided to stop my academic career for now, take a personal sabbatical and start a new chapter by working in...
 
 
-### Past
-
-I did my **PhD in theoretical ecology**. That is, I was addressing fundamental ecological processes such as (resource) competition, predator-prey interactions, synchrony among and within populations and so on. Such processes influences the dynamic behaviour of single individuals, populations, and, of course, entire communities since no species is isolated from others within an ecosystem.
-
-My focus was on **changing environmental conditions** and how these **impact population and community dynamics**. I used a combined approach of **mathematical models** and highly accurate **experimental systems** to generate **forecasts** of the dynamics in response to these changes. 
-
-In 2016, after 4.5 years as a **postdoc at University of Zurich**, I decided to no longer pursue an academic career. The reasons were diverse and too complex to be explained in detail here. However, I can say that I strongly felt that I needed something new and exciting outside the ivory tower. And also, something that allows for better planning when having a family.
-
-
-### Present
-
-At the moment, I am working as a **data analyst** and **visualisation expert** with **PricewaterhouseCoopers Switzerland** in Zurich. To be more precise, I am supporting the people within the deals environment. My tasks include 
-
-  * the **analysis** of client and internal data to generate meaningful and easy-to-grasp **visualisations**,
-  * the **development of tools** the teams can use to make their work more efficient and effective, and
-  * the **advanced training** of people to make sure that they are confident using these tools and capable of performing basic data wrangling and visualisation tasks.
-
-It is a really interesting field to work in and learn from.
-
-
-### ...and future?
-
-Well, business data can be really interesting, especially when working with an audit/consulting company like P*w*C. The insight one gets here are hard to get elsewhere.
-
-However, I am still interested in many other things. What is common to them is the **clever communication of information**. That is, communicating the main messages in an **efficient and effective** way.
-
-
-
-
-
-
-#### Data Science & Information Design
+### ...Data Science & Information Design
 
 I love to search data for patterns that surprise me. Do not get me wrong! It is great when data confirms what you already know or expect. However, surprises are inevitable and very important. And also: fun. I mean, if you could decide whether to go with something simple, straightforward and expectable, or, you could choose something novel, challenging and unexpected... Well, I guess you get what I am saying. (That being said, getting no confirmation at all is pretty frustrating...)  
 
@@ -51,7 +26,7 @@ I believe that information, even of the highly complex kind, can be communicated
 ![Data_ext.jpg]({{site.baseurl}}/img/Data_ext.jpg)  
 
 
-#### ...Nature Conservation
+### ...Nature Conservation
 
 Well, biology and nature conservation have always been and still are at the core of all my activities. I draw my motivation from the idea of contributing in whatever way to the preservation of our environment and a sustainable way of living.
 
@@ -68,7 +43,7 @@ That is, I am pretty familiar with the regions in which I used to live (Upper Sw
 ![Edu_ext.jpg]({{site.baseurl}}/img/Edu_ext.jpg)  
 
 
-#### ...Education
+### ...Education
 
 I believe that most people only preserve what they are aware of. You have heard about slaughtered rhinos, sharks being killed for their fins, or polar bears dying because of melting ice making it impossible for them to hunt. Any human being has to be aware of the fact that nature's condition is not good, and it is getting visibly worse. Documentaries from BBC and others do an amazing job in reaching a vast number of people showing them nature with all its beauty, curiosities and wonders, and at the same time informing them about the various ways humans are threatening it. I am sure that from these documentaries alone a great number of people got interested in nature and might have even engaged in nature conservation. That is cool!
 
