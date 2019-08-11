@@ -11,9 +11,12 @@ published: true
 
 
 
+## since 2018
+
+
 
 ## 2017: Personal sabbatical
-At the moment I am taking a personal sabbatical to (a) spend more **time with my family**, (b) **educate myself** in topics I never really found the time before, and (c) figure out **what to do in the future**. I am super excited to see what is comming next...!
+For 1.5 years, I was taking a personal sabbatical to (a) spend more **time with my family**, (b) **educate myself** in topics I never really found the time before, and (c) figure out **what to do in the future**. I really enjoyed that break.
 
 
 ## 2012 – 2016: Postdoctoral researcher
