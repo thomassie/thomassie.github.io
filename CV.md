@@ -11,8 +11,8 @@ published: true
 
 
 
-## since 2018
-
+## Since 2018...
+...I'm working as a **data analyst** with [PwC](https://www.pwc.ch/en.html) in their Zurich office in Oerlikon. I'm part of a small data analysis team exclusively assigned to the **[Deals team]**(https://www.pwc.ch/en/services/deals.html).  My tasks comprise (a) **designing visualisations** to communicate internal and client data efficientyl and effectively - mostly in form of interactive dashboards using [Tableau](https://www.tableau.com/), (b) **educating** the Deals team in various data analytics softwares and competencies, and (c) helping them with their daily project work
 
 
 ## 2017: Personal sabbatical
