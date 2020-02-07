@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interactive CV.
-image: /img/CV --- all.png
+image: /img/CV --- all-squared.png
 tags:
   - Tableau
   - Tableau Public
