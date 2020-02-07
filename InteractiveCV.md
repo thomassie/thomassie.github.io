@@ -22,7 +22,7 @@ Finally, I included icons of my personal homepage, LinkedIn, Tableau Public and 
 
 **2 Skills and opinions**
 
-Next, I wanted to provide an overview about my skills and proficiency (left side), and about certain things I (dis)like (right side). I decided for lollipop charts because their are lighter than bar charts, but provide the same visual perception: clean, clear and fast. When looking closely you can see that the two charts overlap a bit. I arranged them like this to make better use of space on the dashboard. Also, I'm not a huge fan of dashboards that use a tile approach to display different elements. I think it makes a dashboard look more technical than necessary and, even worse, one might get the impression that the dashboard was designed using default settings. I don't like that... 
+Next, I wanted to provide an overview about my skills and proficiency (left side), and about certain things I (dis)like (right side). I decided for lollipop charts because their are lighter than bar charts, but provide the same visual perception: clean, clear and fast. When looking closely you can see that the two charts overlap a bit. I arranged them like this to make better use of space on the dashboard. Also, I'm not a huge fan of dashboards that use a tile approach to display different elements. I think it makes a dashboard look more technical than necessary and, even worse, one might get the impression that the dashboard was designed using default settings. I'm not a huge fan of that... 
 
 ![CV --- Skills.png]({{site.baseurl}}/img/CV --- Skills.png)
 
@@ -37,5 +37,7 @@ Creating labels to the left and right of the stages could only be realised by ov
 
 **4 Map**
 
+Last, I included a map. Why? Because by displaying geographical data it's a completely different element on the dashboard. Any why not showing people a couple of the places that you've been to?
+The map uses Tableau's default map. I was actually creating a custom map with Mapbox, which is an absolutely amazing map service. However, it wasn't loading the first time I uploaded my CV to Tableau Public and, hence, I turned back to the dafult map.
 
 ![CV --- Map.png]({{site.baseurl}}/img/CV --- Map.png)
