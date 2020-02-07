@@ -27,6 +27,7 @@ navbar-links:
   CV: "CV"
   Publications: "Publications"
   Projects:
+    - Interactive CV: "InteractiveCV"
     - RShiny: "RShiny"
     - Storms: "Storms"
     - Terrorism: "Terrorism"
