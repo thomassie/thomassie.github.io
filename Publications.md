@@ -7,7 +7,9 @@ published: true
 
 ## Scientific, peer-reviewed publications
 
-Petchey, O. L., M. Pontarp, **T. M. Massie**, F. Altermatt, A. Beckerman, D. Childs, S. Kéfi, J. Levine, B. Matthews, B. McGill, A. Ozgul, G. M. Palamara, F. Pennekamp, M. Schaepmann, P. Spaak, M. Weilenmann (**2015**) _The Ecological Forecast Horizon, and examples of its uses and determinants._  [Ecology Letters](http://onlinelibrary.wiley.com/doi/10.1111/ele.12443/full) 18: 597–611  
+Pennekamp, F., M. Pontarp, A. Tabi, F. Altermatt, R. Alther, Y. Choffat, E. A. Fronhofer, P. Ganesanandamoorthy, A. Garnier, J. I. Griffiths, S. Greene, K. Horgan, **T. M. Massie**, E. Mächler, G.-M. Palamara, M. Seymour, and O. L. Petchey (**2018**) _Biodiversity increases and decreases ecosystem stability._ [Nature](https://www.nature.com/articles/s41586-018-0627-8?utm_source=Nature_community&utm_medium=Community_sites&utm_content=BenJoh-Nature-MultipleJournals-Evolutionary_Biology-Global&utm_campaign=MultipleJournals_USG_ECOEVO)
+
+Petchey, O. L., M. Pontarp, **T. M. Massie**, F. Altermatt, A. Beckerman, D. Childs, S. Kéfi, J. Levine, B. Matthews, B. McGill, A. Ozgul, G.-M. Palamara, F. Pennekamp, M. Schaepmann, P. Spaak, M. Weilenmann (**2015**) _The Ecological Forecast Horizon, and examples of its uses and determinants._  [Ecology Letters](http://onlinelibrary.wiley.com/doi/10.1111/ele.12443/full) 18: 597–611  
 
 Altermatt, F., E. A. Fronhofer, A. Garnier, A. Giometto, F. Hammes, J. Klecka, D. Legrand, E. Mächler, **T. M. Massie**, F. Pennekamp, M. Plebani, M. Pontarp, N. Schtickzelle, V. Thuillier, O. L . Petchey (**2015**) _Big answers from small worlds: a user’s guide for protist microcosms as a model system in ecology and evolution._ [Methods in Ecology and Evolution](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12312/full) doi: 10.1111/2041-210X.12312  
 
