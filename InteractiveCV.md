@@ -4,7 +4,7 @@ title: Interactive CV
 published: true
 ---
 ![CV --- all-big.png]({{site.baseurl}}/img/CV --- all-big.png)
-
+ 
 
 ## Building an interactive CV with Tableau
 
@@ -16,12 +16,14 @@ When you look at the overview of the dashboard above you may recognise that I di
 I used the portrait picture from the CV mentioned above and placed it in the top-left corner. It's the area your eyes will focus on first.
 Next, I was playing around with my name. The fact that three letter in my first and last name overlap (thoMASsie) lead me to the idea of displaying the four parts (THO MAS MAS SIE) by a 2x2 matrix. Using two colours supports reading my name in two different ways: top-down by columns, or left-right by rows.
 I was using the two colours also for my profession by training (biologist/ecologist, grey) and by my current scope of work (data analyst/visualiser, blue).
-Finally, 
+Finally, I included icons of my personal homepage, LinkedIn, Tableau Public and Twitter as well as the links referring to my profiles when clicking on these.
 
 ![CV --- Links.png]({{site.baseurl}}/img/CV --- Links.png)
 
 
 #### **2**
+Next, I wanted to provide an overview about my skills and proficiency (left side), and about certain things I (dis)like (right side). I chose lollipop charts because their are lighter than bar charts
+
 ![CV --- Skills.png]({{site.baseurl}}/img/CV --- Skills.png)
 
 #### **3**
