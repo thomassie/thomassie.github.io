@@ -7,7 +7,7 @@ published: true
 
 ## Scientific, peer-reviewed publications
 
-Pennekamp, F., M. Pontarp, A. Tabi, F. Altermatt, R. Alther, Y. Choffat, E. A. Fronhofer, P. Ganesanandamoorthy, A. Garnier, J. I. Griffiths, S. Greene, K. Horgan, **T. M. Massie**, E. Mächler, G.-M. Palamara, M. Seymour, and O. L. Petchey (**2018**) _Biodiversity increases and decreases ecosystem stability._ [Nature](https://www.nature.com/articles/s41586-018-0627-8?utm_source=Nature_community&utm_medium=Community_sites&utm_content=BenJoh-Nature-MultipleJournals-Evolutionary_Biology-Global&utm_campaign=MultipleJournals_USG_ECOEVO)
+Pennekamp, F., M. Pontarp, A. Tabi, F. Altermatt, R. Alther, Y. Choffat, E. A. Fronhofer, P. Ganesanandamoorthy, A. Garnier, J. I. Griffiths, S. Greene, K. Horgan, **T. M. Massie**, E. Mächler, G.-M. Palamara, M. Seymour, and O. L. Petchey (**2018**) _Biodiversity increases and decreases ecosystem stability._ [Nature](https://www.nature.com/articles/s41586-018-0627-8?utm_source=Nature_community&utm_medium=Community_sites&utm_content=BenJoh-Nature-MultipleJournals-Evolutionary_Biology-Global&utm_campaign=MultipleJournals_USG_ECOEVO) 563: 109–112
 
 Petchey, O. L., M. Pontarp, **T. M. Massie**, F. Altermatt, A. Beckerman, D. Childs, S. Kéfi, J. Levine, B. Matthews, B. McGill, A. Ozgul, G.-M. Palamara, F. Pennekamp, M. Schaepmann, P. Spaak, M. Weilenmann (**2015**) _The Ecological Forecast Horizon, and examples of its uses and determinants._  [Ecology Letters](http://onlinelibrary.wiley.com/doi/10.1111/ele.12443/full) 18: 597–611  
 
