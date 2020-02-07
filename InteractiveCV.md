@@ -15,3 +15,12 @@ When you look at the picture above you recognise that I divided the dashboard in
 **1**
 ![CV --- Links.png]({{site.baseurl}}/img/CV --- Links.png)
 I used the portrait picture from the CV mentioned above and placed it in the top-left corner.
+
+**1**
+![CV --- Skills.png]({{site.baseurl}}/img/CV --- Skills.png)
+
+**1**
+![CV --- Time line.png]({{site.baseurl}}/img/CV --- Time line.png)
+
+**1**
+![CV --- Map.png]({{site.baseurl}}/img/CV --- Map.png)
