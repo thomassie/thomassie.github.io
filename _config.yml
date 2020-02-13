@@ -28,6 +28,7 @@ navbar-links:
   Publications: "Publications"
   Projects:
     - Interactive CV: "InteractiveCV"
+    - Dogs of Zurich: "DogsOfZurich"
     - RShiny: "RShiny"
     - Storms: "Storms"
     - Terrorism: "Terrorism"
