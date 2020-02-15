@@ -30,7 +30,7 @@ These are three questions for which one can easily build a dashboard to answer t
 ### What's the content?
 First, I decided that the dashboard should have two parts: a **cover** that provides a quick overview about the main facts (How many dogs? How many types? How many owners?), and, the actual **dashboard** which contains more detailed information and allows for a higher degree of interactivity. These parts are connected by, both, a navigation button on the lower right corner and the globally acting parameter values.
 
-### The cover
+### Part I: the cover
 I call it 'cover' but it could as well be named 'overview' or 'intro'. To me, it serves as a cover for the actual dashboard. Therefore, it does show the **main facts**, but lacks the detail and interactivity provided by the actual dashboard.
 
 ![Dogs --- Cover_1st.png]({{site.baseurl}}/img/Dogs --- Cover_1st.png)
@@ -45,4 +45,10 @@ On the bottom of the cover I included a **wordcloud** (**4**) to see the actual 
 Finally, I included a super simple **area chart** (**5**) to display how many dogs belong to which dog type. The respective dog type gets highlighted in here when hovering over the wordcloud.
 
 
-### The dashboard
+### **Part II: the dashboard**
+
+The actual dashboard contains all the information, visualisations and functionality to quickly answer the questions stated above, and, in addition, allows to **derive detailed insights** about this dataset.
+
+![Dogs --- Dashboard_1st.png]({{site.baseurl}}/img/Dogs --- Dashboard_1st.png)
+
+The dashboard shows the same **adjustable parameters** (**1**) as the cover
