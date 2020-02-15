@@ -51,4 +51,10 @@ The actual dashboard contains all the information, visualisations and functional
 
 ![Dogs --- Dashboard_1st.png]({{site.baseurl}}/img/Dogs --- Dashboard_1st.png)
 
-The dashboard shows the same **adjustable parameters** (**1**) as the cover
+The dashboard shows the same **key figures** (**1**) and **adjustable parameters** (**2**) as the cover. This helps the viewer getting quickly familiar with the dashboard.
+The information plus provided here is given by introducing **dog types (races)** (**3**) and **age classes** (**4**) for dog owners. These two categorical variables span a matrix in which the number of dogs is displayed by numbers and colour. The result is a heatmap the easily allows to identify which dog types are most popular for a given age class.
+
+![Dogs --- Dashboard_2nd.png]({{site.baseurl}}/img/Dogs --- Dashboard_2nd.png)
+
+
+![Dogs --- Dashboard_3rd.png]({{site.baseurl}}/img/Dogs --- Dashboard_3rd.png)
