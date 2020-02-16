@@ -32,7 +32,7 @@ These are three questions for which one can easily build a dashboard to answer t
 ## What's the content?
 First, I decided that the dashboard should have two parts: a **cover** that provides a quick overview about the main facts (How many dogs? How many types? How many owners?), and, the actual **dashboard** which contains more detailed information and allows for a higher degree of interactivity. These parts are connected by, both, a navigation button on the lower right corner and the globally acting parameter values.
 
-## Part I: the cover
+## Part I: cover
 I call it 'cover' but it could as well be named 'overview' or 'intro'. To me, it serves as a cover for the actual dashboard. Therefore, it does show the **main facts**, but lacks the detail and interactivity provided by the actual dashboard.
 
 ![Dogs --- Cover_1st.png]({{site.baseurl}}/img/Dogs --- Cover_1st.png)
@@ -47,9 +47,9 @@ On the bottom of the cover I included a **wordcloud** (**4**) to see the actual 
 Finally, I included a super simple **area chart** (**5**) to display how many dogs belong to which dog type. The respective dog type gets highlighted in here when hovering over the wordcloud.
 
 
-## Part II: the dashboard
+## Part II: dashboard
 
-The actual dashboard contains all the information, visualisations and functionality to quickly answer the questions stated above, and, in addition, allows to **derive detailed insights** about this dataset.
+The actual dashboard contains all the information, visualizations and functionality to quickly answer the questions stated above, and, in addition, allows to **derive detailed insights** about this dataset.
 
 ![Dogs --- Dashboard_1st.png]({{site.baseurl}}/img/Dogs --- Dashboard_1st.png)
 
@@ -64,6 +64,8 @@ On top of the heatmap I placed a **first distribution** (**5**) of dog numbers r
 
 To the right of the heatmap, a **second distribution** (**6**) provides the viewer with dog numbers related to the top *n* dog types as well as the respective rank. When hovering over the bars one can read the type, the number of dogs and its relative contribution to the top *n* group.
 
+![Dogs --- Dashboard_4th.png]({{site.baseurl}}/img/Dogs --- Dashboard_4th.png)
+
 This is the basic design: a heatmap with marginal distributions to the top and right. Now, let's switch to the actual topics why I designed this dashboard.
 
 
@@ -73,14 +75,21 @@ In general, I'm not a bid fan of tables being used in dashboards. That's somethi
 
 What I do like are **ranked tables**. Whenever one is interested in top performing branches, most sold products, best reviewed locations and so on, a ranked table provides this information at a glance. Hence, this type of tables can come in very handy from time to time.
 
-However, due to design reasons, sometimes one has to **combine two or more tables to behave like a single one**. That's when synchronous scrolling comes into play. And that's not easy to solve with Tableau, in my opinion. I tried a couple of suggestions I found in diverse Tableau resources. However, none of them are really satisfying. So, in the end, I went with [Klaus Schulte](https://vizjockey.com/author/vizjockey/)'s [approach](https://vizjockey.com/2018/09/21/custom-scroll-control-for-synchronized-scrolling/) because it's by far the simplest one.
-It doesn't work perfectly, especially when using it together with a top *n* table. But, that's in my opinion the most straightforward solution.
+However, due to design reasons, sometimes one has to **combine two or more tables to behave like a single one**. That's when synchronous scrolling comes into play. And that's not easy to solve with Tableau, in my opinion. I tried a couple of suggestions I found in diverse Tableau resources. However, none of them are really satisfying. So, in the end, I went with [Klaus Schulte](https://vizjockey.com/author/vizjockey/)'s [approach](https://vizjockey.com/2018/09/21/custom-scroll-control-for-synchronized-scrolling/) because it's by far the easiest one.
+
+![Dogs --- Dashboard_5th.png]({{site.baseurl}}/img/Dogs --- Dashboard_5th.png)
+
+What happens? When looking carefully at the **slider for synchronized scrolling** (**7**) one can see that is it was moved to the right (its actual value is set to 11). The top *n* slider value was set to 20. That is, the slider value is used as a filter to show only the values from 11 to top *n*. Since top *n* was chosen to be 20 one can see the second half of the top *n* group starting with rank 11 (**8**).
+
+It doesn't work perfectly, especially when using it together with a top *n* table. But, that's in my opinion the most straightforward solution. Let me know if you have any better solution!
 
 ## Switching containers on/off
 
-Switching between two visualisation, e.g., line vs. bar chart, can be done in various ways. For instance, one might use a dual axis chart and make the views dependent on a parameter value (c.f., [here](https://www.tableau.com/about/blog/2015/7/lrtt-parameters-alter-your-viz-40767)), or, one uses a container and filter values to select between chart types (c.f., [here](https://www.thedataschool.co.uk/hashu-shenkar/tableau-tip-switch-between-views-dynamically-on-a-dashboard/)). But, since Tableau version 2019.2 one can make use of a layout container's **show/hide button**. You might have a look at [Ryan Sleeper](https://www.ryansleeper.com)'s [example](https://playfairdata.com/tableau-tip-how-to-do-better-sheet-swapping/) on Playfair Data of how to apply it.
+Switching between two visualization, e.g., line vs. bar chart, can be done in various ways. For instance, one might use a dual axis chart and make the views dependent on a parameter value (c.f., [here](https://www.tableau.com/about/blog/2015/7/lrtt-parameters-alter-your-viz-40767)), or, one uses a container and filter values to select between chart types (c.f., [here](https://www.thedataschool.co.uk/hashu-shenkar/tableau-tip-switch-between-views-dynamically-on-a-dashboard/)). But, since Tableau version 2019.2 one can make use of a layout container's **show/hide button**. You might have a look at [Ryan Sleeper](https://www.ryansleeper.com)'s [example](https://playfairdata.com/tableau-tip-how-to-do-better-sheet-swapping/) on Playfair Data of how to apply it.
 
-I was using the show/hide button to switch between a chart showing total dog numbers per type and a chart that shows the same data by dog owner's gender. 
+![Dogs --- Dashboard_6th.png]({{site.baseurl}}/img/Dogs --- Dashboard_6th.png)
+
+I was using the **show/hide button** (**9**) to switch between a chart showing total dog numbers per type and a chart that shows the same **data by dog owner's gender** (**10**). When clicking on the text button one can switch between both views. I think that a very simple and convenient way of showing differing/complementary content.
 
 
 
