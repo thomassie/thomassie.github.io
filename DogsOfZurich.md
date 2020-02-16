@@ -8,7 +8,7 @@ published: true
 ![Dogs --- Dashboard_all.png]({{site.baseurl}}/img/Dogs --- Dashboard_all.png)
 
 
-### Why this dashboard...?
+## Why this dashboard...?
 Do I have a particular interest in dogs? Nope, definitely not. Rather, I wanted to check out two functionalities in [Tableau](tableau.com):
 
 - **synchronous scrolling** of two or more tables, and
@@ -17,7 +17,7 @@ Do I have a particular interest in dogs? Nope, definitely not. Rather, I wanted 
 Now, that dog dataset I came across earlier when looking for data with [Open Data Zurich](https://data.stadt-zuerich.ch/), an open data catalog containing freely accessible data from the city of Zurich. There's a lot of interesting data to find there... I chose the dog dataset because it's small and not used very often. But you can find an outdated version on [Kaggle](), too.
 
 
-### What's its scope?
+## What's its scope?
 Because every visualisation needs to be designed to answer specific questions I came up with the following:
 
 1. How many **dogs** are there in Zurich?
@@ -27,7 +27,7 @@ Because every visualisation needs to be designed to answer specific questions I 
 These are three questions for which one can easily build a dashboard to answer them.
 
 
-### What's the content?
+## What's the content?
 First, I decided that the dashboard should have two parts: a **cover** that provides a quick overview about the main facts (How many dogs? How many types? How many owners?), and, the actual **dashboard** which contains more detailed information and allows for a higher degree of interactivity. These parts are connected by, both, a navigation button on the lower right corner and the globally acting parameter values.
 
 ## Part I: the cover
@@ -45,7 +45,7 @@ On the bottom of the cover I included a **wordcloud** (**4**) to see the actual 
 Finally, I included a super simple **area chart** (**5**) to display how many dogs belong to which dog type. The respective dog type gets highlighted in here when hovering over the wordcloud.
 
 
-### **Part II: the dashboard**
+## Part II: the dashboard
 
 The actual dashboard contains all the information, visualisations and functionality to quickly answer the questions stated above, and, in addition, allows to **derive detailed insights** about this dataset.
 
@@ -56,11 +56,11 @@ The detailed information provided here is given by introducing **dog types (race
 
 ![Dogs --- Dashboard_2nd.png]({{site.baseurl}}/img/Dogs --- Dashboard_2nd.png)
 
-On top of the heatmap I placed the **distribution** (**5**) of dog numbers along the owners age classes. In addition, the proportion of top *n* dog types is coloured in yellow to quickly compare it to the rest (grey).
+On top of the heatmap I placed a **first distribution** (**5**) of dog numbers related to owners age classes. In addition, the proportion of top *n* dog types is coloured in yellow to quickly compare it to all other dog types (grey).
 
 ![Dogs --- Dashboard_3rd.png]({{site.baseurl}}/img/Dogs --- Dashboard_3rd.png)
 
-To the right of the heatmap, a second distribution provides the viewer with dog numbers related to the top *n* dog types as well as the respective rank. When hovering over the bars one can read the type, the number of dogs and its relative contribution to the top *n* group.
+To the right of the heatmap, a **second distribution** (**6**) provides the viewer with dog numbers related to the top *n* dog types as well as the respective rank. When hovering over the bars one can read the type, the number of dogs and its relative contribution to the top *n* group.
 
 This is the basic design of the dashboard. Now, let's switch to the actual topics why I designed this dashboard.
 
