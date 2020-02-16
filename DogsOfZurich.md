@@ -7,6 +7,8 @@ published: true
 
 ![Dogs --- Dashboard_all.png]({{site.baseurl}}/img/Dogs --- Dashboard_all.png)
 
+Dogs of Zurich is a dashboard that provides an overview about the dog types registered in the city of Zurich (CH). I
+
 
 ## Why this dashboard...?
 Do I have a particular interest in dogs? Nope, definitely not. Rather, I wanted to check out two functionalities in [Tableau](tableau.com):
@@ -14,7 +16,7 @@ Do I have a particular interest in dogs? Nope, definitely not. Rather, I wanted 
 - **synchronous scrolling** of two or more tables, and
 - **switching containers on/off** to show/hide content
 
-Now, that dog dataset I came across earlier when looking for data with [Open Data Zurich](https://data.stadt-zuerich.ch/), an open data catalog containing freely accessible data from the city of Zurich. There's a lot of interesting data to find there... I chose the dog dataset because it's small and not used very often. But you can find an outdated version on [Kaggle](), too.
+Now, that dog dataset I came across earlier when looking for data with [Open Data Zurich](https://data.stadt-zuerich.ch/), an open data catalog containing freely accessible data from the city of Zurich. There's a lot of interesting data to find there... I chose the dog dataset because it's small and not used very often. But you can find an outdated version on [Kaggle](https://www.kaggle.com/kmader/dogs-of-zurich), too.
 
 
 ## What's its scope?
@@ -62,12 +64,16 @@ On top of the heatmap I placed a **first distribution** (**5**) of dog numbers r
 
 To the right of the heatmap, a **second distribution** (**6**) provides the viewer with dog numbers related to the top *n* dog types as well as the respective rank. When hovering over the bars one can read the type, the number of dogs and its relative contribution to the top *n* group.
 
-This is the basic design of the dashboard. Now, let's switch to the actual topics why I designed this dashboard.
+This is the basic design: a heatmap with marginal distributions to the top and right. Now, let's switch to the actual topics why I designed this dashboard.
 
 
 ## Synchronous scrolling
 
+In general, I'm not a bid fan of tables being used in dashboards. That's something people asked me for very often in my daily work: re-building Excel in Tableau. Not only that this is really missing the point of why to use dashboards, but also it gives you an idea about the mindset of the people and how they think about (visual) data analytics...
 
+What I do like are **ranked tables**. Whenever one is interested in top performing branches, most sold products, best reviewed locations and so on, a ranked table provides this information at a glance. Hence, this type of tables can come in very handy from time to time.
+
+However, due to design reasons, sometimes one has to combine two or more tables to behave like a single one. That's when synchronous scrolling comes into play. And that's not easy to solve, in my opinion.
 
 ## Switching containers on/off
 
