@@ -3,11 +3,11 @@ layout: page
 title: Dogs of Zurich
 published: true
 ---
+Dogs of Zurich is a dashboard that provides an overview about the dog types registered in the city of Zurich (CH). You can have a look at this dashboard on Tableau Public [here](https://public.tableau.com/profile/thomas.massie#!/vizhome/DOGSofZURICH/DOGSofZURICH---Cover).
+
 ![Dogs --- Cover_all.png]({{site.baseurl}}/img/Dogs --- Cover_all.png)
 
 ![Dogs --- Dashboard_all.png]({{site.baseurl}}/img/Dogs --- Dashboard_all.png)
-
-Dogs of Zurich is a dashboard that provides an overview about the dog types registered in the city of Zurich (CH). You can have a look at this dashboard on Tableau Public [here](https://public.tableau.com/profile/thomas.massie#!/vizhome/DOGSofZURICH/DOGSofZURICH---Cover).
 
 
 ## Why this dashboard...?
@@ -90,11 +90,3 @@ Switching between two visualization, e.g., line vs. bar chart, can be done in va
 ![Dogs --- Dashboard_6th.png]({{site.baseurl}}/img/Dogs --- Dashboard_6th.png)
 
 I was using the **show/hide button** (**9**) to switch between a chart showing total dog numbers per type and a chart that shows the same **data by dog owner's gender** (**10**). When clicking on the text button one can switch between both views. I think that a very simple and convenient way of showing differing/complementary content.
-
-
-
-
-
-
-
-e
