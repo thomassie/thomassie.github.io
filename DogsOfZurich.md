@@ -30,7 +30,7 @@ These are three questions for which one can easily build a dashboard to answer t
 ### What's the content?
 First, I decided that the dashboard should have two parts: a **cover** that provides a quick overview about the main facts (How many dogs? How many types? How many owners?), and, the actual **dashboard** which contains more detailed information and allows for a higher degree of interactivity. These parts are connected by, both, a navigation button on the lower right corner and the globally acting parameter values.
 
-### Part I: the cover
+## Part I: the cover
 I call it 'cover' but it could as well be named 'overview' or 'intro'. To me, it serves as a cover for the actual dashboard. Therefore, it does show the **main facts**, but lacks the detail and interactivity provided by the actual dashboard.
 
 ![Dogs --- Cover_1st.png]({{site.baseurl}}/img/Dogs --- Cover_1st.png)
@@ -40,7 +40,7 @@ To get to the actual dashboard you can click on the **navigation button** (**3**
 
 ![Dogs --- Cover_2nd.png]({{site.baseurl}}/img/Dogs --- Cover_2nd.png)
 
-On the bottom of the cover I included a **wordcloud** (**4**) to see the actual dogs types. When hovering over the type names, a tooltip appears revealing the total number of dogs belonging to this type and the respective rank in parentheses. In addition, when clicking on a type a link is provided to the respective site with [Wikipedia.de](https://wikipedia.de). Please, be aware that this link will guide you to the German Wikipedia page! This is due to the fact that the names of all dog types are in German. It would have been to much of an effort to translate them into English. Sorry...!
+On the bottom of the cover I included a **wordcloud** (**4**) to see the actual dogs types. When hovering over the type names, a tooltip appears revealing the total number of dogs belonging to this type and the respective rank in parentheses. In addition, when clicking on a type a link is provided to the respective site with [Wikipedia.de](https://wikipedia.de). Please, be aware that this link will guide you to the German Wikipedia page! This is due to the fact that the names of all dog types are in German. It would have been too much of an effort to translate them into English. Sorry...!
 
 Finally, I included a super simple **area chart** (**5**) to display how many dogs belong to which dog type. The respective dog type gets highlighted in here when hovering over the wordcloud.
 
@@ -52,9 +52,23 @@ The actual dashboard contains all the information, visualisations and functional
 ![Dogs --- Dashboard_1st.png]({{site.baseurl}}/img/Dogs --- Dashboard_1st.png)
 
 The dashboard shows the same **key figures** (**1**) and **adjustable parameters** (**2**) as the cover. This helps the viewer getting quickly familiar with the dashboard.
-The information plus provided here is given by introducing **dog types (races)** (**3**) and **age classes** (**4**) for dog owners. These two categorical variables span a matrix in which the number of dogs is displayed by numbers and colour. The result is a heatmap the easily allows to identify which dog types are most popular for a given age class.
+The detailed information provided here is given by introducing **dog types (races)** (**3**) and **age classes** (**4**) for dog owners. These two categorical variables span a matrix in which the number of dogs is displayed by numbers and colour. Dog types are sorted by numbers in descending order. The result is a heatmap the easily allows to identify which dog types are most popular for a given age class.
 
 ![Dogs --- Dashboard_2nd.png]({{site.baseurl}}/img/Dogs --- Dashboard_2nd.png)
 
+On top of the heatmap I placed the **distribution** (**5**) of dog numbers along the owners age classes. In addition, the proportion of top *n* dog types is coloured in yellow to quickly compare it to the rest (grey).
 
 ![Dogs --- Dashboard_3rd.png]({{site.baseurl}}/img/Dogs --- Dashboard_3rd.png)
+
+To the right of the heatmap, a second distribution provides the viewer with dog numbers related to the top *n* dog types as well as the respective rank. When hovering over the bars one can read the type, the number of dogs and its relative contribution to the top *n* group.
+
+This is the basic design of the dashboard. Now, let's switch to the actual topics why I designed this dashboard.
+
+
+## Synchronous scrolling
+
+
+
+## Switching containers on/off
+
+fr
