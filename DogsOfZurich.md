@@ -7,7 +7,7 @@ published: true
 
 ![Dogs --- Dashboard_all.png]({{site.baseurl}}/img/Dogs --- Dashboard_all.png)
 
-Dogs of Zurich is a dashboard that provides an overview about the dog types registered in the city of Zurich (CH). I
+Dogs of Zurich is a dashboard that provides an overview about the dog types registered in the city of Zurich (CH). You can have a look at this dashboard on Tableau Public [here](https://public.tableau.com/profile/thomas.massie#!/vizhome/DOGSofZURICH/DOGSofZURICH---Cover).
 
 
 ## Why this dashboard...?
@@ -73,8 +73,19 @@ In general, I'm not a bid fan of tables being used in dashboards. That's somethi
 
 What I do like are **ranked tables**. Whenever one is interested in top performing branches, most sold products, best reviewed locations and so on, a ranked table provides this information at a glance. Hence, this type of tables can come in very handy from time to time.
 
-However, due to design reasons, sometimes one has to combine two or more tables to behave like a single one. That's when synchronous scrolling comes into play. And that's not easy to solve, in my opinion.
+However, due to design reasons, sometimes one has to **combine two or more tables to behave like a single one**. That's when synchronous scrolling comes into play. And that's not easy to solve with Tableau, in my opinion. I tried a couple of suggestions I found in diverse Tableau resources. However, none of them are really satisfying. So, in the end, I went with [Klaus Schulte](https://vizjockey.com/author/vizjockey/)'s [approach](https://vizjockey.com/2018/09/21/custom-scroll-control-for-synchronized-scrolling/) because it's by far the simplest one.
+It doesn't work perfectly, especially when using it together with a top *n* table. But, that's in my opinion the most straightforward solution.
 
 ## Switching containers on/off
 
-fr
+Switching between two visualisation, e.g., line vs. bar chart, can be done in various ways. For instance, one might use a dual axis chart and make the views dependent on a parameter value (c.f., [here](https://www.tableau.com/about/blog/2015/7/lrtt-parameters-alter-your-viz-40767)), or, one uses a container and filter values to select between chart types (c.f., [here](https://www.thedataschool.co.uk/hashu-shenkar/tableau-tip-switch-between-views-dynamically-on-a-dashboard/)). But, since Tableau version 2019.2 one can make use of a layout container's **show/hide button**. You might have a look at [Ryan Sleeper](https://www.ryansleeper.com)'s [example](https://playfairdata.com/tableau-tip-how-to-do-better-sheet-swapping/) on Playfair Data of how to apply it.
+
+I was using the show/hide button to switch between a chart showing total dog numbers per type and a chart that shows the same data by dog owner's gender. 
+
+
+
+
+
+
+
+e
