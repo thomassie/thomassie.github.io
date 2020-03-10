@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Complex Superstore.
-image: /img/Complex Superstore - square.png
+image: /img/CV --- all-squared.png
 tags:
   - Tableau
   - Tableau Public
