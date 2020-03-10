@@ -16,6 +16,8 @@ date: '2020-03-10'
 ---
 A feature recently introduced in Tableau is **animations**. While you might think that this is rather a gimmick than truly adding value to your visualisations, please, have a look at [this dashboard](https://public.tableau.com/profile/thomas.massie#!/vizhome/SuperstoreUS_15829114428100/DASHBOARD) build from Tableau's Superstore dataset.
 
+![Complex Superstore.png]({{site.baseurl}}/img/Complex Superstore.png)
+
 I believe that animations can add a lot of value to many visualisations. A great and well-known example is Hans Rossling's presentation of how average life expectancy at birth vs. fertility rate changed over time ([TED talk from 2007](https://www.youtube.com/watch?v=hVimVzgtD6w)).
 
 Animated visualisations provide a means to 'feel' the change in your data. This is especially true for changes in time or space to which we can easily relate to. But it also works for changes in numerical variables like 'sales' or 'profit'. Next time you create a dashboard or static chart, try using animations and see whether they can add some value to it.
