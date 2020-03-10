@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Complex Superstore.
-image: /img/Complex Superstore - squared.png
+image: /img/Complex Superstore --- Dashboard-squared.png
 tags:
   - Tableau
   - Tableau Public
@@ -16,7 +16,7 @@ date: '2020-03-10'
 ---
 A feature recently introduced in Tableau is **animations**. While you might think that this is rather a gimmick than truly adding value to your visualisations, please, have a look at [this dashboard](https://public.tableau.com/profile/thomas.massie#!/vizhome/SuperstoreUS_15829114428100/DASHBOARD) build from Tableau's Superstore dataset.
 
-![Complex Superstore.png]({{site.baseurl}}/img/Complex Superstore.png)
+![Complex Superstore --- Dashboard.png]({{site.baseurl}}/img/Complex Superstore --- Dashboard.png)
 
 I believe that animations can add a lot of value to many visualisations. A great and well-known example is Hans Rossling's presentation of how average life expectancy at birth vs. fertility rate changed over time ([TED talk from 2007](https://www.youtube.com/watch?v=hVimVzgtD6w)).
 
