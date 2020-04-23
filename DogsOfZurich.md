@@ -9,6 +9,8 @@ Dogs of Zurich is a dashboard that provides an overview about the dog types regi
 
 ![Dogs --- Dashboard_all.png]({{site.baseurl}}/img/Dogs --- Dashboard_all.png)
 
+![Dogs --- Cover_all.png]({{site.baseurl}}/vid/Dogs of Zurich.mov)
+
 
 ## Why this dashboard...?
 Do I have a particular interest in dogs? Nope, definitely not. Rather, I wanted to check out two functionalities in [Tableau](tableau.com):
