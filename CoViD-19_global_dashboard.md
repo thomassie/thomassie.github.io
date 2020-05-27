@@ -10,11 +10,70 @@ published: true
 
 
 
-**1 Portrait**
+**Loading data**
 
-I used the portrait picture from the CV mentioned above and placed it in the top-left corner. It's the area your eyes will focus on first. Next, I was playing around with my name. The fact that three letter in my first and last name overlap (thoMASsie) lead me to the idea of displaying the four parts (THO MAS MAS SIE) by a 2x2 matrix. Using two colours supports reading my name in two different ways: top-down by columns, or left-right by rows.I was using the two colours also for my profession by training (biologist/ecologist, grey) and by my current scope of work (data analyst/visualiser, blue).
-Finally, I included icons of my personal homepage, LinkedIn, Tableau Public and Twitter as well as the links referring to the respective profiles when clicking on the icons.
+BlaBla
 
 ![CV --- Links.png]({{site.baseurl}}/img/CV --- Links.png)
+
+
+
+
+First, I load the required packages `tidyverse` (data manipulation etc.) and `janitor` (here, ony to use `clean_names()`). No other packages are needed here.
+```
+library(tidyverse)
+library(janitor)
+```
+
+Then, I read the from the respective [CoViD-19 GitHub repository](https://github.com/CSSEGISandData/COVID-19) of the [Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://systems.jhu.edu/). The times series data is to be found in three seperate files for *confirmed cases*, *deaths* and *recovered cases*. Here's what I did with the confirmed cases data.
+```
+# confirmed cases
+
+# Connect to the repository and read the raw .csv file:
+dd_org_confirmed = read_csv(url("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv")) %>% 
+	# If information on provinces is needed you might uncomment this line:
+  	# select(., -c("Province/State")) %>% 
+	# Transform to long format.
+  	pivot_longer(., cols = -c("Country/Region", "Province/State", "Lat", "Long"), names_to = "Date", values_to = "confirmed")
+
+```
+
+The same is done for deths and recovered cases.
+```
+# deaths
+dd_org_deaths = read_csv(url("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv")) %>% 
+  	pivot_longer(., cols = -c("Country/Region", "Province/State", "Lat", "Long"), names_to = "Date", values_to = "deaths") 
+
+# recovered
+dd_org_recovered = read_csv(url("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv")) %>% 
+  	pivot_longer(., cols = -c("Country/Region", "Province/State", "Lat", "Long"), names_to = "Date", values_to = "recovered") 
+ ```
+
+All three datasets are combined to a single one that contains all information.
+```
+dd <- dd_org_confirmed %>% 
+	# Combine datasets by left-joining these:
+  	left_join(., dd_org_deaths, by = c("Country/Region", "Province/State", "Date", "Lat", "Long"), copy = FALSE, keep = FALSE) %>% 
+  	left_join(., dd_org_recovered, by = c("Country/Region", "Province/State", "Date", "Lat", "Long"), copy = FALSE, keep = FALSE) %>% 
+  	# Adding a new variable for active cases:
+  	mutate(active = confirmed - deaths - recovered,
+         Date = mdy(Date)) %>% 
+    # Collapse case types to a single variable denoted 'status':
+  	pivot_longer(., cols = c(confirmed, deaths, recovered, active), names_to = "status", values_to = "cases") %>% 
+  	# Clean variable names:
+  	clean_names() 
+```
+
+Now, quick check what the data looks like.
+```
+str(dd)
+head(dd)
+```
+
+Finally, I export the the data to a .csv file on my computer. Alterantively, one could save the data to another repository and connect Tableau to it via a web connector. But, for now, I didn't manage to do this...
+```
+# Export to .csv file.
+write.csv(dd, "user_path/covid_time_series.csv")
+```
 
 
