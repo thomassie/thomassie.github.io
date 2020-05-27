@@ -69,8 +69,7 @@ Now, quick check what the data looks like.
 str(dd)
 head(dd)
 ```
-![CoViD-19_str.png]({{site.baseurl}}/img/CoViD-19_str.png)
-![CoViD-19_head.png]({{site.baseurl}}/img/CoViD-19_head.png)
+![CoViD-19_str_head.png]({{site.baseurl}}/img/CoViD-19_str_head.png)
 
 And a brief graphical check:
 ```
