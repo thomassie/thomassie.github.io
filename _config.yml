@@ -27,6 +27,7 @@ navbar-links:
   CV: "CV"
   Publications: "Publications"
   Projects:
+    - Global CoViD-19 Dashboard: "CoViD-19_global"
     - Interactive CV: "InteractiveCV"
     - Dogs of Zurich: "DogsOfZurich"
     - RShiny: "RShiny"

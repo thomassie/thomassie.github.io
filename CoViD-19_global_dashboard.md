@@ -69,6 +69,20 @@ Now, quick check what the data looks like.
 str(dd)
 head(dd)
 ```
+![CoViD-19_str.png]({{site.baseurl}}/img/CoViD-19_str.png)
+![CoViD-19_head.png]({{site.baseurl}}/img/CoViD-19_head.png)
+
+And a brief graphical check:
+```
+dd %>% 
+  filter(., country_region == "Germany") %>% 
+  ggplot(aes(x = date, y = cases, colour = status)) +
+  geom_line() +
+  theme_minimal()
+```
+![CoViD-19_head_time-series.png]({{site.baseurl}}/img/CoViD-19_head_time-series.png)
+
+Looks good!
 
 Finally, I export the the data to a .csv file on my computer. Alterantively, one could save the data to another repository and connect Tableau to it via a web connector. But, for now, I didn't manage to do this...
 ```
