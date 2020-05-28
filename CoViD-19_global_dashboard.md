@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CoViD-19: Global Dashboard
+title: A global CoViD-19 dashboard
 published: true
 ---
 ![CoViD-19_Dashboard.mov]({{site.baseurl}}/img/CoViD-19_Dashboard.mov)
