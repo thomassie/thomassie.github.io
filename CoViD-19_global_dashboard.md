@@ -72,11 +72,16 @@ head(dd)
 
 And a brief graphical check using data for Germany:
 ```
-dd %>% 
-  filter(., country_region == "Germany") %>% 
-  ggplot(aes(x = date, y = cases, colour = status)) +
-  geom_line() +
-  theme_minimal()
+ggplotly(dd %>% 
+                   filter(., country_region == "Germany") %>% 
+                   ggplot(aes(x = date, y = cases, colour = status)) +
+                   geom_line() +
+                   labs(title = "CoViD-19 cases for Germany") +
+                   xlab("") +
+                   ylab("") +
+                   scale_colour_manual(values = c("#D8A94F", "#4E4E4C", "#A44A51", "#6378AC")) +
+                   theme_minimal() +
+                   theme(legend.title = element_blank()))
 ```
 ![CoViD-19_head_time-series_plotly.png]({{site.baseurl}}/img/CoViD-19_head_time-series_plotly.png)
 
