@@ -96,7 +96,7 @@ ggplotly(dd %>%
                    theme_minimal() +
                    theme(legend.title = element_blank()))
 ```
-![CoViD-19_head_time-series_plotly.png]({{site.baseurl}}/img/CoViD-19_head_time-series_plotly.png)
+![CoViD-19_time-series_plotly.png]({{site.baseurl}}/img/CoViD-19_time-series_plotly.png)
 
 Looks good!
 
