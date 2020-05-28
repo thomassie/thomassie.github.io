@@ -8,7 +8,7 @@ published: true
 
 ## Global CoViD-19 Dashboard
 
-When Sars-CoV-2 (the virus) and the disease it causes (CoViD-19) started becomming a pandemic, I wanted to monitor the cases 
+When Sars-CoV-2 (the virus) and the disease it causes (CoViD-19) started becomming a pandemic, I wanted to monitor the cases reported by the [Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://systems.jhu.edu/)
 
 -- 
 
@@ -24,7 +24,7 @@ library(janitor)
 library(plotly)
 ```
 
-Then, I read the from the respective [CoViD-19 GitHub repository](https://github.com/CSSEGISandData/COVID-19) of the [Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://systems.jhu.edu/). The times series data is to be found in three seperate files for *confirmed cases*, *deaths* and *recovered cases*. Here's what I did with the confirmed cases data.
+Then, I read the data from CSSE's [CoViD-19 GitHub repository](https://github.com/CSSEGISandData/COVID-19). The times series data is stored as three seperate files for *confirmed cases*, *deaths* and *recovered cases*. Here's what I did with the confirmed cases data.
 ```
 # confirmed cases
 
@@ -37,7 +37,7 @@ dd_org_confirmed = read_csv(url("https://raw.githubusercontent.com/CSSEGISandDat
 
 ```
 
-The same is done for deths and recovered cases.
+The same is done for deaths and recovered cases.
 ```
 # deaths
 dd_org_deaths = read_csv(url("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv")) %>% 
@@ -48,7 +48,7 @@ dd_org_recovered = read_csv(url("https://raw.githubusercontent.com/CSSEGISandDat
   	pivot_longer(., cols = -c("Country/Region", "Province/State", "Lat", "Long"), names_to = "Date", values_to = "recovered") 
  ```
 
-All three datasets are combined to a single one that contains all information.
+All three datasets are combined to a single one that contains all information, including active cases being calculated as the sum of confirmed cases minus deaths and recovered cases.
 ```
 dd <- dd_org_confirmed %>% 
 	# Combine datasets by left-joining these:
