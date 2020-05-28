@@ -11,13 +11,16 @@ published: true
 When Sars-CoV-2 (the virus) and the disease it causes (CoViD-19) started becoming a pandemic, I wanted to monitor the cases reported by the [Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://systems.jhu.edu/). 
 
 Now, there is a [dashboard from CSSE](https://coronavirus.jhu.edu/map.html) already in place that most people have seen due to its immense presence in media:
+
 ![CoViD-19_CSSE-dashboard.png]({{site.baseurl}}/img/CoViD-19_CSSE-dashboard.png)
+
 Now, this dashboard isn't bad. But, I got the feeling that it doesn't provide me with the overview I'm expecting from it. Getting the information your looking for isn't that easy because the dashboard is super packed. Here's a [better example from the WHO](https://covid19.who.int). Also, mixing countries and provinces when plotting them on a map doesn't work as one is trying to make comparisons. Moreover, I'm not happy with the dark layout and the overly dramatic colours that are used. The numbers are already dramatic themselves and one shouldn't add an additional layer of alarm to it.
 
 So, I decided to do my very own dashboard using [Tableau](https://www.tableau.com/) and [Tableau Public](https://public.tableau.com). The aim was to 
  - provide a quick overview about cases on a global and country level,
  - get an idea about how the disease develops on these levels, and
  - allow for comparisons between countries by using relative numbers (i.e., cases per 100'000 citizens).
+ 
  Also, the colouring shouldn't be alarming but rather neutral to not get distracted by bright reds or blinking gimmicks. In brief, I wanted to create an unbiased and informative dashboard.
  You can find it [here](https://public.tableau.com/profile/thomas.massie#!/vizhome/Covid-19---VIZ/Dashboard).
 
