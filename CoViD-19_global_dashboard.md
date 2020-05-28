@@ -3,26 +3,25 @@ layout: page
 title: CoViD-19: Global Dashboard
 published: true
 ---
-![CV --- all-big.png]({{site.baseurl}}/img/CV --- all-big.png)
+![CoViD-19_Dashboard.mov]({{site.baseurl}}/img/CoViD-19_Dashboard.mov)
 
 
-## Building an interactive CV with Tableau
+## Global CoViD-19 Dashboard
+
+When Sars-CoV-2 (the virus) and the disease it causes (CoViD-19) started becomming a pandemic, I wanted to monitor the cases 
+
+-- 
 
 
+**Getting data**
 
-**Loading data**
+Fortunatelly, the [Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://systems.jhu.edu/) provides their data in an easily accessable manner: .csv files placed in a GitHub repository. 
 
-BlaBla
-
-![CV --- Links.png]({{site.baseurl}}/img/CV --- Links.png)
-
-
-
-
-First, I load the required packages `tidyverse` (data manipulation etc.) and `janitor` (here, ony to use `clean_names()`). No other packages are needed here.
+First, I load the required packages `tidyverse` (data manipulation etc.), `janitor` (here, solely to use `clean_names()`) and `plotly`(for minimal interactive plots). No other packages are needed here.
 ```
 library(tidyverse)
 library(janitor)
+library(plotly)
 ```
 
 Then, I read the from the respective [CoViD-19 GitHub repository](https://github.com/CSSEGISandData/COVID-19) of the [Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://systems.jhu.edu/). The times series data is to be found in three seperate files for *confirmed cases*, *deaths* and *recovered cases*. Here's what I did with the confirmed cases data.
@@ -64,14 +63,14 @@ dd <- dd_org_confirmed %>%
   	clean_names() 
 ```
 
-Now, quick check what the data looks like.
+Now, a quick check what the data looks like.
 ```
 str(dd)
 head(dd)
 ```
 ![CoViD-19_str_head.png]({{site.baseurl}}/img/CoViD-19_str_head.png)
 
-And a brief graphical check:
+And a brief graphical check using data for Germany:
 ```
 dd %>% 
   filter(., country_region == "Germany") %>% 
@@ -79,7 +78,7 @@ dd %>%
   geom_line() +
   theme_minimal()
 ```
-![CoViD-19_head_time-series.png]({{site.baseurl}}/img/CoViD-19_head_time-series.png)
+![CoViD-19_head_time-series_plotly.png]({{site.baseurl}}/img/CoViD-19_head_time-series_plotly.png)
 
 Looks good!
 
