@@ -14,21 +14,24 @@ There is a [dashboard from CSSE](https://coronavirus.jhu.edu/map.html) already i
 
 ![CoViD-19_CSSE-dashboard.png]({{site.baseurl}}/img/CoViD-19_CSSE-dashboard.png)
 
-Now, this dashboard isn't bad. But, I got the feeling that it doesn't provide me with the overview I'm expecting from it. Getting the information your looking for isn't that easy because the dashboard is super packed. Here's an [example from the WHO](https://covid19.who.int) that I consider being much better. Also, mixing countries and provinces when plotting them on a map doesn't work, as people are instantly trying to make comparisons between them. Moreover, I'm not happy with the dark layout and the overly dramatic colours that are used. The numbers are already dramatic themselves and one shouldn't add an additional layer of alarm to it.
+Now, this dashboard is not bad at all. But, I got the feeling that it does not provide me with the overview I am expecting from it. Getting the information you are looking for is not that easy because the dashboard is super packed. Here is an [example from the WHO](https://covid19.who.int) that I consider being much better. 
+
+Also, mixing countries and provinces when plotting them on a map does not work, as people are instantly trying to make comparisons between them. E.g., what's the difference in fatalities between Italy and the US? You have to go to the table to right of the map to see the numbers. But, these are only absolute numbers.
+
+Moreover, I'm not happy with the dark layout and the overly dramatic colours that are used. The numbers are already dramatic themselves and one shouldn't add an additional layer of alarm to it. 
 
 So, I decided to do my very own dashboard using [Tableau](https://www.tableau.com/) and [Tableau Public](https://public.tableau.com). The aim was to 
  - provide a quick overview about cases on a global and country level,
  - get an idea about how the disease develops on these levels, and
  - allow for comparisons between countries by using relative numbers (i.e., cases per 100'000 citizens).
  
- Also, the colouring shouldn't be alarming but rather neutral to not get distracted by bright reds or blinking gimmicks. In brief, I wanted to create an unbiased and informative dashboard.
- You can find the result [here](https://public.tableau.com/profile/thomas.massie#!/vizhome/Covid-19---VIZ/Dashboard).
-
-
-
+Also, the colouring should be neutral to not get distracted by bright reds or blinking gimmicks. In brief, I wanted to create an unbiased and informative dashboard. You can find the result [here](https://public.tableau.com/profile/thomas.massie#!/vizhome/Covid-19---VIZ/Dashboard).
+ 
+ 
+ 
 ## Getting & preparing data
 
-Fortunatelly, the [Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://systems.jhu.edu/) provides their data in an easily accessable manner: .csv files placed in a GitHub repository. 
+Fortunately, the [Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://systems.jhu.edu/) provides their data in an easily accessible manner: .csv files placed in a GitHub repository. 
 
 First, I load the required packages `tidyverse` (data manipulation etc.), `janitor` (here, solely to use `clean_names()`) and `plotly`(for minimal interactive plots). No other packages are needed here.
 ```
@@ -37,7 +40,7 @@ library(janitor)
 library(plotly)
 ```
 
-Then, I read the data from CSSE's [CoViD-19 GitHub repository](https://github.com/CSSEGISandData/COVID-19). The times series data is stored as three seperate files for *confirmed cases*, *deaths* and *recovered cases*. Here's what I did with the confirmed cases data.
+Then, I read the data from CSSE's [CoViD-19 GitHub repository](https://github.com/CSSEGISandData/COVID-19). The times series data is stored as three separate files for *confirmed cases*, *deaths* and *recovered cases*. Here's what I did with the confirmed cases data.
 ```
 # confirmed cases
 
