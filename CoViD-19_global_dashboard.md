@@ -88,15 +88,15 @@ head(dd)
 And a brief graphical check using data for Germany:
 ```
 ggplotly(dd %>% 
-                   filter(., country_region == "Germany") %>% 
-                   ggplot(aes(x = date, y = cases, colour = status)) +
-                   geom_line() +
-                   labs(title = "CoViD-19 cases for Germany") +
-                   xlab("") +
-                   ylab("") +
-                   scale_colour_manual(values = c("#D8A94F", "#4E4E4C", "#A44A51", "#6378AC")) +
-                   theme_minimal() +
-                   theme(legend.title = element_blank()))
+	filter(., country_region == "Germany") %>% 
+	ggplot(aes(x = date, y = cases, colour = status)) +
+	geom_line() +
+	labs(title = "CoViD-19 cases for Germany") +
+	xlab("") +
+	ylab("") +
+	scale_colour_manual(values = c("#D8A94F", "#4E4E4C", "#A44A51", "#6378AC")) +
+	theme_minimal() +
+	theme(legend.title = element_blank()))
 ```
 ![CoViD-19_time-series_plotly.png]({{site.baseurl}}/img/CoViD-19_time-series_plotly.png)
 
@@ -107,9 +107,9 @@ Finally, I export the the data to a .csv file on my computer. Alternatively, one
 # Export to .csv file.
 write.csv(dd, "user_path/covid_time_series.csv")
 ```
-
-
-
+ 
+ 
+ 
 ## Designing the dashboard
 
 The unbiased and informative dashboard is **designed as a tool**. It is not an infographic. Hence, it looks simple on a first glance, but allows to go deeper by making extensive use tooltips. Further, it uses simple graphics that are easy to understand. I do not want viewers being busy figuring out how to read a sunburst chart to pull out the information she/he is looking for. Rather, it should be possible to quickly answer questions like:
@@ -119,17 +119,20 @@ The unbiased and informative dashboard is **designed as a tool**. It is not an i
 - How are numbers developing in Brazil? What's the global trend?
 - How are numbers (relatively) changing compared to the previous day?
 
-The dashboard consists of mainly four parts: 
+The dashboard consists of mainly five parts: 
 
-1. The **upper panel** includes global numbers for confirmed, active and recovered cases as well as fatalities. Moreover, a line chart allows for a quick overview about cumulated cases. The date slider allows to select a specific date of interest.
-2. The **map** as the central place to identify which parts of the world or countries are affected the most. Also, the map provides details for each country allowing fast comparisons. 
-3. A **small side panel** showing the number of countries affected as well as the course of the case fatality ratio (number of fatalities relative to the number of confirmed cases).
-4. A **bar chart** showing countries ranked according to the selected case type.
+1. The **upper panel** (1) includes global numbers for confirmed, active and recovered cases as well as fatalities. Moreover, a line chart allows for a quick overview about cumulated cases. The date slider allows to select a specific date of interest.
+2. The **map** (2) as the central place to identify which parts of the world or countries are affected the most. Also, the map provides details for each country allowing fast comparisons. 
+3. A **small side panel** (3) showing the number of countries affected as well as the course of the case fatality ratio (number of fatalities relative to the number of confirmed cases).
+4. A **bar chart** (4) showing countries ranked according to the selected case type.
+5. A **supplementary dashboard** providing key indicators for a selected country. One is forwarded to this dashboard when clicking on a country, either on the map or in the bar chart.
 
 ![CoViD-19_relative_confirmed.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed.png)
+![CoViD-19_relative_confirmed.png]({{site.baseurl}}/img/CoViD-19_supplementary-info.png)
 
 Let us have a look at the different parts.
 
 
 ### Upper panel
 
+The four key numbers show global case numbers. By hovering over a number the viewer can see the the total numbers over time (top), the daily change in numbers (middle) as well as the relative change compared to the previous day.
