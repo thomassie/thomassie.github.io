@@ -6,6 +6,7 @@ published: true
 ![CoViD-19_Dashboard.mov]({{site.baseurl}}/img/CoViD-19_Dashboard.mov)
 
 
+
 ## Motivation
 
 When Sars-CoV-2 (the virus) and the disease it causes (CoViD-19) started becoming a pandemic, I wanted to monitor the cases reported by the [Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://systems.jhu.edu/). 
@@ -31,8 +32,6 @@ Also, the colouring should be neutral to not get distracted by bright reds or bl
  
 ## Getting & preparing data
 
-Fortunately, the [Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://systems.jhu.edu/) provides their data in an easily accessible manner: .csv files placed in a GitHub repository. 
-
 First, I load the required packages `tidyverse` (data manipulation etc.), `janitor` (here, solely to use `clean_names()`) and `plotly`(for minimal interactive plots). No other packages are needed here.
 ```
 library(tidyverse)
@@ -40,7 +39,7 @@ library(janitor)
 library(plotly)
 ```
 
-Then, I read the data from CSSE's [CoViD-19 GitHub repository](https://github.com/CSSEGISandData/COVID-19). The times series data is stored as three separate files for *confirmed cases*, *deaths* and *recovered cases*. Here's what I did with the confirmed cases data.
+Fortunately, CSSE provides its data in an easily accessible manner: .csv files placed in a [GitHub repository](https://github.com/CSSEGISandData/COVID-19). Times series data is stored as three separate files for *confirmed cases*, *deaths* and *recovered cases*. Here's what I did with the confirmed cases data.
 ```
 # confirmed cases
 
@@ -103,10 +102,34 @@ ggplotly(dd %>%
 
 Looks good!
 
-Finally, I export the the data to a .csv file on my computer. Alterantively, one could save the data to another repository and connect Tableau to it via a web connector. But, for now, I didn't manage to do this...
+Finally, I export the the data to a .csv file on my computer. Alternatively, one could save the data to another repository and connect Tableau to it via a web connector. But, for now, I stay with this approach.
 ```
 # Export to .csv file.
 write.csv(dd, "user_path/covid_time_series.csv")
 ```
 
+
+
+## Designing the dashboard
+
+The unbiased and informative dashboard is **designed as a tool**. It is not an infographic. Hence, it looks simple on a first glance, but allows to go deeper by making extensive use tooltips. Further, it uses simple graphics that are easy to understand. I do not want viewers being busy figuring out how to read a sunburst chart to pull out the information she/he is looking for. Rather, it should be possible to quickly answer questions like:
+
+- Which country is facing most fatalities? 
+- How much confirmed CoViD-19 cases does Germany have relative to its population size? How does that compare to Italy?
+- How are numbers developing in Brazil? What's the global trend?
+- How are numbers (relatively) changing compared to the previous day?
+
+The dashboard consists of mainly four parts: 
+
+1. The **upper panel** includes global numbers for confirmed, active and recovered cases as well as fatalities. Moreover, a line chart allows for a quick overview about cumulated cases. The date slider allows to select a specific date of interest.
+2. The **map** as the central place to identify which parts of the world or countries are affected the most. Also, the map provides details for each country allowing fast comparisons. 
+3. A **small side panel** showing the number of countries affected as well as the course of the case fatality ratio (number of fatalities relative to the number of confirmed cases).
+4. A **bar chart** showing countries ranked according to the selected case type.
+
+![CoViD-19_relative_confirmed.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed.png)
+
+Let us have a look at the different parts.
+
+
+### Upper panel
 
