@@ -125,14 +125,21 @@ The dashboard consists of mainly five parts:
 2. The **map** (2) as the central place to identify which parts of the world or countries are affected the most. Also, the map provides details for each country allowing fast comparisons. 
 3. A **small side panel** (3) showing the number of countries affected as well as the course of the case fatality ratio (number of fatalities relative to the number of confirmed cases).
 4. A **bar chart** (4) showing countries ranked according to the selected case type.
-5. A **supplementary dashboard** providing key indicators for a selected country. One is forwarded to this dashboard when clicking on a country, either on the map or in the bar chart.
+5. A **supplementary dashboard** providing key indicators for a selected country. One is forwarded to this dashboard when clicking on a country, either on the map, or, in the bar chart.
 
 ![CoViD-19_relative_confirmed.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed.png)
-![CoViD-19_relative_confirmed.png]({{site.baseurl}}/img/CoViD-19_supplementary-info.png)
+![CoViD-19_supplementary-info.png]({{site.baseurl}}/img/CoViD-19_supplementary-info.png)
 
 Let us have a look at the different parts.
 
 
 ### Upper panel
 
-The four key numbers show global case numbers. By hovering over a number the viewer can see the the total numbers over time (top), the daily change in numbers (middle) as well as the relative change compared to the previous day.
+The four key numbers show global case numbers. By hovering over a number the viewer can see the the total numbers over time (top), the daily change in numbers (middle) as well as the relative change compared to the previous day. That is, in the example below you can see that on May 27 the global death toll was 355'629, with a 1.5% increase (5'176) compared to May 26.
+
+![CoViD-19_relative_deaths_global-details_all.png]({{site.baseurl}}/img/CoViD-19_relative_deaths_global-details_all.png)
+ 
+
+### Map
+
+Though Tableau comes up with a couple of nice maps, I decided to create one in [Mapbox](https://www.mapbox.com). It should be super simple allowing for a choropleth map with circles on top -- circles sizes representing case numbers.
