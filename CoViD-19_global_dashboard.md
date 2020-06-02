@@ -142,4 +142,6 @@ The four key numbers show global case numbers. By hovering over a number the vie
 
 ### Map
 
-Though Tableau comes up with a couple of nice maps, I decided to create one in [Mapbox](https://www.mapbox.com). It should be super simple allowing for a choropleth map with circles on top -- circles sizes representing case numbers.
+Though Tableau includes a couple of nice maps, I decided to create one in [Mapbox](https://www.mapbox.com) by myself. The map should be a simple choropleth map with circles on top, and their sizes representing case numbers.
+
+![CoViD-19_relative_deaths_global-details_all.png]({{site.baseurl}}/img/CoViD-19_relative_deaths_global-details_all.png)
