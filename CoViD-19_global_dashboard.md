@@ -6,7 +6,7 @@ published: true
 
 ![CoViD-19_relative_confirmed_all.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_all.png)
 
-The global CoViD-19 dashboard allows you to gain an overview and easily track case numbers. You can have a look at the dashboard on [Tableau Public](https://public.tableau.com/profile/thomas.massie#!/vizhome/Covid-19---VIZ/Dashboard) or watch the video on [Vimeo](https://vimeo.com/user1723376/review/426998521/b7c148bd08).
+The global CoViD-19 dashboard allows you to gain an overview and easily track case numbers. You can have a look at the dashboard on [Tableau Public](https://public.tableau.com/profile/thomas.massie#!/vizhome/Covid-19---VIZ/Dashboard) or watch the video on [Vimeo](https://vimeo.com/426998521).
 
 
 
