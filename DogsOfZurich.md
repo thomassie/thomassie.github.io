@@ -3,14 +3,11 @@ layout: page
 title: Dogs of Zurich
 published: true
 ---
-Dogs of Zurich is a dashboard that provides an overview about the dog types registered in the city of Zurich (CH). You can have a look at this dashboard on Tableau Public [here](https://public.tableau.com/profile/thomas.massie#!/vizhome/DOGSofZURICH/DOGSofZURICH---Cover).
+Dogs of Zurich is a dashboard that provides an overview about the dog types registered in the city of Zurich (CH). You can have a look at this dashboard on [Tableau Public](https://public.tableau.com/profile/thomas.massie#!/vizhome/DOGSofZURICH/DOGSofZURICH---Cover), or watch a video on [Vimeo](https://vimeo.com/411988982).
 
 ![Dogs --- Cover_all.png]({{site.baseurl}}/img/Dogs --- Cover_all.png)
 
 ![Dogs --- Dashboard_all.png]({{site.baseurl}}/img/Dogs --- Dashboard_all.png)
-
-
-Watch the video [here](https://vimeo.com/411988982)!
 
 
 ## Why this dashboard...?
