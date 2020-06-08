@@ -10,7 +10,7 @@ Dogs of Zurich is a dashboard that provides an overview about the dog types regi
 ![Dogs --- Dashboard_all.png]({{site.baseurl}}/img/Dogs --- Dashboard_all.png)
 
 
-Watch the video [here]({{site.baseurl}}/vid/Dogs of Zurich.mov)](https://vimeo.com/411988982)
+Watch the video [here](https://vimeo.com/411988982)!
 
 
 ## Why this dashboard...?
