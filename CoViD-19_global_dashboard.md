@@ -3,7 +3,10 @@ layout: page
 title: Global CoViD-19 dashboard
 published: true
 ---
-![CoViD-19_Dashboard.mov]({{site.baseurl}}/img/CoViD-19_Dashboard.mov)
+
+![CoViD-19_relative_confirmed_all.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_all.png)
+
+The global CoViD-19 dashboard allows you to gain an overview and easily track case numbers. You can have a look at the dashboard on [Tableau Public](https://public.tableau.com/profile/thomas.massie#!/vizhome/Covid-19---VIZ/Dashboard) or watch the video on [Vimeo](https://vimeo.com/user1723376/review/426998521/b7c148bd08).
 
 
 
@@ -142,6 +145,8 @@ The four key numbers show global case numbers. By hovering over a number the vie
 
 ### Map
 
-Though Tableau includes a couple of nice maps, I decided to create one in [Mapbox](https://www.mapbox.com) by myself. The map should be a simple choropleth map with circles on top, and their sizes representing case numbers.
+Though Tableau includes a couple of nice maps, I decided to create one in [Mapbox](https://www.mapbox.com) by myself. It's pretty easy and a lot of fun to play around with Mapbox Studio!
 
-![CoViD-19_relative_deaths_global-details_all.png]({{site.baseurl}}/img/CoViD-19_relative_deaths_global-details_all.png)
+The map should be a simple choropleth map with circles layered on top (sizes representing case numbers). By hovering over a specific country one gets the key numbers from the upper panel refined for the specific country (1) as well insights about the temporal development of accumulated (2) and daily (3) cases.
+
+![CoViD-19_country-details_all.png]({{site.baseurl}}/img/CoViD-19_country-details_all.png)
