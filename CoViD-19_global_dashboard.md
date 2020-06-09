@@ -6,8 +6,7 @@ published: true
 
 ![CoViD-19_relative_confirmed_all.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_all.png)
 
-The global CoViD-19 dashboard allows you to gain an overview and easily track case numbers. You can have a look at the dashboard on [Tableau Public](https://public.tableau.com/profile/thomas.massie#!/vizhome/Covid-19---VIZ/Dashboard) or watch the video on [Vimeo](https://vimeo.com/426998521).
-
+The global CoViD-19 dashboard allows you to gain an overview and easily track case numbers. You can have a look at the dashboard on [Tableau Public](https://public.tableau.com/profile/thomas.massie#!/vizhome/Covid-19---VIZ/Dashboard) or watch the video on [Vimeo](https://vimeo.com/426998521).<br/><br/>
 
 
 ## Motivation
@@ -29,9 +28,8 @@ So, I decided to do my very own dashboard using [Tableau](https://www.tableau.co
  - get an idea about how the disease develops on these levels, and
  - allow for comparisons between countries by using relative numbers (i.e., cases per 100'000 citizens).
  
-Also, the colouring should be neutral to not get distracted by bright reds or blinking gimmicks. In brief, I wanted to create an unbiased and informative dashboard. You can find the result [here](https://public.tableau.com/profile/thomas.massie#!/vizhome/Covid-19---VIZ/Dashboard).
- 
- 
+Also, the colouring should be neutral to not get distracted by bright reds or blinking gimmicks. In brief, I wanted to create an unbiased and informative dashboard. You can find the result [here](https://public.tableau.com/profile/thomas.massie#!/vizhome/Covid-19---VIZ/Dashboard).<br/><br/>
+
  
 ## Getting & preparing data
 
@@ -109,8 +107,8 @@ Finally, I export the the data to a .csv file on my computer. Alternatively, one
 # Export to .csv file.
 write.csv(dd, "user_path/covid_time_series.csv")
 ```
- 
- 
+<br/><br/>
+
 
 ## Designing the dashboard
 
@@ -134,14 +132,12 @@ The dashboard consists of mainly five parts:
 
 Let us have a look at the different parts.
 
-
 ### Upper panel
 
 The four main numbers show global case numbers. By hovering over a number the viewer can see the the **total numbers** over time (**1**), the **daily change** in numbers (**2**) as well as the **relative change** compared to the previous day (**3**). That is, in the example below you can see that on May 27 the global death toll was 355'629, with a 1.5% increase (5'176) compared to May 26.
 
-![CoViD-19_relative_deaths_global-details_all.png]({{site.baseurl}}/img/CoViD-19_relative_deaths_global-details_all.png)
+![CoViD-19_relative_deaths_global-details_all.png]({{site.baseurl}}/img/CoViD-19_relative_deaths_global-details_all.png)<br/>
  
-
 ### Map
 
 Though Tableau includes a couple of nice maps, I decided to create one in [Mapbox](https://www.mapbox.com) by myself. It's pretty easy and a lot of fun to play around with Mapbox Studio!
@@ -150,14 +146,14 @@ The map should be a simple choropleth map with circles layered on top (sizes rep
 
 From the list menu on can select the circles to either show absolute case numbers, or, which makes more sense when comparing countries, relative numbers (cases per 100'000 citizens). Also, one can decide which case type to show, e.g., confirmed cases or fatalities.
 
-![CoViD-19_country-details_all.png]({{site.baseurl}}/img/CoViD-19_country-details_all.png)
+![CoViD-19_country-details_all.png]({{site.baseurl}}/img/CoViD-19_country-details_all.png)<br/>
  
 
 ### Small side panel
 
 The small side panel simply shows the temporal course of the **case fatality ratio** (**1**) as well as the **total numbers of countries** affected and their **share of all countries in the world** (**2**).
 
-![CoViD-19_relative_confirmed_side_panel.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_side_panel.png)
+![CoViD-19_relative_confirmed_side_panel.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_side_panel.png)<br/>
  
 
 ### Bar chart
@@ -166,7 +162,7 @@ The bar chart ranks countries according to the choices made in the respective li
 
 In addition, when hovering over a bar one gets a detailed view on the case type selected for this country: **accumulated cases** (**2**), **daily change** (**3**) and **relative change** compared to previous day (**4**). The **main numbers** (**1**) from the upper panel are again shown on the top.
 
-![CoViD-19_relative_confirmed_country-details.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_country-details.png)
+![CoViD-19_relative_confirmed_country-details.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_country-details.png)<br/><br/>
  
 
 ## Mobile version
