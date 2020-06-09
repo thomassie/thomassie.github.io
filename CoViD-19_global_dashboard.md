@@ -137,7 +137,7 @@ Let us have a look at the different parts.
 
 ### Upper panel
 
-The four key numbers show global case numbers. By hovering over a number the viewer can see the the total numbers over time (top), the daily change in numbers (middle) as well as the relative change compared to the previous day. That is, in the example below you can see that on May 27 the global death toll was 355'629, with a 1.5% increase (5'176) compared to May 26.
+The four main numbers show global case numbers. By hovering over a number the viewer can see the the **total numbers** over time (1), the **daily change** in numbers (**2**) as well as the **relative change** compared to the previous day (**3**). That is, in the example below you can see that on May 27 the global death toll was 355'629, with a 1.5% increase (5'176) compared to May 26.
 
 ![CoViD-19_relative_deaths_global-details_all.png]({{site.baseurl}}/img/CoViD-19_relative_deaths_global-details_all.png)
  
@@ -146,7 +146,7 @@ The four key numbers show global case numbers. By hovering over a number the vie
 
 Though Tableau includes a couple of nice maps, I decided to create one in [Mapbox](https://www.mapbox.com) by myself. It's pretty easy and a lot of fun to play around with Mapbox Studio!
 
-The map should be a simple choropleth map with circles layered on top (sizes representing case numbers). By hovering over a specific country one gets the key numbers from the upper panel refined for the specific country (1) as well insights about the temporal development of accumulated (2) and daily (3) cases.
+The map should be a simple choropleth map with circles layered on top (sizes representing case numbers). By hovering over a specific country one gets the key numbers from the upper panel refined for the specific country (1) as well insights about the temporal development of **accumulated** (**2**) and **daily** (**3**) **cases**.
 
 From the list menu on can select the circles to either show absolute case numbers, or, which makes more sense when comparing countries, relative numbers (cases per 100'000 citizens). Also, one can decide which case type to show, e.g., confirmed cases or fatalities.
 
@@ -155,7 +155,7 @@ From the list menu on can select the circles to either show absolute case number
 
 ### Small side panel
 
-The small side panel simply shows the temporal course of the case fatality ratio as (1) well as the total numbers of countries affected and their share of all countries in the world (2).
+The small side panel simply shows the temporal course of the **case fatality ratio** (**1**) as well as the **total numbers of countries** affected and their **share of all countries in the world** (**2**).
 
 ![CoViD-19_relative_confirmed_side_panel.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_side_panel.png)
  
@@ -164,6 +164,11 @@ The small side panel simply shows the temporal course of the case fatality ratio
 
 The bar chart ranks countries according to the choices made in the respective list menus, e.g., relative confirmed cases. This allows one to easily see how strongly countries are affected and how they compare to each other. 
 
-In addition, when hovering over a bar one gets a detailed view on the case type selected for this country: accumulated cases (2), daily change (3) and relative change compared to previous day (4). The main numbers from the upper panel are again shown on the top (1).
+In addition, when hovering over a bar one gets a detailed view on the case type selected for this country: **accumulated cases** (**2**), **daily change** (**3**) and **relative change** compared to previous day (**4**). The **main numbers** (**1**) from the upper panel are again shown on the top.
 
 ![CoViD-19_relative_confirmed_country-details.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_country-details.png)
+ 
+
+## Mobile version
+
+This dashboard was designed primarily for desktop view. However, when clicking on the mobile phone icon on the top left you can get forwarded to the mobile version giving you a much better experience when looking at it on your phone. =)
