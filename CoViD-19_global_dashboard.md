@@ -45,7 +45,6 @@ library(plotly)
 Fortunately, CSSE provides its data in an easily accessible manner: .csv files placed in a [GitHub repository](https://github.com/CSSEGISandData/COVID-19). Times series data is stored as three separate files for *confirmed cases*, *deaths* and *recovered cases*. Here's what I did with the confirmed cases data.
 ```
 # confirmed cases
-
 # Connect to the repository and read the raw .csv file:
 dd_org_confirmed = read_csv(url("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv")) %>% 
 	# If information on provinces is needed you might uncomment this line:
@@ -112,7 +111,7 @@ write.csv(dd, "user_path/covid_time_series.csv")
 ```
  
  
- 
+
 ## Designing the dashboard
 
 The unbiased and informative dashboard is **designed as a tool**. It is not an infographic. Hence, it looks simple on a first glance, but allows to go deeper by making extensive use of tooltips. Further, it uses simple graphics that are easy to understand. I do not want viewers being busy figuring out how to read a sunburst chart to pull out the information she/he is looking for. Rather, it should be possible to quickly answer questions like:
@@ -165,6 +164,6 @@ The small side panel simply shows the temporal course of the case fatality ratio
 
 The bar chart ranks countries according to the choices made in the respective list menus, e.g., relative confirmed cases. This allows one to easily see how strongly countries are affected and how they compare to each other. 
 
-In addition, when hovering over a bar one gets a detailed view on the case type selected for this country: accumulated cases (2), daily change (3) and relative change compared to previous day (4). The main numbers from the upper panel are shown on top, too (1).
+In addition, when hovering over a bar one gets a detailed view on the case type selected for this country: accumulated cases (2), daily change (3) and relative change compared to previous day (4). The main numbers from the upper panel are again shown on the top (1).
 
 ![CoViD-19_relative_confirmed_country-details.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_country-details.png)
