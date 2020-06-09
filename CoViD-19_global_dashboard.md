@@ -4,7 +4,7 @@ title: Global CoViD-19 dashboard
 published: true
 ---
 
-![CoViD-19_relative_confirmed_all.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_all.png)
+![CoViD-19_relative_confirmed_all.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_all.png)<br/>
 
 The global CoViD-19 dashboard allows you to gain an overview and easily track case numbers. You can have a look at the dashboard on [Tableau Public](https://public.tableau.com/profile/thomas.massie#!/vizhome/Covid-19---VIZ/Dashboard) or watch the video on [Vimeo](https://vimeo.com/426998521).<br/><br/>
 
@@ -15,7 +15,7 @@ When Sars-CoV-2 (the virus) and the disease it causes (CoViD-19) started becomin
 
 There is a [dashboard from CSSE](https://coronavirus.jhu.edu/map.html) already in place that most people have seen due to its immense presence in media:
 
-![CoViD-19_CSSE-dashboard.png]({{site.baseurl}}/img/CoViD-19_CSSE-dashboard.png)
+![CoViD-19_CSSE-dashboard.png]({{site.baseurl}}/img/CoViD-19_CSSE-dashboard.png)<br/>
 
 Now, this dashboard is not bad at all. But, I got the feeling that it does not provide me with the overview I am expecting from it. Getting the information you are looking for is not that easy because the dashboard is super packed. Here is an [example from the WHO](https://covid19.who.int) that I consider being much better. 
 
@@ -127,10 +127,10 @@ The dashboard consists of mainly five parts:
 4. A **bar chart** (4) showing countries ranked according to the selected case type.
 5. A **supplementary dashboard** (5) providing key indicators for a selected country. One is forwarded to this dashboard when clicking on a country, either on the map, or, in the bar chart.
 
-![CoViD-19_relative_confirmed.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed.png)
+![CoViD-19_relative_confirmed.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed.png)<br/>
 ![CoViD-19_supplementary-info.png]({{site.baseurl}}/img/CoViD-19_supplementary-info.png)
 
-Let us have a look at the different parts.
+Let us have a look at the different parts...
 
 ### Upper panel
 
