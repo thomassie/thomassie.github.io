@@ -109,7 +109,6 @@ write.csv(dd, "user_path/covid_time_series.csv")
 ```
 <br/><br/>
 
-
 ## Designing the dashboard
 
 The unbiased and informative dashboard is **designed as a tool**. It is not an infographic. Hence, it looks simple on a first glance, but allows to go deeper by making extensive use of tooltips. Further, it uses simple graphics that are easy to understand. I do not want viewers being busy figuring out how to read a sunburst chart to pull out the information she/he is looking for. Rather, it should be possible to quickly answer questions like:
