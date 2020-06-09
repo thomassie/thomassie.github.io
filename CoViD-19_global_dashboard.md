@@ -115,7 +115,7 @@ write.csv(dd, "user_path/covid_time_series.csv")
  
 ## Designing the dashboard
 
-The unbiased and informative dashboard is **designed as a tool**. It is not an infographic. Hence, it looks simple on a first glance, but allows to go deeper by making extensive use tooltips. Further, it uses simple graphics that are easy to understand. I do not want viewers being busy figuring out how to read a sunburst chart to pull out the information she/he is looking for. Rather, it should be possible to quickly answer questions like:
+The unbiased and informative dashboard is **designed as a tool**. It is not an infographic. Hence, it looks simple on a first glance, but allows to go deeper by making extensive use of tooltips. Further, it uses simple graphics that are easy to understand. I do not want viewers being busy figuring out how to read a sunburst chart to pull out the information she/he is looking for. Rather, it should be possible to quickly answer questions like:
 
 - Which country is facing most fatalities? 
 - How much confirmed CoViD-19 cases does Germany have relative to its population size? How does that compare to Italy?
@@ -149,4 +149,22 @@ Though Tableau includes a couple of nice maps, I decided to create one in [Mapbo
 
 The map should be a simple choropleth map with circles layered on top (sizes representing case numbers). By hovering over a specific country one gets the key numbers from the upper panel refined for the specific country (1) as well insights about the temporal development of accumulated (2) and daily (3) cases.
 
+From the list menu on can select the circles to either show absolute case numbers, or, which makes more sense when comparing countries, relative numbers (cases per 100'000 citizens). Also, one can decide which case type to show, e.g., confirmed cases or fatalities.
+
 ![CoViD-19_country-details_all.png]({{site.baseurl}}/img/CoViD-19_country-details_all.png)
+ 
+
+### Small side panel
+
+The small side panel simply shows the temporal course of the case fatality ratio as (1) well as the total numbers of countries affected and their share of all countries in the world (2).
+
+![CoViD-19_relative_confirmed_side_panel.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_side_panel.png)
+ 
+
+### Bar chart
+
+The bar chart ranks countries according to the choices made in the respective list menus, e.g., relative confirmed cases. This allows one to easily see how strongly countries are affected and how they compare to each other. 
+
+In addition, when hovering over a bar one gets a detailed view on the case type selected for this country: accumulated cases (2), daily change (3) and relative change compared to previous day (4). The main numbers from the upper panel are shown on top, too (1).
+
+![CoViD-19_relative_confirmed_country-details.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_country-details.png)
