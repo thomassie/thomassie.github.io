@@ -137,7 +137,7 @@ Let us have a look at the different parts.
 
 ### Upper panel
 
-The four main numbers show global case numbers. By hovering over a number the viewer can see the the **total numbers** over time (1), the **daily change** in numbers (**2**) as well as the **relative change** compared to the previous day (**3**). That is, in the example below you can see that on May 27 the global death toll was 355'629, with a 1.5% increase (5'176) compared to May 26.
+The four main numbers show global case numbers. By hovering over a number the viewer can see the the **total numbers** over time (**1**), the **daily change** in numbers (**2**) as well as the **relative change** compared to the previous day (**3**). That is, in the example below you can see that on May 27 the global death toll was 355'629, with a 1.5% increase (5'176) compared to May 26.
 
 ![CoViD-19_relative_deaths_global-details_all.png]({{site.baseurl}}/img/CoViD-19_relative_deaths_global-details_all.png)
  
@@ -171,4 +171,4 @@ In addition, when hovering over a bar one gets a detailed view on the case type 
 
 ## Mobile version
 
-This dashboard was designed primarily for desktop view. However, when clicking on the mobile phone icon on the top left you can get forwarded to the mobile version giving you a much better experience when looking at it on your phone. =)
+This dashboard was designed primarily for desktop view. However, when clicking on the **mobile phone** icon on the top left one can get forwarded to the respective version which gives a much better experience when looking at it on a phone. You can also click [here](https://public.tableau.com/profile/thomas.massie#!/vizhome/Covid-19---VIZ-mobile/Dashboard).  =)
