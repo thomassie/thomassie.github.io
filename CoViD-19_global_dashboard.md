@@ -128,9 +128,9 @@ The dashboard consists of mainly five parts:
 5. A **supplementary dashboard** (5) providing key indicators for a selected country. One is forwarded to this dashboard when clicking on a country, either on the map, or, in the bar chart.
 
 ![CoViD-19_relative_confirmed.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed.png)<br/>
-![CoViD-19_supplementary-info.png]({{site.baseurl}}/img/CoViD-19_supplementary-info.png)
 
-Let us have a look at the different parts...
+![CoViD-19_supplementary-info.png]({{site.baseurl}}/img/CoViD-19_supplementary-info.png)<br/>
+
 
 ### Upper panel
 
