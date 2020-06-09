@@ -141,7 +141,7 @@ The four main numbers show global case numbers. By hovering over a number the vi
 
 Though Tableau includes a couple of nice maps, I decided to create one in [Mapbox](https://www.mapbox.com) by myself. It's pretty easy and a lot of fun to play around with Mapbox Studio!
 
-The map should be a simple choropleth map with circles layered on top (sizes representing case numbers). By hovering over a specific country one gets the key numbers from the upper panel refined for the specific country (1) as well insights about the temporal development of **accumulated** (**2**) and **daily** (**3**) **cases**.
+The map should be a simple choropleth map with circles layered on top (sizes representing case numbers). By hovering over a specific country one gets the key numbers from the upper panel refined for the **specific country** (**1**) as well insights about the temporal development of **accumulated** (**2**) and **daily** (**3**) **cases**.
 
 From the list menu on can select the circles to either show absolute case numbers, or, which makes more sense when comparing countries, relative numbers (cases per 100'000 citizens). Also, one can decide which case type to show, e.g., confirmed cases or fatalities.
 
@@ -161,14 +161,14 @@ The bar chart ranks countries according to the choices made in the respective li
 
 In addition, when hovering over a bar one gets a detailed view on the case type selected for this country: **accumulated cases** (**2**), **daily change** (**3**) and **relative change** compared to previous day (**4**). The **main numbers** (**1**) from the upper panel are again shown on the top.
 
-![CoViD-19_relative_confirmed_country-details.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_country-details.png)<br/><br/>
+![CoViD-19_relative_confirmed_country-details.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_country-details.png)<br/>
  
 
 ### 5. Supplementary dashboard
 
 One is referred to this dashboard when clicking on a country -- either on the map or in the bar chart. This dashboard allows the viewer to get **additional information** about a country, such as GDP or health care spendings. The data was retrieved from [The World Bank](https://www.worldbank.org)'s [data catalogue](https://data.worldbank.org). When hovering over an indicator the tooltip shows the exact definition.
 
-I included this dashboard because I was wondering how well a country can respond to this crisis given its population size, its financial means or the access to electricity. However, these are just indicators and there is no direct link or causality to the response performance. For instance, the United States of America have by far the highest health care expenditures relative to GDP. But inefficiencies and political incompetence resulted in a dramatic course of CoViD-19.<br/>
+I included this dashboard because I was wondering how well a country can respond to this crisis given its population size, its financial means or the access to electricity. However, these are just indicators and there is no direct link or causality to the response performance. For instance, the United States of America have by far the highest health care expenditures relative to GDP. But inefficiencies and political incompetence resulted in a dramatic course of CoViD-19.<br/><br/>
 
 
 ## Mobile version
