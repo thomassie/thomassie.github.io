@@ -152,6 +152,11 @@ paginate: 5
 
 kramdown:
   input: GFM
+  # below is adjusted
+  auto_ids: true
+  # syntax_highlighter: rouge
+  # do not replace newlines by <br>s
+  hard_wrap: false
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
