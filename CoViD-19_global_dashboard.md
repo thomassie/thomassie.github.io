@@ -126,24 +126,24 @@ The unbiased and informative dashboard is **designed as a tool**. It is not an i
 
 The dashboard consists of mainly five parts: 
 
-1. The **upper panel** (1) includes global numbers for confirmed, active and recovered cases as well as fatalities. Moreover, a line chart allows for a quick overview about cumulated cases. The date slider allows to select a specific date of interest.
-2. The **map** (2) as the central place to identify which parts of the world or countries are affected the most. Also, the map provides details for each country allowing fast comparisons. 
-3. A **small side panel** (3) showing the number of countries affected as well as the course of the case fatality ratio (number of fatalities relative to the number of confirmed cases).
-4. A **bar chart** (4) showing countries ranked according to the selected case type.
-5. A **supplementary dashboard** (5) providing key indicators for a selected country. One is forwarded to this dashboard when clicking on a country, either on the map, or, in the bar chart.
+1. The **upper panel** (**1**) includes global numbers for confirmed, active and recovered cases as well as fatalities. Moreover, a line chart allows for a quick overview about cumulated cases. The date slider allows to select a specific date of interest.
+2. The **map** (**2**) as the central place to identify which parts of the world or countries are affected the most. Also, the map provides details for each country allowing fast comparisons. 
+3. A **small side panel** (**3**) showing the number of countries affected as well as the course of the case fatality ratio (number of fatalities relative to the number of confirmed cases).
+4. A **bar chart** (**4**) showing countries ranked according to the selected case type.
+5. A **supplementary dashboard** (**5**) providing key indicators for a selected country. One is forwarded to this dashboard when clicking on a country, either on the map, or, in the bar chart.
 
 ![CoViD-19_relative_confirmed.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed.png)<br/>
 
 ![CoViD-19_supplementary-info.png]({{site.baseurl}}/img/CoViD-19_supplementary-info.png)<br/>
 
 
-### 1. Upper panel
+### 1 Upper panel
 
 The four main numbers show global case numbers. By hovering over a number the viewer can see the the **total numbers** over time (**1**), the **daily change** in numbers (**2**) as well as the **relative change** compared to the previous day (**3**). That is, in the example below you can see that on May 27 the global death toll was 355'629, with a 1.5% increase (5'176) compared to May 26.
 
 ![CoViD-19_relative_deaths_global-details_all.png]({{site.baseurl}}/img/CoViD-19_relative_deaths_global-details_all.png)<br/>
  
-### 2. Map
+### 2 Map
 
 Though Tableau includes a couple of nice maps, I decided to create one in [Mapbox](https://www.mapbox.com) by myself. It's pretty easy and a lot of fun to play around with Mapbox Studio!
 
@@ -154,14 +154,14 @@ From the list menu on can select the circles to either show absolute case number
 ![CoViD-19_country-details_all.png]({{site.baseurl}}/img/CoViD-19_country-details_all.png)<br/>
  
 
-### 3. Small side panel
+### 3 Small side panel
 
 The small side panel simply shows the temporal course of the **case fatality ratio** (**1**) as well as the **total numbers of countries** affected and their **share of all countries in the world** (**2**).
 
 ![CoViD-19_relative_confirmed_side_panel.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_side_panel.png)<br/>
  
 
-### 4. Bar chart
+### 4 Bar chart
 
 The bar chart ranks countries according to the choices made in the respective list menus, e.g., relative confirmed cases. This allows one to easily see how strongly countries are affected and how they compare to each other. 
 
@@ -170,7 +170,7 @@ In addition, when hovering over a bar one gets a detailed view on the case type 
 ![CoViD-19_relative_confirmed_country-details.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_country-details.png)<br/>
  
 
-### 5. Supplementary dashboard
+### 5 Supplementary dashboard
 
 One is referred to this dashboard when clicking on a country -- either on the map or in the bar chart. This dashboard allows the viewer to get **additional information** about a country, such as GDP or health care spendings. The data was retrieved from [The World Bank](https://www.worldbank.org)'s [data catalogue](https://data.worldbank.org). When hovering over an indicator the tooltip shows the exact definition.
 
