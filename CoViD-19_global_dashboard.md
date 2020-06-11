@@ -34,14 +34,16 @@ Also, the colouring should be neutral to not get distracted by bright reds or bl
 ## Getting & preparing data
 
 First, I load the required packages `tidyverse` (data manipulation etc.), `janitor` (here, solely to use `clean_names()`) and `plotly`(for minimal interactive plots). No other packages are needed here.
-```
+
+```r
 library(tidyverse)
 library(janitor)
 library(plotly)
 ```
 
 Fortunately, CSSE provides its data in an easily accessible manner: .csv files placed in a [GitHub repository](https://github.com/CSSEGISandData/COVID-19). Times series data is stored as three separate files for *confirmed cases*, *deaths* and *recovered cases*. Here's what I did with the confirmed cases data.
-```
+
+```r
 # confirmed cases
 # Connect to the repository and read the raw .csv file:
 dd_org_confirmed = read_csv(url("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv")) %>% 
@@ -53,7 +55,8 @@ dd_org_confirmed = read_csv(url("https://raw.githubusercontent.com/CSSEGISandDat
 ```
 
 The same is done for deaths and recovered cases.
-```
+
+```r
 # deaths
 dd_org_deaths = read_csv(url("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv")) %>% 
   	pivot_longer(., cols = -c("Country/Region", "Province/State", "Lat", "Long"), names_to = "Date", values_to = "deaths") 
@@ -64,7 +67,8 @@ dd_org_recovered = read_csv(url("https://raw.githubusercontent.com/CSSEGISandDat
  ```
 
 All three datasets are combined to a single one that contains all information, including active cases being calculated as the sum of confirmed cases minus deaths and recovered cases.
-```
+
+```r
 dd <- dd_org_confirmed %>% 
 	# Combine datasets by left-joining these:
   	left_join(., dd_org_deaths, by = c("Country/Region", "Province/State", "Date", "Lat", "Long"), copy = FALSE, keep = FALSE) %>% 
@@ -79,14 +83,16 @@ dd <- dd_org_confirmed %>%
 ```
 
 Now, a quick check what the data looks like.
-```
+
+```r
 str(dd)
 head(dd)
 ```
-![CoViD-19_str_head.png]({{site.baseurl}}/img/CoViD-19_str_head.png)
+![CoViD-19_str_head.png]({{site.baseurl}}/img/CoViD-19_str_head.png)<br/>
 
 And a brief graphical check using data for Germany:
-```
+
+```r
 ggplotly(dd %>% 
 	filter(., country_region == "Germany") %>% 
 	ggplot(aes(x = date, y = cases, colour = status)) +
@@ -103,7 +109,7 @@ ggplotly(dd %>%
 Looks good!
 
 Finally, I export the the data to a .csv file on my computer. Alternatively, one could save the data to another repository and connect Tableau to it via a web connector. But, for now, I stay with this approach.
-```
+```r
 # Export to .csv file.
 write.csv(dd, "user_path/covid_time_series.csv")
 ```
