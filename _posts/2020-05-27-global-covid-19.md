@@ -11,7 +11,7 @@ tags:
   - viz
   - CoViD-19
   - pandemic
-published: false
+published: true
 date: '2020-05-27'
 ---
 In the beginning of February I designed a informative and unbiased dashboard to track and display CoViD-19 cases. I used the  database from the [Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://systems.jhu.edu/). as this is the main data source when monitoring and comparing case numbers between countries on a global level.
