@@ -46,7 +46,7 @@ h1,h2,h3,h4,h5,h6 {
   /* font-family: 'Quicksand', sans-serif; */
   /* font-family: 'Barlow', sans-serif; */
   /* font-family: 'Varela Round', sans-serif; */
-  font-weight: 180;   /* original: 800 */
+  font-weight: 250;   /* original: 800 */
 }
 a {
   color: #526E9B; /* #335987;   /* org.: #008AFF */
@@ -83,7 +83,7 @@ hr.small {
 .main-explain-area {
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
   /*font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
-  font-family: 'SF Compact Rounded', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'SF Compact Rounded', sans-serif;
   padding: 15px inherit;
 }
 
@@ -160,7 +160,7 @@ button {
     padding:       5px 16px;
     color:         #999999; /* #F5F5F1; */
     display:       inline-block;
-    font:          thin 400 20px/1 "Open Sans", sans-serif;
+    font:          thin 400 20px/1 "SF Compact Rounded", sans-serif;
     text-align:    center;
     text-shadow:   none;
 }
@@ -179,7 +179,7 @@ button {
   /* background-color: transparent; /* TMM added this line*/
   border-bottom: 1px solid #EAEAEA;
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'SF Compact Rounded', sans-serif;
   {% if site.navbar-col %}
   background: {{ site.navbar-col }};
   {% endif %}
@@ -373,7 +373,7 @@ footer .list-inline {
 }
 footer .copyright {
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'SF Compact Rounded', sans-serif;
   text-align: center;
   margin-bottom: 0;
 }
@@ -393,6 +393,9 @@ footer .theme-by {
     font-size: 14px;
   }
 }
+
+
+
 
 /* --- Post preview --- */
 
@@ -440,7 +443,7 @@ footer .theme-by {
 }
 .post-preview .post-entry {
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'SF Compact Rounded', sans-serif;
 }
 .post-entry-container {
   display: inline-block;
@@ -480,7 +483,7 @@ footer .theme-by {
 
 .blog-tags {
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'SF Compact Rounded', sans-serif;
   color: #999;
   font-size: 15px;
   margin-bottom: 30px;
@@ -577,7 +580,7 @@ footer .theme-by {
   line-height: 1.1;
   display: block;
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'SF Compact Rounded', sans-serif;
   font-weight: 200; /* org: 300 */
   margin: 10px 0 0;
 }
@@ -603,7 +606,8 @@ footer .theme-by {
   font-size: 11px;
   color: #EEE;
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'SF Compact Rounded', sans-serif;
+  /*font-weight: 180;*/)
   right: 0;
   bottom: 0;
   display: none;
@@ -686,11 +690,12 @@ footer .theme-by {
 
 
 
+
 /* --- Pager --- */
 
 .pager li a {
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'SF Compact Rounded', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
