@@ -13,7 +13,8 @@ body {
   /* font-family: 'EB Garamond', serif; */
   /* font-family: 'Quattrocento', serif; */
   /*font-family: 'Barlow Light', sans-serif;*/
-  font-family: 'Lato', sans-serif;
+  /*font-family: 'Lato', sans-serif;*/
+  font-family: 'SF Compact Rounded', medium;
   font-size: 16px;
   color: #4F4F4F; /* original: #404040  */
   position: relative;
@@ -39,7 +40,8 @@ h1,h2,h3,h4,h5,h6 {
   /* font-family: 'Varela Round', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
   /* font-family: 'Optima', 'Optima', Helvetica, Arial, sans-serif; */
   /*font-family: 'Raleway', 'Raleway', Helvetica, Helvetica, sans-serif; */
-  font-family: 'Lato', 'Lato', Helvetica, Helvetica, sans-serif;
+  /*font-family: 'Lato', 'Lato', Helvetica, Helvetica, sans-serif;*/
+  font-family: 'SF Compact Rounded', medium;
   /* font-family: 'Quicksand', sans-serif; */
   /* font-family: 'Barlow', sans-serif; */
   /* font-family: 'Varela Round', sans-serif; */
@@ -79,7 +81,8 @@ hr.small {
 
 .main-explain-area {
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  /*font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
+  font-family: 'SF Compact Rounded', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 15px inherit;
 }
 
