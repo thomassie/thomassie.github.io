@@ -174,7 +174,9 @@ In addition, when hovering over a bar one gets a detailed view on the case type 
 
 One is referred to this dashboard when clicking on a country -- either on the map or in the bar chart. This dashboard allows the viewer to get **additional information** about a country, such as GDP or health care spendings. The data was retrieved from [The World Bank](https://www.worldbank.org)'s [data catalogue](https://data.worldbank.org). When hovering over an indicator the tooltip shows the exact definition.
 
-I included this dashboard because I was wondering how well a country can respond to this crisis given its population size, its financial means or the access to electricity. However, these are just indicators and there is no direct link or causality to the response performance. For instance, the United States of America have by far the highest health care expenditures relative to GDP. But inefficiencies and political incompetence resulted in a dramatic course of CoViD-19.<br/><br/>
+I included this dashboard because I was wondering how well a country can respond to this crisis given its population size, its financial means or the access to electricity. However, these are just indicators and there is no direct link or causality to the response performance. For instance, the United States of America have by far the highest health care expenditures relative to GDP. But inefficiencies and political incompetence resulted in a dramatic course of CoViD-19.
+
+![CoViD-19_relative_confirmed_country-details.png]({{site.baseurl}}/img/CoViD-19_relative_confirmed_country-details.png)<br/><br/>
 
 
 ## Mobile version
