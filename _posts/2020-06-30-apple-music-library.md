@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple Music Library.
-image: /img/AppleMusicLibrary_all-squared.png
+image: /img/AppleMusicLibrary_all_squared.png
 tags:
   - Tableau
   - Tableau Public
