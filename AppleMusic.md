@@ -49,7 +49,7 @@ dd <- tibble(category = track_info_text[seq(1, length(track_info_text), 2)],
 write_csv(dd, "~/...ProjectFolder.../Output/Mediathek.csv")
 
 ```
-<br/><br/>
+<br/>
 
 
 ## Step 3
