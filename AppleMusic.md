@@ -8,7 +8,7 @@ published: true
 
 Recently, I was wondering about which are the songs I listen to most often on Apple Music. Sure, Apple Music can show you the "Top 25 Most Played" songs. However, it didn’t provide me with the instant overview I wanted to have. And it’s not made for conditional filtering.
 
-So, I exported the library, read and processed the `.xml?` file in `R`, created an excerpt, and visualised this sample in Tableau. Well, that worked quite nicely… You can have a look at the result on [Tableau Public]().
+So, I exported the library, read and processed the `.xml?` file in `R`, created an excerpt, and visualised this sample in Tableau. Well, that worked quite nicely… You can have a look at [the result](https://public.tableau.com/profile/thomas.massie#!/vizhome/AppleMusicLibrary/APPLEMUSICMEDIATHEK) on [Tableau Public](https://public.tableau.com/).
 
 Though, the very first thing that I realized when looking at the dashboard: my kids have a huge impact! Just watch out for "Die drei ??? Kids" or "Deine Freunde"...
 
@@ -19,7 +19,7 @@ You want to have a look at your Apple Music Library, too? You have R and Tableau
 
 First, you have to export your library to your project folder. You can do this by selecting the export function from the menu:
 
-![AppleMusicLibrary_export.png]({{site.baseurl}}/img/AppleMusicLibrary_export.png)<br/>
+![AppleMusicLibrary_export.png]({{site.baseurl}}/img/AppleMusicLibrary_export.png)<br/><br/>
 
 
 ## Step 2
@@ -49,10 +49,18 @@ dd <- tibble(category = track_info_text[seq(1, length(track_info_text), 2)],
 write_csv(dd, "~/...ProjectFolder.../Output/Mediathek.csv")
 
 ```
+<br/><br/>
 
 
 ## Step 3
 
-Finally, you can download the Viz from Tableau Public, open it and replace the data source. Voilà! 
+Finally, you can download the [Viz](https://public.tableau.com/profile/thomas.massie#!/vizhome/AppleMusicLibrary/APPLEMUSICMEDIATHEK) from (https://public.tableau.com/)... 
+
+![AppleMusicLibrary_download.png]({{site.baseurl}}/img/AppleMusicLibrary_download.png)<br/><br/>
+
+... to then open it and replace the data source. Voilà! 
 
 ![AppleMusicLibrary_data-source.png]({{site.baseurl}}/img/AppleMusicLibrary_data-source.png)<br/>
+
+
+
