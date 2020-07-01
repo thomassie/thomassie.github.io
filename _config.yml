@@ -28,6 +28,7 @@ navbar-links:
   Publications: "Publications"
   Projects:
     - Global CoViD-19 Dashboard: "CoViD-19_global_dashboard"
+    - Apple Music Library: "AppleMusic"
     - Interactive CV: "InteractiveCV"
     - Dogs of Zurich: "DogsOfZurich"
     - RShiny: "RShiny"
