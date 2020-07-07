@@ -11,11 +11,12 @@ tags:
   - waffle
   - isotype
   - chart
+  - CoViD-19
 published: true
 date: '2020-07-07'
 ---
-Recently, I was wondering about **which are the songs I listen to most often on Apple Music**. Sure, [Apple Music](https://www.apple.com/chde/music/) can show you the "Top 25 Most Played" songs. However, it didn’t provide me with the instant overview I wanted to have. And it’s not made for **conditional filtering**.
+Displaying **proportional data**, i.e., subsets of data that contribute to a whole, can be done in various ways. However, two particular suitable types of visualisations are **isotypes** and **waffle charts**. 
 
-So, I exported the library, read and processed the `.xml?` file in **R**, created an excerpt, and visualised this sample in **Tableau**. Well, that worked quite nicely… You can have a look at [the result](https://public.tableau.com/profile/thomas.massie#!/vizhome/AppleMusicLibrary/APPLEMUSICMEDIATHEK) on [Tableau Public](https://public.tableau.com/) or watch a demo on [Vimeo](https://vimeo.com/427384435).
+By making use of **isotypes** ([**i**nternational **s**ystem **o**f **t**ypographic **p**icture **e**ducation](https://en.wikipedia.org/wiki/Isotype_(picture_language))), one automatically switches from a continuous representation of data to a (semi-)discrete one: each isotype stands for a specific proportion (e.g., 1'000 people) that can easily be summed up by the viewer (23 isotypes make 23'000 people). Also, the viewer can often much better relate to a specific topic compared to when looking at plain percentage bars. 
 
-In case you want to use this dashboard to apply it to your very own music library, just [follow these steps](https://thomassie.me/AppleMusic/)!
+A **waffle chart** provides a means to graphically display proportions of a whole. Search for it and you will find numerous examples. It is a cool alternative to a pie chart, including the very same restrictions (e.g., number of categories). However, it's discrete with each cell representing a specific proportion of the whole. For instance, a 10 by 10 matrix waffle results in 100 cells and is therefore very well-suited for displaying percentages. In combination with isotypes, waffle charts get really impressive!
