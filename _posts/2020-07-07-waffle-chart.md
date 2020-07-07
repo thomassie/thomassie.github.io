@@ -1,19 +1,18 @@
 ---
 layout: post
-title: Apple Music Library
-image: /img/AppleMusicLibrary_all_squared.png
+title: Waffle charts in R
+image: /img/Waffle_CoViD-19_US_squared.png
 tags:
-  - Tableau
-  - Tableau Public
-  - dashboard
+  - R
+  - ggplot
   - visual analytics
   - visualization
   - viz
-  - Apple
-  - Apple Music
-  - Music
+  - waffle
+  - isotype
+  - chart
 published: true
-date: '2020-06-30'
+date: '2020-07-07'
 ---
 Recently, I was wondering about **which are the songs I listen to most often on Apple Music**. Sure, [Apple Music](https://www.apple.com/chde/music/) can show you the "Top 25 Most Played" songs. However, it didn’t provide me with the instant overview I wanted to have. And it’s not made for **conditional filtering**.
 
