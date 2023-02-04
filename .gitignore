@@ -2,7 +2,6 @@
 _site
 .sass-cache
 .vagrant
-*.icloud
 
 # general
 .DS_Store
