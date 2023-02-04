@@ -6,7 +6,7 @@ published: true
 ![TMM_Portrait_08_more_d.jpg]({{site.baseurl}}/img/TMM_Portrait_08_more_d.jpg)
 
 {% raw %}
-<button class="button" onclick="window.open('/CV_Summary___Thomas_Massie.pdf')">Download CV</button>
+<button class="button" onclick="window.open('/CV_Thomas_Massie.pdf')">Download CV</button>
 {% endraw %}
 
 
