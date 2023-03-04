@@ -39,6 +39,7 @@ In 2020 I decided to dig deeper into the topics of **[full-stack development](ht
 - **educating business people** in data analytics software (Tableau, Alteryx, [PowerQuery](https://powerquery.microsoft.com/en-us/), [PowerPivot](https://support.microsoft.com/de-de/office/erste-schritte-mit-power-pivot-in-microsoft-excel-fdfcf944-7876-424a-8437-1a6c1043a80b)) and competencies (visualization techniques, storytelling, data wrangling…).
 <!--My tasks comprise (a) **designing visualisations** to communicate internal and client data efficiently and effectively - mostly in form of interactive dashboards using [Tableau](https://www.tableau.com/), (b) **educating** the Deals team in various data analytics softwares and competencies, and (c) helping them with their **daily project work**.-->
 
+
 ## 2017: Personal sabbatical
 For 1.5 years, I was taking a personal sabbatical to (a) spend more **time with my family**, (b) **educate myself** in topics I never really found the time before, and (c) figure out **what to do in the future**. I really enjoyed that break.
 
