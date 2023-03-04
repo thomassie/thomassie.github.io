@@ -32,7 +32,7 @@ In 2020 I decided to dig deeper into the topics of **[full-stack development](ht
 
 
 ## 2018 – 2020: P*w*C
-**Data analyst** with [PwC](https://www.pwc.ch/en.html) in their Zurich office in Oerlikon. I was part of a small data analytics team exclusively assigned to [Deals](https://www.pwc.ch/en/services/deals.html), i.e. mergers and acquisitions. Typical tasks comprised
+**Data analyst** with [P*w*C](https://www.pwc.ch/en.html) in their Zurich office in Oerlikon. I was part of a small data analytics team exclusively assigned to [Deals](https://www.pwc.ch/en/services/deals.html), i.e. mergers and acquisitions. Typical tasks comprised
 - **collecting, wrangling and analyzing** client and internal data ([Alteryx](https://www.alteryx.com/de), R),
 - **designing sophisticated dashboards** (Tableau, [PowerBI](https://powerbi.microsoft.com/de-ch/)) and other types of **data visualizations** that allow for an instant overview of the information available (R).
 - working for **various lines of services** (strategy, financial services, corporate finance, valuations, real estate…) and **businesses/industries** (banking, retail, pharmaceuticals, healthcare…), and
