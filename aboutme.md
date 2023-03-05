@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-published: false
+published: true
 ---
 
 ![TMM_Chaiserstock_03.jpg]({{site.baseurl}}/img/TMM_Chaiserstock_03.jpg)
