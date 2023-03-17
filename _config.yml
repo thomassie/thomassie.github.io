@@ -33,11 +33,11 @@ navbar-links:
     - Dogs of Zurich: "DogsOfZurich"
     - Logistic Growth: "RShiny, Growth"
     - Storms: "Storms"
-    - Terrorism: "Terrorism"
+    #- Terrorism: "Terrorism"
   Photography: "Photography"
   Resources:
     - GitHub: "https://github.com/thomassie"
-    - stackoverflow: "https://stackoverflow.com/users/8642015/thomas-massie?tab=profile"
+    #- stackoverflow: "https://stackoverflow.com/users/8642015/thomas-massie?tab=profile"
   Links:
     - Former University Profile: "https://www.ieu.uzh.ch/en/staff/former/massie_thomas.html"
     - Google Scholar Profile: "https://scholar.google.ch/citations?user=99uT1l4AAAAJ&hl=en"

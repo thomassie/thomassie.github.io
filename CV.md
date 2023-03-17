@@ -16,7 +16,7 @@ Since 2021, I'm working as a data analyst in [Comparis](comparis.ch)' newsroom t
 - **loading data** from BigQuery and other sources into [R](https://www.r-project.org) or [Python](https://www.python.org) scripts,
 - performing **explorative data analysis** in R/Python to **identify patterns/stories**,
 - performing **various analysis** in R/Python to **test ideas** and produce stories,
-- researching 3^{rd}-party data to **enrich analysis** and **provide context**,
+- researching 3<sup>rd</sup>-party data to **enrich analysis** and **provide context**,
 - using moderate **statistical models** to gain further **insights**,
 - **visualising** results in [ggplot2](https://ggplot2.tidyverse.org) of [plotly](https://plotly.com) (static/semi-interactive),
 - **visualising** results in [Flourish](https://flourish.studio) for web (interactive),
