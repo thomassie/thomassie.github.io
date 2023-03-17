@@ -27,12 +27,11 @@ navbar-links:
   CV: "CV"
   Publications: "Publications"
   Projects: 
-    - Storms: "Storms"
-    - Global CoViD-19 Dashboard: "CoViD-19_global_dashboard"
     - Apple Music Library: "AppleMusic"
-    - Interactive CV: "InteractiveCV"
+    - Global CoViD-19 Dashboard: "CoViD-19_global_dashboard"
     - Dogs of Zurich: "DogsOfZurich"
-    - Logistic Growth: "RShiny, Growth"
+    - Interactive CV: "InteractiveCV"
+    - Storms: "Storms"
     #- Terrorism: "Terrorism"
   Photography: "Photography"
   Resources:
