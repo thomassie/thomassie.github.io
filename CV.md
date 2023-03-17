@@ -9,7 +9,7 @@ published: true
 <button class="button" onclick="window.open('/CV_Thomas_Massie.pdf')">Download CV</button>
 {% endraw %}
 
-
+<br>
 ## since 2021: comparis.ch
 Since 2021, I'm working as a data analyst in [Comparis](comparis.ch)' newsroom team. My typical tasks comprise
 - creating **SQL queries/views/tables** in [BigQuery](https://cloud.google.com/bigquery/docs/introduction?hl=de) via [dbt](https://www.getdbt.com),
@@ -26,11 +26,11 @@ Since 2021, I'm working as a data analyst in [Comparis](comparis.ch)' newsroom t
 
 comparis.ch is well known in Switzerland (at least 90% of people are aware of this platform and millions make use of it) and, hence, it is interesting and fun to see analysis performed in the newsroom being discussed by media and the public.
 
-
+<br>
 ## 2020 – 2021: Further education
 In 2020 I decided to dig deeper into the topics of **[full-stack development](https://learning.constructor.org/de/full-stack)** (front-end + back-end) and **[data science](https://learning.constructor.org/de/data-science)**. I decided to go with two bootcamps with [Constructor Learning](https://learning.constructor.org/de) (back than called Propulsion Acedemy). Although being tough from a time effort perspective, I enjoyed the time as the instructors are competent and very nice, and the topics covered allowed for a very good overview.
 
-
+<br>
 ## 2018 – 2020: P*w*C
 **Data analyst** with [P*w*C](https://www.pwc.ch/en.html) in their Zurich office in Oerlikon. I was part of a small data analytics team exclusively assigned to [Deals](https://www.pwc.ch/en/services/deals.html), i.e. mergers and acquisitions. Typical tasks comprised
 - **collecting, wrangling and analyzing** client and internal data ([Alteryx](https://www.alteryx.com/de), R),
@@ -39,11 +39,11 @@ In 2020 I decided to dig deeper into the topics of **[full-stack development](ht
 - **educating business people** in data analytics software (Tableau, Alteryx, [PowerQuery](https://powerquery.microsoft.com/en-us/), [PowerPivot](https://support.microsoft.com/de-de/office/erste-schritte-mit-power-pivot-in-microsoft-excel-fdfcf944-7876-424a-8437-1a6c1043a80b)) and competencies (visualization techniques, storytelling, data wrangling…).
 <!--My tasks comprise (a) **designing visualisations** to communicate internal and client data efficiently and effectively - mostly in form of interactive dashboards using [Tableau](https://www.tableau.com/), (b) **educating** the Deals team in various data analytics softwares and competencies, and (c) helping them with their **daily project work**.-->
 
-
+<br>
 ## 2017: Personal sabbatical
 For 1.5 years, I was taking a personal sabbatical to (a) spend more **time with my family**, (b) **educate myself** in topics I never really found the time before, and (c) figure out **what to do in the future**. I really enjoyed that break.
 
-
+<br>
 ## 2012 – 2016: Postdoctoral researcher
 
 <!--- In my postdoc project I dealed with the response behaviour of ecological communities to environmental changes. I approached this topic by performing experiments with microbial communities being . --->
@@ -53,7 +53,7 @@ For 1.5 years, I was taking a personal sabbatical to (a) spend more **time with 
 * **Supervisor**: [Prof. Owen L. Petchey](http://www.ieu.uzh.ch/en/staff/member/petchey_owen.htm)
 * **Keywords**: bacteria · ciliates · community dynamics · functional responses · mathematical modelling · microcosm experiments · non-linear dynamics · paradox of enrichment · response to environmental changes · statistical modelling  
 
-
+<br>
 ## 2006 – 2012: Doctoral thesis (PhD)
 
 <!--- Phytoplankton consists of microorganisms mostly belonging to the realm of plants. --->
@@ -65,7 +65,7 @@ For 1.5 years, I was taking a personal sabbatical to (a) spend more **time with 
 * **Keywords**: cell cycle · demography · chemostat experiments · mathematical modelling · Moran effect · non-steady-state behaviour · response to environmental changes · transient population dynamics
 * **Thesis**: [download](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/5618/file/massie_diss.pdf)  
 
-
+<br>
 ## 2005: Diploma thesis (M.Sc.)
 
 <!--- I received my diploma in Biology in 2005 by successfully graduating in the subjects Ecology & Nature conservation, Limnology, Microbiology, and Botany. In my diploma thesis I dealed with the occurence of harmful algae blooms (HABs), i.e., mass occurrences of specific (phyto-)plankton species that can cause harm to people and other species sharing the same environment. HABs occur almost everywhere on earth, in marine and fresh water environments. --->
@@ -76,7 +76,7 @@ For 1.5 years, I was taking a personal sabbatical to (a) spend more **time with 
 * **Supervisors**: [Prof. Gregor F. Fussmann](https://www.mcgill.ca/cambam/people/ecology-and-evolutionary-biological-group/fussmann-gregor) and [Prof. Ursula Gaedke](https://www.uni-potsdam.de/ibb-ecology/mitarbeiterinnen/prof-dr-ursula-gaedke.html)
 * **Keywords**: chemostat experiments · harmful algae blooms · initial conditions · mathematical modelling · non-linear dynamics · paradox of enrichment   
 
-
+<br>
 ## 2001: Pre-degree (B.Sc.)
 * **Biology**  
 * **Location**: [Justus-Liebig-University](https://www.uni-giessen.de/index.html) Gießen (Germany)
