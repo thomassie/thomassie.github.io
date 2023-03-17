@@ -18,7 +18,7 @@ Imagine an organism that propagates once a year, and all individuals within a po
 
 However, we all know that no population growths without limits. There are certain factors that regulate the number of individuals, such as the availability of resources (food, space...), or the susceptibility to diseases. These factors are related to the number of individuals living in a given space, i.e. the population density. That is, the growth of a population is density dependent.
 
-Now, there are a couple of possibilities of how to model density-dependent population growth. The most popular one is the so called [logistic map](http://mathworld.wolfram.com/LogisticMap.html) (a discrete version of the [Verhulst equation](http://mathworld.wolfram.com/LogisticEquation.html)). It is pretty simple to understand: A population starts at low density and grows towards a specific density value that is sustainable for a given space of set of conditions, called carrying capacity. In the time-continuous version, the result is a smooth saturation [sigmoidal curve](https://en.wikipedia.org/wiki/Sigmoid_function). However, in the discrete version the population can shoot over the carrying capacity. This might lead to (damped) oscillations or even chaotic dynamics. The crucial parameter that defines the kind of dynamics is the growth rate. Have a look at the [app](https://thomassie.shinyapps.io/logisticgrowthtimediscrete/) and you will get an idea about this very simple road to (deterministic) chaos.   
+Now, there are a couple of possibilities of how to model density-dependent population growth. The most popular one is the so called [logistic map](http://mathworld.wolfram.com/LogisticMap.html) (a discrete version of the [Verhulst equation](http://mathworld.wolfram.com/LogisticEquation.html)). It is pretty simple to understand: A population starts at low density and grows towards a specific density value that is sustainable for a given space of set of conditions, called carrying capacity. In the time-continuous version, the result is a smooth saturation [sigmoidal curve](https://en.wikipedia.org/wiki/Sigmoid_function). However, in the discrete version the population can shoot over the carrying capacity. This might lead to (damped) oscillations or even chaotic dynamics. The crucial parameter that defines the kind of dynamics is the growth rate. Have a look at the **[app](https://thomassie.shinyapps.io/LogGrowth/)** and you will get an idea about this very simple road to (deterministic) chaos.   
 
 ![LogisticGrowth.png]({{site.baseurl}}/img/LogisticGrowth.png)  
 
@@ -26,7 +26,7 @@ Now, there are a couple of possibilities of how to model density-dependent popul
 ## Climate data
 Explore climate data from different countries and regions, and get an idea about what the annual cycle of average surface temperatures looks like. For example, it is intereting to see in which regions the cycle shows an unimodal shape with a maximum in June/July/August (Northern hemisphere), or when this peak is shifted to November/December/January (Southern hemisphere).  
 
-You can find the app [here](https://thomassie.shinyapps.io/climatedataapp/)
+You can find the app **[here](https://thomassie.shinyapps.io/climatedataapp/)**.
 
 ![ClimateData_02.png]({{site.baseurl}}/img/ClimateData_02.png)  
 
