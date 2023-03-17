@@ -26,16 +26,13 @@ navbar-links:
   #About Me: "aboutme"
   CV: "CV"
   Publications: "Publications"
-  Projects:
-    - ggplot: 
-      - Storms: "Storms"
-    - Tableau:
-      - Global CoViD-19 Dashboard: "CoViD-19_global_dashboard"
-      - Apple Music Library: "AppleMusic"
-      - Interactive CV: "InteractiveCV"
-      - Dogs of Zurich: "DogsOfZurich"
-    - R Shiny:
-      - Logistic Growth: "RShiny, Growth"
+  Projects: 
+    - ggplot – Storms: "Storms"
+    - Tableau – Global CoViD-19 Dashboard: "CoViD-19_global_dashboard"
+    - Tableau – Apple Music Library: "AppleMusic"
+    - Tableau – Interactive CV: "InteractiveCV"
+    - Tableau – Dogs of Zurich: "DogsOfZurich"
+    - R Shiny – Logistic Growth: "RShiny, Growth"
     #- Terrorism: "Terrorism"
   Photography: "Photography"
   Resources:
