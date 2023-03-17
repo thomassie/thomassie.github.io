@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-published: true
+published: false
 ---
 
 ![TMM_Chaiserstock_03.jpg]({{site.baseurl}}/img/TMM_Chaiserstock_03.jpg)
@@ -27,7 +27,7 @@ It is a really interesting field to work in and learn from.
 
 And what about the future plans? Well, business data can be really interesting, especially when working with an audit/consulting company like P*w*C. The insights one gets here are hard to get anywhere else. However, I am still interested in many other topics. What is common to them is the **clever communication of information**. That is, communicating the main concerns in an **efficient and effective** way. The topics I am most interested in are..
 
- * ...**Data Science & Information Design**
+ * ...**Data Analysis & Visual Communication**
    
    I love to search data for patterns that surprise me. Do not get me wrong! It is great when data confirms what you already know or expect. However, surprises are inevitable and very important. And also: fun. I mean, if you could decide whether to go with something simple, straightforward and expectable, or, you could choose something novel, challenging and unexpected... Well, I guess you get what I am saying. (That being said, getting no confirmation at all is pretty frustrating...)  
    

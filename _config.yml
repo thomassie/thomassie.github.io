@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: "Thomas Massie"
+title: "Thomas M. Massie"
 
 # Short description of your site
 description: This is my professional website.
@@ -23,7 +23,7 @@ description: This is my professional website.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   CV: "CV"
   Publications: "Publications"
   Projects:
@@ -31,7 +31,7 @@ navbar-links:
     - Apple Music Library: "AppleMusic"
     - Interactive CV: "InteractiveCV"
     - Dogs of Zurich: "DogsOfZurich"
-    - RShiny: "RShiny"
+    - Logistic Growth: "RShiny, Growth"
     - Storms: "Storms"
     - Terrorism: "Terrorism"
   Photography: "Photography"
