@@ -27,6 +27,7 @@ navbar-links:
   CV: "CV"
   Publications: "Publications"
   Projects: 
+    - Forever Polution Project: "FooreverPolutionProject"
     - Apple Music Library: "AppleMusic"
     - Global CoViD-19 Dashboard: "CoViD-19_global_dashboard"
     - Dogs of Zurich: "DogsOfZurich"

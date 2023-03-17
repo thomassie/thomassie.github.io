@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ForeeverPolutionProject
+title: ForeverPolutionProject
 published: false
 ---
 ![ForeverPolutionProject.png]({{site.baseurl}}/img/ForeverPolutionProject.png)<br/><br/>
