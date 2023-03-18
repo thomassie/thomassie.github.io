@@ -11,5 +11,25 @@ The interesting part besides reporting and displaying the wide spread of PFAS wi
 
 I had a look at their [expert dataset](https://assets-decodeurs.lemonde.fr/decodeurs/medias/foreverpollution/expert_dataset.csv). And as it is often the case with spatial data using a map is the way to go. Now, there are various approaches to visualise spatial data using different software solutions. However, since I wanted to avoid downloading and processing the data prior to pushing it further to a visualisation solution, I decided to build a [Shiny](https://shiny.rstudio.com) app in R. Shiny enables R programmers (soon [available for Python](https://shiny.rstudio.com/py/), too) to quickly build interactive visualisations and share these via [shinyapps.io](https://www.shinyapps.io) for free. That is simply great!
 
+The resulting [app](https://thomassie.shinyapps.io/Forever_Polution_Project/) allows to 
+- get an **overview** about the *entire* dataset; that is, all 33 countries instead of just Germany, for example,
+- **filter** for specific characteristics (only groundwater sites in Hamburg, Germany),
+- access all information for a **specific site**, and
+- come across **biases and flaws** in the data.
 
-[app](https://thomassie.shinyapps.io/Forever_Polution_Project/)
+In short, these are the main parts:
+
+![ForeverPolutionProject_parts.png]({{site.baseurl}}/img/ForeverPolutionProject_parts.png)<br/><br/>
+
+**1 – side panel**
+Allows to adjust the view to specific interests. One can choose between three different contamination categories, select one or more countries as well as site and matrix types, and to search for a specific city.
+
+**2 – map**
+Allows to quickly locate sites according to what choices were made in the side panel.
+
+**3 – tooltip**
+Provides all information available for a specific site as well as links directing to the source ans the project itself.
+
+<br>
+
+**Note**: Whenever you see any bugs or want to suggest improvements, please, feel free to contact me!
