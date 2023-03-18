@@ -3,7 +3,7 @@ layout: page
 title: Forever Polution Project
 published: true
 ---
-![ForeverPolutionProject.png]({{site.baseurl}}/img/ForeverPolutionProject.png)<br/><br/>
+![ForeverPolutionProject_parts.png]({{site.baseurl}}/img/ForeverPolutionProject_parts.png)<br><br>
 
 I came across this topic in a recent LinkedIn [post](https://www.linkedin.com/posts/danieldrepper_wir-haben-monatelang-an-einem-projekt-gearbeitet-activity-7034453375794470912-CrkV?utm_source=share&utm_medium=member_desktop) by investigative journalist [Daniel Drepper](https://www.linkedin.com/in/danieldrepper/). An international research network investigated the spread of [PFAS](https://en.wikipedia.org/wiki/Per-_and_polyfluoroalkyl_substances) (per- and polyfluoroalkyl substances) to unveil the scale of pollution. This group of chemicals are linked to various deseases such as cancer and infertility. As a result, PFAS are estimated to account for 52 and 84 billion euros in costs for European health systems – each year. Making this thread tarnsparent to the public is the aim of the [Forever Pollution Project](https://foreverpollution.eu/). 
 
@@ -18,8 +18,6 @@ The resulting [app](https://thomassie.shinyapps.io/Forever_Polution_Project/) al
 - come across **biases and flaws** in the data.
 
 In short, these are the main parts:
-
-![ForeverPolutionProject_parts.png]({{site.baseurl}}/img/ForeverPolutionProject_parts.png)<br/><br/>
 
 **1 – side panel**
 Allows to adjust the view to specific interests. One can choose between three different contamination categories, select one or more countries as well as site and matrix types, and to search for a specific city.
