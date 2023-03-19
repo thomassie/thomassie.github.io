@@ -21,10 +21,8 @@ In short, these are the main parts:
 
 **1 – side panel**
 Allows to adjust the view to specific interests. One can choose between three different contamination categories, select one or more countries as well as site and matrix types, and to search for a specific city.
-
 **2 – map**
 Allows to quickly locate sites according to what choices were made in the side panel.
-
 **3 – tooltip**
 Provides all information available for a specific site as well as links directing to the source ans the project itself.
 
