@@ -80,7 +80,7 @@ Because I believe that personal credibility and integrity scale up and are refle
 
 **Which are the people we listen to?**  
 Why do we assume that (economically) successful people are worth listening to?
-That is related to mainly two points: how people think about money, and skill these
+That is related to mainly two points: how people think about money, and the skills these
 people have to get accumulate incredible amounts of money.
 
 

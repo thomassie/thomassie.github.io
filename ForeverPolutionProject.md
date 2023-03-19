@@ -11,7 +11,7 @@ The interesting part besides reporting and displaying the wide spread of PFAS wi
 
 I had a look at their [expert dataset](https://assets-decodeurs.lemonde.fr/decodeurs/medias/foreverpollution/expert_dataset.csv). And as it is often the case with spatial data using a map is the way to go. Now, there are various approaches to visualise spatial data using different software solutions. However, since I wanted to avoid downloading and processing the data prior to pushing it further to a visualisation solution, I decided to build a [Shiny](https://shiny.rstudio.com) app in R. Shiny enables R programmers (soon [available for Python](https://shiny.rstudio.com/py/), too) to quickly build interactive visualisations and share these via [shinyapps.io](https://www.shinyapps.io) for free. That is simply great!
 
-The resulting [app](https://thomassie.shinyapps.io/Forever_Polution_Project/) allows to 
+The resulting **[app](https://thomassie.shinyapps.io/Forever_Polution_Project/)** allows to 
 - get an **overview** about the *entire* dataset; that is, all 33 countries instead of just Germany, for example,
 - **filter** for specific characteristics (only groundwater sites in Hamburg, Germany),
 - access all information for a **specific site**, and
