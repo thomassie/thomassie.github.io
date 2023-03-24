@@ -25,7 +25,6 @@ description: This is my professional website.
 navbar-links:
   #About Me: "aboutme"
   CV: "CV"
-  Publications: "Publications"
   Projects: 
     - Forever Polution Project: "ForeverPolutionProject"
     - Apple Music Library: "AppleMusic"
@@ -35,6 +34,7 @@ navbar-links:
     - Interactive CV: "InteractiveCV"
     - Storms: "Storms"
     #- Terrorism: "Terrorism"
+  Publications: "Publications"
   Photography: "Photography"
   Resources:
     - GitHub: "https://github.com/thomassie"
