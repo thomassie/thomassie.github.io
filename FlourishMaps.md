@@ -3,6 +3,7 @@ layout: page
 title: Maps in Flourish
 published: true
 ---
+![Flourish.jpg]({{site.baseurl}}/img/Flourish.jpg)<br><br>
 
 Example map displaying key figures for Swiss municipalities.
 
