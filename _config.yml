@@ -29,6 +29,7 @@ navbar-links:
   Projects: 
     - Forever Polution Project: "ForeverPolutionProject"
     - Apple Music Library: "AppleMusic"
+    - Maps in Flourish: "ShinyMaps"
     - Global CoViD-19 Dashboard: "CoViD-19_global_dashboard"
     - Dogs of Zurich: "DogsOfZurich"
     - Interactive CV: "InteractiveCV"

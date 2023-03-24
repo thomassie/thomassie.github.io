@@ -26,6 +26,8 @@ Allows to quickly locate sites according to what choices were made in the side p
 **3 – tooltip**<br>
 Provides all information available for a specific site as well as links directing to the source ans the project itself.
 
+<iframe height="800" width="100%" frameborder="no" src="https://thomassie.shinyapps.io/Forever_Polution_Project/"> </iframe>
+
 <br>
 
 **Note**: Whenever you see any bugs or want to suggest improvements, please, feel free to contact me!
