@@ -5,4 +5,4 @@ published: true
 ---
 
 
-<iframe height="800" width="100%" frameborder="no"><div class="flourish-embed flourish-map" data-src="visualisation/10105282"><script src="https://public.flourish.studio/resources/embed.js"></script></div></iframe>
+<iframe height="600" width="100%" frameborder="no"><div class="flourish-embed flourish-map" data-src="visualisation/10105282"><script src="https://public.flourish.studio/resources/embed.js"></script></div></iframe>
