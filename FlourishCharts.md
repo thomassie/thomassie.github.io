@@ -14,6 +14,11 @@ published: true
 
 ## Examples
 
+### Line chart
+...of election results for German Bundestag.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/13203520"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ### Column chart
 ...of election results for German Bundestag.
 
