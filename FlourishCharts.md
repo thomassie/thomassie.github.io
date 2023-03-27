@@ -15,31 +15,31 @@ published: true
 ## Examples
 <br>
 
-### Map
+### **Map**
 ...displaying key figures for Swiss municipalities.
 
 <div class="flourish-embed flourish-map" data-src="visualisation/10105282"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
 
-### Line chart
+### **Line chart**
 ...of election results for German Bundestag.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/13203520"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
 
-### Column chart
+### **Column chart**
 ...of election results for German Bundestag.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/13200180"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
 
-### Pie chart
+### **Pie chart**
 ...of election results for German Bundestag.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/13193631"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
 
-### Slope chart
+### **Slope chart**
 ...of differences in election results for German Bundestag.
 
 <div class="flourish-embed flourish-slope" data-src="visualisation/13210020"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
