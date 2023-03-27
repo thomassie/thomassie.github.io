@@ -45,6 +45,9 @@ published: true
 <div class="flourish-embed flourish-slope" data-src="visualisation/13210020"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
 
+### **Area chart**
+...of election results for German Bundestag.
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/13211564"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
