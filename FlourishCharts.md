@@ -8,9 +8,18 @@ published: true
 
 ## What is Flourish?
 
-[Flourish](https://flourish.studio) is an online visualisation tool. It allows to create interactive visualisations, including standard chart types such as Bar or line charts as well as maps and more complex charts.
+[Flourish](https://flourish.studio) is an online visualisation tool. It allows to create interactive visualisations and stories without needing any coding skills. It offers a wide range of chart types, maps, and animations that can be customized to fit (almost) any data set. <!-- including standard chart types such as bar or line charts as well as maps and more complex charts. --> With Flourish, users can easily upload their own data to create engaging and informative visualizations. 
 
+One of the biggest advantages of Flourish is its ease of use. The platform is quite intuitive and user-friendly, making it accessible to users of different skill levels. Additionally, Flourish offers a number of integrations, allowing users to easily embed their visualizations in websites.
 
+The platform offers a free plan that includes basic features, as well as paid plans for users who need more advanced functionality.
+
+<br>
+
+<!-- ## Who is using Flourish?
+
+Flourish is used by a diverse range of individuals and organizations across various industries and fields. Journalists and media organizations often use Flourish to create interactive data-driven stories and infographics. Businesses and marketing professionals also use the platform to create visualizations for reports to communicate their data insights to stakeholders. But also individuals such as data analysts, designers, and developers use Flourish to create data visualizations for personal or professional projects. 
+<br>-->
 
 ## Examples
 <br>
