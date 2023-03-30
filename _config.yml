@@ -37,6 +37,7 @@ navbar-links:
   Publications: "Publications"
   Photography: "Photography"
   Resources:
+    - Tableau Public: "https://public.tableau.com/app/profile/thomas.massie"
     - GitHub: "https://github.com/thomassie"
     #- stackoverflow: "https://stackoverflow.com/users/8642015/thomas-massie?tab=profile"
   Links:
