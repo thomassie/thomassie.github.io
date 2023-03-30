@@ -16,7 +16,7 @@ Flourish allows for a wide range of interactive features and animations that can
 
 In addition to standard interactivity features, Flourish also offers more advanced interactive features like filters, sliders, and drop-down menus, which can be used to allow users to explore different aspects of the data set and customize the visualisation to their needs.
 
-The platform offers a free plan that includes basic features, as well as paid plans for users who need more advanced functionality.
+The platform offers a free plan that includes basic features, as well as paid plans for users who need more advanced functionality (e.g., custom templates).
 
 <br>
 
