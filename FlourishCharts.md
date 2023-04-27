@@ -34,6 +34,11 @@ Flourish is used by a diverse range of individuals and organizations across vari
 <div class="flourish-embed flourish-map" data-src="visualisation/10105282"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
 
+...displaying most expensive and most modest-priced health insurances premiums in 2023 for adults with a deductibel of CHF 300.
+
+<div class="flourish-embed flourish-map" data-src="visualisation/13562828"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<br>
+
 ### **Line chart**
 ...displaying election results for German Bundestag.
 
