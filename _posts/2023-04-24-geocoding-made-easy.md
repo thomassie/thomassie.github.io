@@ -22,7 +22,7 @@ I tried, both, Nominatim (`method = "osm"`) and ArcGis (`method = "arcgis"`) and
 
 Here's the code. You should definitely give it a try! 
 
-```
+```r
 library(tidyverse)
 library(janitor)
 library(skimr)
