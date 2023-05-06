@@ -45,6 +45,11 @@ Flourish is used by a diverse range of individuals and organizations across vari
 <div class="flourish-embed flourish-chart" data-src="visualisation/13203520"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
 
+### **Bar chart**
+...displaying vine procuction in the German federal state of Baden-Württemberg.
+<div class="flourish-embed flourish-chart" data-src="visualisation/13662494"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<br>
+
 ### **Column chart**
 ...displaying election results for German Bundestag.
 
