@@ -18,6 +18,7 @@ In addition to standard interactivity features, Flourish also offers more advanc
 
 The platform offers a free plan that includes basic features, as well as paid plans for users who need more advanced functionality (e.g., custom templates).
 
+Below, I will display a couple of visualisations – and also mention some of the drawbacks that you face when dealing with Flourish.
 <br>
 
 <!-- ## Who is using Flourish?
@@ -68,13 +69,23 @@ Flourish is used by a diverse range of individuals and organizations across vari
 <div class="flourish-embed flourish-slope" data-src="visualisation/13210020"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
 
+### **Stacked column chart**
+...displaying election results for German Bundestag.
+<div class="flourish-embed flourish-chart" data-src="visualisation/13726551"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<br>
+
 ### **Area chart**
 ...displaying election results for German Bundestag.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/13211564"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
 
+### **Stream chart**
+...displaying the number of seats in the German Bundestag.
+<div class="flourish-embed flourish-chart" data-src="visualisation/13735422"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<br>
+
 ### **Parliament chart**
-...displaying the distribution of seats in the German Bundestag.
+...displaying the number of seats in the German Bundestag.
 
 <div class="flourish-embed flourish-parliament" data-src="visualisation/13193562"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
