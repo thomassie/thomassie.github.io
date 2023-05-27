@@ -31,20 +31,20 @@ Flourish is used by a diverse range of individuals and organizations across vari
 <br>
 
 ### **Choropleth map**
-...displaying key figures for Swiss municipalities.<br>
-Everythings working as expected. That is, when hovering over a tile one can obtain a couple of statistics for the respective municipality. 
+...displaying key figures for Swiss municipalities.<br><br>
+Everything iss working as expected here. That is, when hovering over a tile one can obtain a couple of statistics for the respective municipality. Colors indicate that urban character a municipality has; white lines the borders between Swiss larger regions. Nothing more, nothing less.
 
 <div class="flourish-embed flourish-map" data-src="visualisation/10105282"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
 
-...displaying most expensive and most modest-priced health insurances premiums in 2023 for adults with a deductibel of CHF 300.<br>
-This is a more complex choropleth map than the one before. First, what is quite obvious is the possibility to adjust map colours. That is, one can choose to either colour the map by minimum or maximum premiums. This is achieved by including two columns as values for the map. In addition, the pop-up window or tooltip displays detailed informations regarding minimum and maximum premiums as well as the maximum savings potential – per month and year.
+...displaying most expensive and most modest-priced health insurances premiums in 2023 for adults with a deductibel of CHF 300.<br><br>
+This is a more complex choropleth map than the one before. First, what is quite obvious is the possibility to adjust map colours. That is, one can choose to either colour the map by minimum or maximum premiums. This is achieved by including two columns that contain the values to colour the map with. In addition, the pop-up window or tooltip displays detailed informations regarding minimum and maximum premiums as well as the maximum savings potential – per month and year.
 
 <div class="flourish-embed flourish-map" data-src="visualisation/13562828"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
 
 ### **Line chart**
-...displaying election results for German Bundestag.
+...displaying election results for German Bundestag.<br><br>
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/13203520"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
