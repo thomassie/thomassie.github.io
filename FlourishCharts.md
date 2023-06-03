@@ -19,23 +19,6 @@ In addition to standard interactivity features, Flourish also provides more adva
 The platform offers a free plan encompassing basic features, as well as paid plans for users requiring more advanced functionality, for instance, custom templates.
 
 In the following section, I will display a few visualisations and also mention some of the challenges one might encounter when using Flourish.
-<!--[Flourish](https://flourish.studio) is an online visualisation tool. It allows to create interactive visualisations and stories without needing any coding skills. It offers a wide range of chart types, maps, and animations that can be customized to fit (almost) any data set. <!-- including standard chart types such as bar or line charts as well as maps and more complex charts. //With Flourish, users can easily upload their own data to create engaging and informative visualisations. 
-
-One of the biggest advantages of Flourish is its ease of use. The platform is quite intuitive and user-friendly, making it accessible to users of different skill levels. Additionally, Flourish offers a number of integrations, allowing users to easily embed their visualisations in websites.
-
-Flourish allows for a wide range of interactive features and animations that can be added to charts and maps, including hover effects, click interactions, and animations. These interactive features enable users to create engaging and dynamic visualisations that respond to user input and make it easier to explore and understand data insights.
-
-In addition to standard interactivity features, Flourish also offers more advanced interactive features like filters, sliders, and drop-down menus, which can be used to allow users to explore different aspects of the data set and customize the visualisation to their needs.
-
-The platform offers a free plan that includes basic features, as well as paid plans for users who need more advanced functionality (e.g., custom templates).
-
-Below, I will display a couple of visualisations – and also mention some of the drawbacks that you face when dealing with these using Flourish.-->
-<br>
-
-<!-- ## Who is using Flourish?
-
-Flourish is used by a diverse range of individuals and organizations across various industries and fields. Journalists and media organizations often use Flourish to create interactive data-driven stories and infographics. Businesses and marketing professionals also use the platform to create visualizations for reports to communicate their data insights to stakeholders. But also individuals such as data analysts, designers, and developers use Flourish to create data visualizations for personal or professional projects. 
-<br>-->
 <br>
 
 ## Examples
@@ -43,7 +26,7 @@ Flourish is used by a diverse range of individuals and organizations across vari
 
 ### **Choropleth map**
 ...displaying key figures for Swiss municipalities.<br><br>
-Everything iss working as expected here. That is, when hovering over a tile one can obtain a couple of statistics for the respective municipality. Colors indicate that urban character a municipality has; white lines the borders between Swiss larger regions. Nothing more, nothing less.
+Everything is working as expected here. That is, when hovering over a tile one can obtain a couple of statistics for the respective municipality. Colors indicate that urban character a municipality has, white lines the borders between Swiss major regions. Nothing more, nothing less.
 
 <div class="flourish-embed flourish-map" data-src="visualisation/10105282"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
@@ -52,13 +35,12 @@ Everything iss working as expected here. That is, when hovering over a tile one 
 This is a more complex choropleth map than the previous one. First, what is quite evident is the capacity to adjust map colours. That is, one can choose to colour the map either by minimum or maximum premiums. This is achieved by including two columns that contain the values for colouring the map. Additionally, the pop-up window or tooltip displays detailed information regarding minimum and maximum premiums as well as the maximum potential savings – per month and year.<br><br>
 For the most part, the map operates as expected, displaying all information accurately and adjusting the colours appropriately for low/high values. However, there are two points that are somewhat troublesome. First, when using the search field, it lists all values for the column in use. That is, when searching for a specific municipality, you will always see two names instead of just one, as it does not list unique values. Secondly, the search field persistently sits at the very top layer. This causes the visualisation to look a bit messy when the tooltip is overlaid by the search field.
 
-
-
 <div class="flourish-embed flourish-map" data-src="visualisation/13562828"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
 
 ### **Line chart**
 ...displaying election results for German Bundestag.<br><br>
+This simple visualisatin performs as intended. Nice!
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/13203520"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
