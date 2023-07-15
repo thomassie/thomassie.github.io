@@ -35,13 +35,11 @@ Everything is working as expected here. That is, when hovering over a tile one c
 
 ...displaying most expensive and most modest-priced health insurances premiums in 2023 for adults with a deductibel of CHF 300.
 
-<div class="flourish-embed flourish-map" data-src="visualisation/10105282"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-<br>
+<div class="flourish-embed flourish-map" data-src="visualisation/13562828"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 This is a more complex choropleth map than the previous one. First, what is quite evident is the capacity to adjust map colours. That is, one can choose to colour the map either by minimum or maximum premiums. This is achieved by including two columns that contain the values for colouring the map. Additionally, the rather comprehensive pop-up window or tooltip displays detailed information regarding minimum and maximum premiums as well as the maximum potential savings – per month and year.<br><br>
 For the most part, the map operates as expected, displaying all information accurately and adjusting the colours appropriately for low/high values. However, there are two points that are somewhat troublesome. First, when using the search field, it lists all values for the column in use. That is, when searching for a specific municipality, you will always see two names instead of just one, as it does not list unique values. Secondly, the search field persistently sits at the very top layer. This causes the visualisation to look a bit messy when the tooltip is overlaid by the search field.
 
-<div class="flourish-embed flourish-map" data-src="visualisation/13562828"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
 
 ### **Line chart**
