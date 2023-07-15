@@ -26,17 +26,17 @@ In the following section, I will display a few visualisations and also mention s
 
 ### **Choropleth map**
 
-<div class="flourish-embed flourish-map" data-src="visualisation/10105282"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-<br>
+...displaying key figures for Swiss municipalities.<br><
 
-...displaying key figures for Swiss municipalities.<br><br>
+<div class="flourish-embed flourish-map" data-src="visualisation/10105282"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 Everything is working as expected here. That is, when hovering over a tile one can obtain a couple of statistics for the respective municipality. Colors indicate that urban character a municipality has, white lines the borders between Swiss major regions. Nothing more, nothing less.
-<br>
+<br><br>
+
+...displaying most expensive and most modest-priced health insurances premiums in 2023 for adults with a deductibel of CHF 300.<br>
 
 <div class="flourish-embed flourish-map" data-src="visualisation/10105282"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-<br>
 
-...displaying most expensive and most modest-priced health insurances premiums in 2023 for adults with a deductibel of CHF 300.<br><br>
 This is a more complex choropleth map than the previous one. First, what is quite evident is the capacity to adjust map colours. That is, one can choose to colour the map either by minimum or maximum premiums. This is achieved by including two columns that contain the values for colouring the map. Additionally, the rather comprehensive pop-up window or tooltip displays detailed information regarding minimum and maximum premiums as well as the maximum potential savings – per month and year.<br><br>
 For the most part, the map operates as expected, displaying all information accurately and adjusting the colours appropriately for low/high values. However, there are two points that are somewhat troublesome. First, when using the search field, it lists all values for the column in use. That is, when searching for a specific municipality, you will always see two names instead of just one, as it does not list unique values. Secondly, the search field persistently sits at the very top layer. This causes the visualisation to look a bit messy when the tooltip is overlaid by the search field.
 
@@ -44,11 +44,15 @@ For the most part, the map operates as expected, displaying all information accu
 <br>
 
 ### **Line chart**
-...displaying election results for German Bundestag.<br><br>
-This simple visualisatin performs as intended. Nice!
+
+...displaying election results for German Bundestag.<br>
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/13203520"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
+
+This simple visualisatin performs as intended. Nice!
+
+
 
 ### **Bar chart**
 ...displaying vine production in the German federal state of Baden-Württemberg.<br><br>
