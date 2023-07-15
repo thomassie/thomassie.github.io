@@ -19,14 +19,19 @@ In addition to standard interactivity features, Flourish also provides more adva
 The platform offers a free plan encompassing basic features, as well as paid plans for users requiring more advanced functionality, for instance, custom templates.
 
 In the following section, I will display a few visualisations and also mention some of the challenges one might encounter when using Flourish.
-<br>
+<br><br>
 
 ## Examples
 <br>
 
 ### **Choropleth map**
+
+<div class="flourish-embed flourish-map" data-src="visualisation/10105282"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<br>
+
 ...displaying key figures for Swiss municipalities.<br><br>
 Everything is working as expected here. That is, when hovering over a tile one can obtain a couple of statistics for the respective municipality. Colors indicate that urban character a municipality has, white lines the borders between Swiss major regions. Nothing more, nothing less.
+<br>
 
 <div class="flourish-embed flourish-map" data-src="visualisation/10105282"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
