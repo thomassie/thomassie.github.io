@@ -22,7 +22,7 @@ In the following section, I will display a few visualisations and also mention s
 <br><br>
 
 ## Examples
-<br>
+<br><br>
 
 ### **Choropleth map**
 
@@ -47,36 +47,51 @@ For the most part, the map operates as expected, displaying all information accu
 ...displaying election results for German Bundestag.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/13203520"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-<br>
 
 This simple visualisatin performs as intended. Nice!
 
-
+<br>
 
 ### **Bar chart**
-...displaying vine production in the German federal state of Baden-Württemberg.<br><br>
-Here, the intention was to showcase the ability to include and position a picture in the background of the plot. This works smoothly as one would expect. However, when looking carefully at the tooltip one can see that the rounded edges are applied only to the header rectangle. This makes this pop-up window and the entire figure look a bit unprofessional.
+
+...displaying vine production in the German federal state of Baden-Württemberg.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/13662494"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Here, the intention was to showcase the ability to include and position a picture in the background of the plot. This works smoothly as one would expect. However, when looking carefully at the tooltip one can see that the rounded edges are applied only to the header rectangle. This makes this pop-up window and the entire figure look a bit unprofessional.
+
 <br>
 
 ### **Column chart**
-...displaying election results for German Bundestag. <br><br>
-Also a minor, but nontheless annoying bug ist the label of the first column (2021, SPD, 25.7%): one cannot read the label. A workaround would be to set the maximum value of the y-axis to, let's say, 30%. However, this affects the scale also for all other election years. No idea why Flourish is not able to properly handle labels on top of columns. 
+
+...displaying election results for German Bundestag.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/13200180"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Also a minor, but nontheless annoying bug is seen in the first column (2021, SPD, 25.7%): one cannot read the label. A workaround would be to set the maximum value of the y-axis to, let's say, 30%. However, this affects the scale also for all other election years. No idea why Flourish is not able to properly handle labels on top of columns. 
+
 <br>
 
 ### **Pie chart**
+
 ...displaying election results for German Bundestag.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/13193631"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+The pie chart performs as expected, no surprises here. However, the actual intention was to display charts within pop-up windows. This is enabled by first creating individual time series charts for each of the parties visible, and then including references to these in the dynamic url. It takes a bit of time to load, but basically works well.
+
+This is a different approach compared to, for example, Tableau where within tooltip visualisations are created based on a single chart that get filtered by whatever variables you hover over. From a workflow perspective, Flourish's approach of dealing with within-pop-up charts is way more labour-intensive – and also a bit annoying, frankly speaking.
+
 <br>
 
 ### **Slope chart**
+
 ...displaying differences in election results for German Bundestag.
 
 <div class="flourish-embed flourish-slope" data-src="visualisation/13210020"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+
 <br>
 
 ### **Stacked column chart**

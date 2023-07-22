@@ -11,7 +11,7 @@ published: true
 
 <br>
 ## since 2021: comparis.ch
-Since 2021, I'm working as a data analyst in [Comparis](comparis.ch)' newsroom team. My typical tasks comprise
+Since 2021, I'm working as a data analyst in [Comparis](https://www.comparis.ch)' newsroom team. My typical tasks comprise
 - creating **SQL queries/views/tables** in [BigQuery](https://cloud.google.com/bigquery/docs/introduction?hl=de) via [dbt](https://www.getdbt.com),
 - **loading data** from BigQuery and other sources into [R](https://www.r-project.org) or [Python](https://www.python.org) scripts,
 - performing **explorative data analysis** in R/Python to **identify patterns/stories**,
