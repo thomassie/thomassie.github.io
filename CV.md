@@ -10,15 +10,15 @@ published: true
 {% endraw %}
 
 <br>
-## since 2023: comparis.ch
-Since 2023, I'm working as a data analyst [CH Media](https://chmedia.ch)'s streaming platform [Oneplus](https://www.oneplus.ch/). My typical tasks comprise
+## since 2023: CH Media, oneplus
+Since 2023, I'm working as a data analyst [CH Media](https://chmedia.ch)'s streaming platform [oneplus](https://www.oneplus.ch/). My typical tasks comprise
 - creating and managing datasets in [BigQuery](https://cloud.google.com/bigquery/docs/introduction?hl=de) directly from [GCP](https://cloud.google.com/transform?_gl=1*1tcvwp8*_up*MQ..&gclid=EAIaIQobChMIitn2nqWgjAMVxrxoCR1IMxzCEAAYASAAEgI9hvD_BwE&gclsrc=aw.ds&hl=en),
 - performing various business intelligence taske ssuch a content performance or churn analytics,
 - **loading data** from BigQuery and other sources into [R](https://www.r-project.org) or [Python](https://www.python.org) scripts,
 - performing **explorative data analysis** in R/Python to **identify patterns/stories**,
 - performing **various analysis** in R/Python to **test ideas** and produce stories,
 
-CH Media
+CH Media is Switzerland’s leading media company, active in television, radio, print, and digital media. Its streaming platform, Oneplus, offers a wide range of Swiss and international series, films, and original productions. With a strong focus on local content, CH Media aims to strengthen its position in the competitive streaming market.
 
 
 <br>
