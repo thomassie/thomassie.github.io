@@ -10,8 +10,20 @@ published: true
 {% endraw %}
 
 <br>
-## since 2021: comparis.ch
-Since 2021, I'm working as a data analyst in [Comparis](https://www.comparis.ch)' newsroom team. My typical tasks comprise
+## since 2023: comparis.ch
+Since 2023, I'm working as a data analyst [CH Media](https://chmedia.ch)'s streaming platform [Oneplus](https://www.oneplus.ch/). My typical tasks comprise
+- creating and managing datasets in [BigQuery](https://cloud.google.com/bigquery/docs/introduction?hl=de) directly from [GCP](https://cloud.google.com/transform?_gl=1*1tcvwp8*_up*MQ..&gclid=EAIaIQobChMIitn2nqWgjAMVxrxoCR1IMxzCEAAYASAAEgI9hvD_BwE&gclsrc=aw.ds&hl=en),
+- performing various business intelligence taske ssuch a content performance or churn analytics,
+- **loading data** from BigQuery and other sources into [R](https://www.r-project.org) or [Python](https://www.python.org) scripts,
+- performing **explorative data analysis** in R/Python to **identify patterns/stories**,
+- performing **various analysis** in R/Python to **test ideas** and produce stories,
+
+CH Media
+
+
+<br>
+## 2021 – 2023: comparis.ch
+In 2021 I started working as a data analyst in [Comparis](https://www.comparis.ch)' newsroom team. My typical tasks comprise
 - creating **SQL queries/views/tables** in [BigQuery](https://cloud.google.com/bigquery/docs/introduction?hl=de) via [dbt](https://www.getdbt.com),
 - **loading data** from BigQuery and other sources into [R](https://www.r-project.org) or [Python](https://www.python.org) scripts,
 - performing **explorative data analysis** in R/Python to **identify patterns/stories**,
