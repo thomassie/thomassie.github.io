@@ -80,7 +80,7 @@ Also a minor, but nontheless annoying bug is seen in the first column (2021, SPD
 
 The pie chart performs as expected, no surprises here. However, the actual intention was to display charts within pop-up windows. This is enabled by first creating individual time series charts for each of the parties visible, and then including references to these in the dynamic url. It takes a bit of time to load, but basically works well.
 
-This is a different approach compared to, for example, Tableau where within tooltip visualisations are created based on a single chart that get filtered by whatever variables you hover over. From a workflow perspective, Flourish's approach of dealing with within-pop-up charts is way more labour-intensive – and also a bit annoying, frankly speaking.
+This is a different approach compared to, for example, Tableau where within tooltip visualisations are created based on a single chart that gets filtered by whatever variables you hover over. From a workflow perspective, Flourish's approach of dealing with within-pop-up charts is way more labour-intensive – and also a bit annoying, frankly speaking.
 
 <br>
 
