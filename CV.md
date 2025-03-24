@@ -15,8 +15,10 @@ Since 2023, I'm working as a data analyst [CH Media](https://chmedia.ch)'s strea
 - creating and managing datasets in [BigQuery](https://cloud.google.com/bigquery/docs/introduction?hl=de) directly from [GCP](https://cloud.google.com/transform?_gl=1*1tcvwp8*_up*MQ..&gclid=EAIaIQobChMIitn2nqWgjAMVxrxoCR1IMxzCEAAYASAAEgI9hvD_BwE&gclsrc=aw.ds&hl=en),
 - performing various business intelligence taske ssuch a content performance or churn analytics,
 - **loading data** from BigQuery and other sources into [R](https://www.r-project.org) or [Python](https://www.python.org) scripts,
-- performing **explorative data analysis** in R/Python to **identify patterns/stories**,
-- performing **various analysis** in R/Python to **test ideas** and produce stories,
+- performing **explorative data analysis** in R to **identify patterns/stories**,
+- performing **various analysis** in R to **test ideas** and geenrate insights,
+- creating **interactive reports** ([Quarto](https://quarto.org) or [RMarkdown](https://rmarkdown.rstudio.com)) providing ,
+- creating sophisticated and appealing **dashboards** with **Tableau** and Looker Studio as a **self-service** business intelligence tools for a diverse group of stakeholders
 
 CH Media is Switzerland’s leading media company, active in television, radio, print, and digital media. Its streaming platform, Oneplus, offers a wide range of Swiss and international series, films, and original productions. With a strong focus on local content, CH Media aims to strengthen its position in the competitive streaming market.
 
@@ -49,6 +51,8 @@ In 2020 I decided to dig deeper into the topics of **[full-stack development](ht
 - **designing sophisticated dashboards** (Tableau, [PowerBI](https://powerbi.microsoft.com/de-ch/)) and other types of **data visualizations** that allow for an instant overview of the information available (R).
 - working for **various lines of services** (strategy, financial services, corporate finance, valuations, real estate…) and **businesses/industries** (banking, retail, pharmaceuticals, healthcare…), and
 - **educating business people** in data analytics software (Tableau, Alteryx, [PowerQuery](https://powerquery.microsoft.com/en-us/), [PowerPivot](https://support.microsoft.com/de-de/office/erste-schritte-mit-power-pivot-in-microsoft-excel-fdfcf944-7876-424a-8437-1a6c1043a80b)) and competencies (visualization techniques, storytelling, data wrangling…).
+
+PricewaterhouseCoopers (PwC) Switzerland is the leading professional services firm among the Big Four, offering audit, tax, legal, and consulting services. Its expertise also extends to areas such as mergers and acquisitions, as well as corporate finance. With a strong local presence and access to PwC’s global network, it delivers tailored solutions that create long-term value for clients across industries.
 <!--My tasks comprise (a) **designing visualisations** to communicate internal and client data efficiently and effectively - mostly in form of interactive dashboards using [Tableau](https://www.tableau.com/), (b) **educating** the Deals team in various data analytics softwares and competencies, and (c) helping them with their **daily project work**.-->
 
 <br>
