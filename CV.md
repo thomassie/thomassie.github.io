@@ -18,7 +18,8 @@ Since 2023, I'm working as a data analyst [CH Media](https://chmedia.ch)'s strea
 - performing **explorative data analysis** in R to **identify patterns/stories**,
 - performing **various analysis** in R to **test ideas** and geenrate insights,
 - creating **interactive reports** ([Quarto](https://quarto.org) or [RMarkdown](https://rmarkdown.rstudio.com)) providing ,
-- creating sophisticated and appealing **dashboards** with **Tableau** and Looker Studio as a **self-service** business intelligence tools for a diverse group of stakeholders
+- creating sophisticated, intuitive and appealing **dashboards** with **Tableau** and Looker Studio as a **self-service** business intelligence tools for a diverse group of stakeholders
+- comprehensive **stakeholder management** at the interface between data and business (content management, content creation, marketing, customer management, business development...)
 
 CH Media is Switzerland’s leading media company, active in television, radio, print, and digital media. Its streaming platform, Oneplus, offers a wide range of Swiss and international series, films, and original productions. With a strong focus on local content, CH Media aims to strengthen its position in the competitive streaming market.
 
@@ -36,7 +37,7 @@ In 2021 I started working as a data analyst in [Comparis](https://www.comparis.c
 - **visualising** results in [Flourish](https://flourish.studio) for web (interactive),
 - creating **interactive reports** ([Quarto](https://quarto.org) or [RMarkdown](https://rmarkdown.rstudio.com)),
 - creating **automated text blocks** for [press releases](https://www.comparis.ch/comparis/press/medienmitteilungen/archiv), and
-- creating sophisticated and appealing **Tableau dashboards** as a **self-service** to inform subject matter experts.
+- creating sophisticated, intuitive and appealing **Tableau dashboards** as a **self-service** to inform subject matter experts.
 
 comparis.ch is well known in Switzerland (at least 90% of people are aware of this platform and millions make use of it) and, hence, it is interesting and fun to see analysis performed in the newsroom being discussed by media and the public.
 
