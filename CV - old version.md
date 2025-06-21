@@ -25,7 +25,6 @@ CH Media is Switzerland’s leading media company, active in television, radio, 
 
 
 <br>
-![compartis_logo.png]({{site.baseurl}}/img/compartis_logo.png)
 ## 2021 – 2023: comparis.ch
 In 2021 I started working as a data analyst in [Comparis](https://www.comparis.ch)' newsroom team. My typical tasks comprise
 - creating **SQL queries/views/tables** in [BigQuery](https://cloud.google.com/bigquery/docs/introduction?hl=de) via [dbt](https://www.getdbt.com),
