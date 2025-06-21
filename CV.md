@@ -40,6 +40,14 @@ In 2021 I started working as a data analyst in [Comparis](https://www.comparis.c
 - creating **automated text blocks** for [press releases](https://www.comparis.ch/comparis/press/medienmitteilungen/archiv), and
 - creating sophisticated, intuitive and appealing **Tableau dashboards** as a **self-service** to inform subject matter experts.
 
+- I supported the newsroom’s subject matter experts (finance, real estate, insurance, automotive) with insights, either via self-service tools or as reports with clearly identified patterns and interpretations of these.
+- I introduced novel ways of communicating insights by working with sophisticated dashboards and reproducible, semi-interactive html reports. Both type of products could be easily shared with others.
+- I also convinced the team to make use of coded article templates for recurring stories that than can be quickly adjusted to new data and context. By doing so, the experts saved approximately 60% of their time spent with writing. I also enriched these article templates by including publicly available data to provide context and 
+- Given the diverse topics covered in the newsroom, I successfully managed the expectations and requirements from the respective stakeholders – regardless of the time pressure that is prevalent in news-related teams. 
+- Moreover, I introduced coding standards like making sure data  quality is assured, well-annotated, reproducible code, clear pipelines, version control, and detailed documentation of the purpose and context of an analysis including all steps performed.
+
+The tools and technologies I mainly used comprise SQL, dbt, R, Python, Tableau, Flourish, Quarto/Markdown.
+
 comparis.ch is well known in Switzerland (at least 90% of people are aware of this platform and millions make use of it) and, hence, it is interesting and fun to see analysis performed in the newsroom being discussed by media and the public.
 
 <br>
