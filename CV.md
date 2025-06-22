@@ -25,7 +25,7 @@ CH Media is Switzerland’s leading media company, active in television, radio, 
 
 
 <br>
-<img src="{{site.baseurl}}/img/compartis_logo.png" width="150" alt="compartis_logo.png">
+<img src="{{site.baseurl}}/img/comparis_logo.png" width="150" alt="comparis_logo.png">
 ## 2021 – 2023: comparis.ch
 
 **Key Achievements**:
