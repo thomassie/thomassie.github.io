@@ -137,6 +137,11 @@ For 1.5 years, I was taking a personal sabbatical to (a) spend more **time with 
 * **Keywords**: chemostat experiments · harmful algae blooms · initial conditions · mathematical modelling · non-linear dynamics · paradox of enrichment   
 
 <br>
+
+---
+
+<img src="{{site.baseurl}}/img/jlu_logo.png" width="150" alt="jlu_logo.png">
 ## 2001: Pre-degree (B.Sc.)
+
 * **Biology**  
 * **Location**: [Justus-Liebig-University](https://www.uni-giessen.de/index.html) Gießen (Germany)
