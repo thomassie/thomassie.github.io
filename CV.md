@@ -16,15 +16,14 @@ published: true
 <img src="{{site.baseurl}}/img/ch_media_logo.png" width="150" alt="ch_media_logo.png">
 ## since 2023: CH Media, oneplus
 
-Since 2023, I'm working as a data analyst [CH Media](https://chmedia.ch)'s streaming platform [oneplus](https://www.oneplus.ch/). My typical tasks comprise
-- creating and managing datasets in [BigQuery](https://cloud.google.com/bigquery/docs/introduction?hl=de) directly from [GCP](https://cloud.google.com/transform?_gl=1*1tcvwp8*_up*MQ..&gclid=EAIaIQobChMIitn2nqWgjAMVxrxoCR1IMxzCEAAYASAAEgI9hvD_BwE&gclsrc=aw.ds&hl=en),
-- performing various business intelligence taske ssuch a content performance or churn analytics,
-- **loading data** from BigQuery and other sources into [R](https://www.r-project.org) or [Python](https://www.python.org) scripts,
-- performing **explorative data analysis** in R to **identify patterns/stories**,
-- performing **various analysis** in R to **test ideas** and geenrate insights,
-- creating **interactive reports** ([Quarto](https://quarto.org) or [RMarkdown](https://rmarkdown.rstudio.com)) providing ,
-- creating sophisticated, intuitive and appealing **dashboards** with **Tableau** and Looker Studio as a **self-service** business intelligence tools for a diverse group of stakeholders
-- comprehensive **stakeholder management** at the interface between data and business (content management, content creation, marketing, customer management, business development...)
+- **Established a centralized data warehouse** in BigQuery (GCP) as single source of truth, and managed ETL pipelines through Airflow DAGs to ensure data consistency across all business units.
+- **Introduced Tableau as primary self-service BI solution**, developing 10+ sophisticated dashboards and 30+ interactive reports (Quarto, html) that enabled detailed performance comparisons and reduced ad-hoc analysis requests by 50%.
+- **Established a comprehensive performance measurement framework**, creating custom scoring systems for content effectiveness and pioneering cohort-based customer analytics for churn and acquisition insights.
+- **Delivered actionable insights** that directly informed editorial strategy and customer retention initiatives.
+- **Fostered cross-functional collaboration** by establishing data partnerships with 5+ business units (Content Management, Marketing, Customer Management, Business Development), breaking down silos and creating shared insights.
+- **Led adoption of new analytics technologies** through hands-on training and support, upskilling stakeholders in Tableau, Looker Studio, and data interpretation.
+
+Technologies: SQL, GCP, Airflow, R, Python, Tableau, Looker Studio, Quarto, Markdown
 
 [CH Media](https://chmedia.ch) is Switzerland’s leading media company, active in television, radio, print, and digital media. Its streaming platform, [oneplus](https://www.oneplus.ch/), offers a wide range of Swiss and international series, movies, and original productions. With a strong focus on local content, CH Media aims to strengthen its position in the competitive streaming market.
 
@@ -84,10 +83,19 @@ In 2020 I decided to dig deeper into the topics of **[full-stack development](ht
 <!--My tasks comprise (a) **designing visualisations** to communicate internal and client data efficiently and effectively - mostly in form of interactive dashboards using [Tableau](https://www.tableau.com/), (b) **educating** the Deals team in various data analytics softwares and competencies, and (c) helping them with their **daily project work**.-->
 
 <br>
+
+---
+
+<img src="{{site.baseurl}}/img/constructor_academy_logo.png" width="150" alt="constructor_academy_logo.png">
 ## 2017: Personal sabbatical
-For 1.5 years, I was taking a personal sabbatical to (a) spend more **time with my family**, (b) **educate myself** in topics I never really found the time before, and (c) figure out **what to do in the future**. I really enjoyed that break.
+
+For 1.5 years, I was taking a personal sabbatical to (a) spend more **time with my family**, (b) **educate myself** in topics I never really found the time before, and (c) figure out **what to do in the future** after leaving academia. I really enjoyed that break.
 
 <br>
+
+---
+
+<img src="{{site.baseurl}}/img/uzh_logo.png" width="120" alt="uzh_logo.png">
 ## 2012 – 2016: Postdoctoral researcher
 
 <!--- In my postdoc project I dealed with the response behaviour of ecological communities to environmental changes. I approached this topic by performing experiments with microbial communities being . --->
