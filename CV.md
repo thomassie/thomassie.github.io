@@ -49,7 +49,7 @@ comparis.ch is well known in Switzerland (at least 90% of people are aware of th
 In 2020 I decided to dig deeper into the topics of **[full-stack development](https://learning.constructor.org/de/full-stack)** (front-end + back-end) and **[data science](https://learning.constructor.org/de/data-science)**. I decided to go with two bootcamps with [Constructor Learning](https://learning.constructor.org/de) (back than called Propulsion Acedemy). Although being tough from a time effort perspective, I enjoyed the time as the instructors are competent and very nice, and the topics covered allowed for a very good overview.
 
 <br>
-<img src="{{site.baseurl}}/img/pwc_logo.png" width="120" alt="pwc_logo.png">
+<img src="{{site.baseurl}}/img/pwc_logo.png" width="100" alt="pwc_logo.png">
 ## 2018 – 2020: PwC (PricewaterhouseCoopers)
 Key achievements:
 
@@ -62,7 +62,7 @@ Key achievements:
 
 Technologies: R, Alteryx, Tableau, PowerQuery, PowerPivot
 
-PricewaterhouseCoopers (PwC) Switzerland is the leading professional services firm among the Big Four, offering audit, tax, legal, and consulting services. Its expertise also extends to areas such as mergers and acquisitions, as well as corporate finance. With a strong local presence and access to PwC’s global network, it delivers tailored solutions that create long-term value for clients across industries.
+[PwC](https://www.pwc.ch/en.html) (PricewaterhouseCoopers) Switzerland is the leading professional services firm among the Big Four, offering audit, tax, legal, and consulting services. Its expertise also extends to areas such as mergers and acquisitions, as well as corporate finance. With a strong local presence and access to PwC’s global network, it delivers tailored solutions that create long-term value for clients across industries.
 <!--My tasks comprise (a) **designing visualisations** to communicate internal and client data efficiently and effectively - mostly in form of interactive dashboards using [Tableau](https://www.tableau.com/), (b) **educating** the Deals team in various data analytics softwares and competencies, and (c) helping them with their **daily project work**.-->
 
 <br>
