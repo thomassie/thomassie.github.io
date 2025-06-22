@@ -10,6 +10,9 @@ published: true
 {% endraw %}
 
 <br>
+
+---
+
 <img src="{{site.baseurl}}/img/ch_media_logo.png" width="150" alt="ch_media_logo.png">
 ## since 2023: CH Media, oneplus
 
@@ -27,6 +30,9 @@ Since 2023, I'm working as a data analyst [CH Media](https://chmedia.ch)'s strea
 
 
 <br>
+
+---
+
 <img src="{{site.baseurl}}/img/comparis_logo.png" width="150" alt="comparis_logo.png">
 ## 2021 – 2023: comparis.ch
 
@@ -45,22 +51,34 @@ Since 2023, I'm working as a data analyst [CH Media](https://chmedia.ch)'s strea
 comparis.ch is well known in Switzerland (at least 90% of people are aware of this platform and millions make use of it) and, hence, it is interesting and fun to see analysis performed in the newsroom being discussed by media and the public.
 
 <br>
-## 2020 – 2021: Further education
+
+---
+
+<img src="{{site.baseurl}}/img/constructor_academy_logo.png" width="150" alt="constructor_academy_logo.png">
+## 2020 – 2021: Constructor Academy (further education)
+
 In 2020 I decided to dig deeper into the topics of **[full-stack development](https://learning.constructor.org/de/full-stack)** (front-end + back-end) and **[data science](https://learning.constructor.org/de/data-science)**. I decided to go with two bootcamps with [Constructor Learning](https://learning.constructor.org/de) (back than called Propulsion Acedemy). Although being tough from a time effort perspective, I enjoyed the time as the instructors are competent and very nice, and the topics covered allowed for a very good overview.
 
+**Technologies**: 
+
+
 <br>
-<img src="{{site.baseurl}}/img/pwc_logo.png" width="100" alt="pwc_logo.png">
+
+---
+
+<img src="{{site.baseurl}}/img/pwc_logo.png" width="80" alt="pwc_logo.png">
 ## 2018 – 2020: PwC (PricewaterhouseCoopers)
-Key achievements:
+
+**Key achievements**:
 
 * **Thrived in high-stakes [Deals environment](https://www.pwc.ch/en/services/deals.html)** with compressed timelines and rapid turnaround requirements, consistently delivering accurate analysis for M&A advisory and decision-making.
 * **Delivered 20+ data analytics projects for M&A deals** across banking, retail, pharmaceutical, and healthcare sectors, supporting due diligence and valuation decisions.
 * **Built interactive Tableau dashboards for C-level executives**, transforming complex financial data into actionable insights for deal negotiations.
 * **Automated data collection and cleansing processes using R and Alteryx**, reducing analysis turnaround time from days to hours for time-sensitive transactions.
 * **Provided analytics support across 5 service lines** (Strategy, Financial Services, Corporate Finance, Valuations, Real Estate), managing diverse stakeholder requirements and expectations.
-* **Trained 40+ business professionals** in both technical tools (Tableau, Alteryx, PowerQuery) and analytical concepts (visualization best practices, data storytelling, data wrangling) through workshops and 1-on-1 coaching.
+* **Trained 40+ business professionals** in both technical tools (Tableau, Alteryx, PowerQuery, PowerPivot) and analytical concepts (visualization best practices, data storytelling, data wrangling) through workshops and 1-on-1 coaching.
 
-Technologies: R, Alteryx, Tableau, PowerQuery, PowerPivot
+**Technologies**: R, Alteryx, Tableau, PowerBI, PowerQuery, PowerPivot
 
 [PwC](https://www.pwc.ch/en.html) (PricewaterhouseCoopers) Switzerland is the leading professional services firm among the Big Four, offering audit, tax, legal, and consulting services. Its expertise also extends to areas such as mergers and acquisitions, as well as corporate finance. With a strong local presence and access to PwC’s global network, it delivers tailored solutions that create long-term value for clients across industries.
 <!--My tasks comprise (a) **designing visualisations** to communicate internal and client data efficiently and effectively - mostly in form of interactive dashboards using [Tableau](https://www.tableau.com/), (b) **educating** the Deals team in various data analytics softwares and competencies, and (c) helping them with their **daily project work**.-->
