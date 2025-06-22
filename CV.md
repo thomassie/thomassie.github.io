@@ -114,7 +114,7 @@ For 1.5 years, I was taking a personal sabbatical to (a) spend more **time with 
 
 <!--- Phytoplankton consists of microorganisms mostly belonging to the realm of plants. --->
 
-* **Ecology** (summa cum laude)
+* **Ecology** (summa cum laude, with highest honours)
 * **Location**: [University of Potsdam](http://www.uni-potsdam.de/) (Germany)
 * **Project title**: _Dynamic behaviour of phytoplankton populations far from steady-state – chemostat experiments and mathematical modelling._
 * **Supervisors**: [Prof. Ursula Gaedke](https://www.uni-potsdam.de/ibb-ecology/mitarbeiterinnen/prof-dr-ursula-gaedke.html) and [Prof. Bernd Blasius](https://www.icbm.de/mathematische-modellierung/)
