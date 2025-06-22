@@ -16,6 +16,8 @@ published: true
 <img src="{{site.baseurl}}/img/ch_media_logo.png" width="150" alt="ch_media_logo.png">
 ## since 2023: CH Media, oneplus
 
+**Key achievements**:
+
 - **Established a centralized data warehouse** in BigQuery (GCP) as single source of truth, and managed ETL pipelines through Airflow DAGs to ensure data consistency across all business units.
 - **Introduced Tableau as primary self-service BI solution**, developing 10+ sophisticated dashboards and 30+ interactive reports (Quarto, html) that enabled detailed performance comparisons and reduced ad-hoc analysis requests by 50%.
 - **Established a comprehensive performance measurement framework**, creating custom scoring systems for content effectiveness and pioneering cohort-based customer analytics for churn and acquisition insights.
@@ -26,7 +28,6 @@ published: true
 Technologies: SQL, GCP, Airflow, R, Python, Tableau, Looker Studio, Quarto, Markdown
 
 [CH Media](https://chmedia.ch) is Switzerland’s leading media company, active in television, radio, print, and digital media. Its streaming platform, [oneplus](https://www.oneplus.ch/), offers a wide range of Swiss and international series, movies, and original productions. With a strong focus on local content, CH Media aims to strengthen its position in the competitive streaming market.
-
 
 <br>
 
@@ -59,7 +60,6 @@ Technologies: SQL, GCP, Airflow, R, Python, Tableau, Looker Studio, Quarto, Mark
 In 2020 I decided to dig deeper into the topics of **[full-stack development](https://learning.constructor.org/de/full-stack)** (front-end + back-end) and **[data science](https://learning.constructor.org/de/data-science)**. I decided to go with two bootcamps with [Constructor Learning](https://learning.constructor.org/de) (back than called Propulsion Acedemy). Although being tough from a time effort perspective, I enjoyed the time as the instructors are competent and very nice, and the topics covered allowed for a very good overview.
 
 **Technologies**: 
-
 
 <br>
 
@@ -106,6 +106,9 @@ For 1.5 years, I was taking a personal sabbatical to (a) spend more **time with 
 * **Keywords**: bacteria · ciliates · community dynamics · functional responses · mathematical modelling · microcosm experiments · non-linear dynamics · paradox of enrichment · response to environmental changes · statistical modelling  
 
 <br>
+
+---
+
 ## 2006 – 2012: Doctoral thesis (PhD)
 
 <!--- Phytoplankton consists of microorganisms mostly belonging to the realm of plants. --->
@@ -118,6 +121,9 @@ For 1.5 years, I was taking a personal sabbatical to (a) spend more **time with 
 * **Thesis**: [download](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/5618/file/massie_diss.pdf)  
 
 <br>
+
+---
+
 ## 2005: Diploma thesis (M.Sc.)
 
 <!--- I received my diploma in Biology in 2005 by successfully graduating in the subjects Ecology & Nature conservation, Limnology, Microbiology, and Botany. In my diploma thesis I dealed with the occurence of harmful algae blooms (HABs), i.e., mass occurrences of specific (phyto-)plankton species that can cause harm to people and other species sharing the same environment. HABs occur almost everywhere on earth, in marine and fresh water environments. --->
