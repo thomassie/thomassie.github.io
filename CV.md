@@ -10,7 +10,9 @@ published: true
 {% endraw %}
 
 <br>
+<img src="{{site.baseurl}}/img/ch_media_logo.png" width="150" alt="ch_media_logo.png">
 ## since 2023: CH Media, oneplus
+
 Since 2023, I'm working as a data analyst [CH Media](https://chmedia.ch)'s streaming platform [oneplus](https://www.oneplus.ch/). My typical tasks comprise
 - creating and managing datasets in [BigQuery](https://cloud.google.com/bigquery/docs/introduction?hl=de) directly from [GCP](https://cloud.google.com/transform?_gl=1*1tcvwp8*_up*MQ..&gclid=EAIaIQobChMIitn2nqWgjAMVxrxoCR1IMxzCEAAYASAAEgI9hvD_BwE&gclsrc=aw.ds&hl=en),
 - performing various business intelligence taske ssuch a content performance or churn analytics,
@@ -25,7 +27,7 @@ CH Media is Switzerland’s leading media company, active in television, radio, 
 
 
 <br>
-<img src="{{site.baseurl}}/img/comparis_logo.png" width="50" alt="comparis_logo.png">
+<img src="{{site.baseurl}}/img/comparis_logo.png" width="150" alt="comparis_logo.png">
 ## 2021 – 2023: comparis.ch
 
 **Key Achievements**:
@@ -47,12 +49,18 @@ comparis.ch is well known in Switzerland (at least 90% of people are aware of th
 In 2020 I decided to dig deeper into the topics of **[full-stack development](https://learning.constructor.org/de/full-stack)** (front-end + back-end) and **[data science](https://learning.constructor.org/de/data-science)**. I decided to go with two bootcamps with [Constructor Learning](https://learning.constructor.org/de) (back than called Propulsion Acedemy). Although being tough from a time effort perspective, I enjoyed the time as the instructors are competent and very nice, and the topics covered allowed for a very good overview.
 
 <br>
-## 2018 – 2020: P*w*C
-**Data analyst** with [P*w*C](https://www.pwc.ch/en.html) in their Zurich office in Oerlikon. I was part of a small data analytics team exclusively assigned to [Deals](https://www.pwc.ch/en/services/deals.html), i.e. mergers and acquisitions. Typical tasks comprised
-- **collecting, wrangling and analyzing** client and internal data ([Alteryx](https://www.alteryx.com/de), R),
-- **designing sophisticated dashboards** (Tableau, [PowerBI](https://powerbi.microsoft.com/de-ch/)) and other types of **data visualizations** that allow for an instant overview of the information available (R).
-- working for **various lines of services** (strategy, financial services, corporate finance, valuations, real estate…) and **businesses/industries** (banking, retail, pharmaceuticals, healthcare…), and
-- **educating business people** in data analytics software (Tableau, Alteryx, [PowerQuery](https://powerquery.microsoft.com/en-us/), [PowerPivot](https://support.microsoft.com/de-de/office/erste-schritte-mit-power-pivot-in-microsoft-excel-fdfcf944-7876-424a-8437-1a6c1043a80b)) and competencies (visualization techniques, storytelling, data wrangling…).
+<img src="{{site.baseurl}}/img/pwc_logo.png" width="150" alt="pwc_logo.png">
+## 2018 – 2020: PwC (PricewaterhouseCoopers)
+Key achievements:
+
+* **Thrived in high-stakes Deals environment** with compressed timelines and rapid turnaround requirements, consistently delivering accurate analysis for M&A advisory and decision-making.
+* **Delivered 20+ data analytics projects for M&A deals** across banking, retail, pharmaceutical, and healthcare sectors, supporting due diligence and valuation decisions.
+* **Built interactive Tableau dashboards for C-level executives**, transforming complex financial data into actionable insights for deal negotiations.
+* **Automated data collection and cleansing processes using R and Alteryx**, reducing analysis turnaround time from days to hours for time-sensitive transactions.
+* **Provided analytics support across 5 service lines** (Strategy, Financial Services, Corporate Finance, Valuations, Real Estate), managing diverse stakeholder requirements and expectations.
+* **Trained 40+ business professionals** in both technical tools (Tableau, Alteryx, PowerQuery) and analytical concepts (visualization best practices, data storytelling, data wrangling) through workshops and 1-on-1 coaching.
+
+Technologies: R, Alteryx, Tableau, PowerQuery, PowerPivot
 
 PricewaterhouseCoopers (PwC) Switzerland is the leading professional services firm among the Big Four, offering audit, tax, legal, and consulting services. Its expertise also extends to areas such as mergers and acquisitions, as well as corporate finance. With a strong local presence and access to PwC’s global network, it delivers tailored solutions that create long-term value for clients across industries.
 <!--My tasks comprise (a) **designing visualisations** to communicate internal and client data efficiently and effectively - mostly in form of interactive dashboards using [Tableau](https://www.tableau.com/), (b) **educating** the Deals team in various data analytics softwares and competencies, and (c) helping them with their **daily project work**.-->
