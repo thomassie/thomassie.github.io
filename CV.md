@@ -23,7 +23,7 @@ Since 2023, I'm working as a data analyst [CH Media](https://chmedia.ch)'s strea
 - creating sophisticated, intuitive and appealing **dashboards** with **Tableau** and Looker Studio as a **self-service** business intelligence tools for a diverse group of stakeholders
 - comprehensive **stakeholder management** at the interface between data and business (content management, content creation, marketing, customer management, business development...)
 
-CH Media is Switzerland’s leading media company, active in television, radio, print, and digital media. Its streaming platform, Oneplus, offers a wide range of Swiss and international series, films, and original productions. With a strong focus on local content, CH Media aims to strengthen its position in the competitive streaming market.
+[CH Media](https://chmedia.ch) is Switzerland’s leading media company, active in television, radio, print, and digital media. Its streaming platform, [oneplus](https://www.oneplus.ch/), offers a wide range of Swiss and international series, movies, and original productions. With a strong focus on local content, CH Media aims to strengthen its position in the competitive streaming market.
 
 
 <br>
@@ -49,11 +49,11 @@ comparis.ch is well known in Switzerland (at least 90% of people are aware of th
 In 2020 I decided to dig deeper into the topics of **[full-stack development](https://learning.constructor.org/de/full-stack)** (front-end + back-end) and **[data science](https://learning.constructor.org/de/data-science)**. I decided to go with two bootcamps with [Constructor Learning](https://learning.constructor.org/de) (back than called Propulsion Acedemy). Although being tough from a time effort perspective, I enjoyed the time as the instructors are competent and very nice, and the topics covered allowed for a very good overview.
 
 <br>
-<img src="{{site.baseurl}}/img/pwc_logo.png" width="150" alt="pwc_logo.png">
+<img src="{{site.baseurl}}/img/pwc_logo.png" width="120" alt="pwc_logo.png">
 ## 2018 – 2020: PwC (PricewaterhouseCoopers)
 Key achievements:
 
-* **Thrived in high-stakes Deals environment** with compressed timelines and rapid turnaround requirements, consistently delivering accurate analysis for M&A advisory and decision-making.
+* **Thrived in high-stakes [Deals environment](https://www.pwc.ch/en/services/deals.html)** with compressed timelines and rapid turnaround requirements, consistently delivering accurate analysis for M&A advisory and decision-making.
 * **Delivered 20+ data analytics projects for M&A deals** across banking, retail, pharmaceutical, and healthcare sectors, supporting due diligence and valuation decisions.
 * **Built interactive Tableau dashboards for C-level executives**, transforming complex financial data into actionable insights for deal negotiations.
 * **Automated data collection and cleansing processes using R and Alteryx**, reducing analysis turnaround time from days to hours for time-sensitive transactions.
