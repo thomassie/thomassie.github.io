@@ -25,7 +25,7 @@ published: true
 - **Fostered cross-functional collaboration** by establishing data partnerships with 5+ business units (Content Management, Marketing, Customer Management, Business Development), breaking down silos and creating shared insights.
 - **Led adoption of new analytics technologies** through hands-on training and support, upskilling stakeholders in Tableau, Looker Studio, and data interpretation.
 
-Technologies: SQL, GCP, Airflow, R, Python, Tableau, Looker Studio, Quarto, Markdown
+**Technologies**: SQL, GCP, Airflow, R, Python, Tableau, Looker Studio, Quarto, Markdown
 
 [CH Media](https://chmedia.ch) is Switzerland’s leading media company, active in television, radio, print, and digital media. Its streaming platform, [oneplus](https://www.oneplus.ch/), offers a wide range of Swiss and international series, movies, and original productions. With a strong focus on local content, CH Media aims to strengthen its position in the competitive streaming market.
 
@@ -65,7 +65,7 @@ In 2020 I decided to dig deeper into the topics of **[full-stack development](ht
 
 ---
 
-<img src="{{site.baseurl}}/img/pwc_logo.png" width="80" alt="pwc_logo.png">
+<img src="{{site.baseurl}}/img/pwc_logo.png" width="70" alt="pwc_logo.png">
 ## 2018 – 2020: PwC (PricewaterhouseCoopers)
 
 **Key achievements**:
@@ -109,6 +109,7 @@ For 1.5 years, I was taking a personal sabbatical to (a) spend more **time with 
 
 ---
 
+<img src="{{site.baseurl}}/img/uni_potsdam_logo.png" width="120" alt="uni_potsdam_logo.png">
 ## 2006 – 2012: Doctoral thesis (PhD)
 
 <!--- Phytoplankton consists of microorganisms mostly belonging to the realm of plants. --->
@@ -124,6 +125,7 @@ For 1.5 years, I was taking a personal sabbatical to (a) spend more **time with 
 
 ---
 
+<img src="{{site.baseurl}}/img/uni_potsdam_logo.png" width="120" alt="uni_potsdam_logo.png">
 ## 2005: Diploma thesis (M.Sc.)
 
 <!--- I received my diploma in Biology in 2005 by successfully graduating in the subjects Ecology & Nature conservation, Limnology, Microbiology, and Botany. In my diploma thesis I dealed with the occurence of harmful algae blooms (HABs), i.e., mass occurrences of specific (phyto-)plankton species that can cause harm to people and other species sharing the same environment. HABs occur almost everywhere on earth, in marine and fresh water environments. --->
