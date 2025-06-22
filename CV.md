@@ -25,18 +25,20 @@ CH Media is Switzerland’s leading media company, active in television, radio, 
 
 
 <br>
-![compartis_logo.png]({{site.baseurl}}/img/compartis_logo.png)
+<img src="{{site.baseurl}}/img/compartis_logo.png" width="150" alt="compartis_logo.png">
 ## 2021 – 2023: comparis.ch
 
-Key Achievements:
-- Reduced article production time by 60% through implementation of coded templates (R/Quarto) for recurring data-driven stories.
-- Developed self-service analytics tools and automated dashboards (Tableau, R) enabling 4+ domain experts to access real-time insights independently.
-- Created 15+ interactive HTML reports replacing static Excel sheets,  improving stakeholder engagement by ~50%.
-- Established a data governance framework including quality assurance protocols, version control (Git), and documentation standards adopted team-wide.
-- Successfully managed competing priorities across expert domains (finance, real estate, insurance, and automotive) under tight news deadlines.
-- Led upskilling initiatives to help team members become more data and technology savvy. 
-- Enhanced team integration by onboarding and mentoring new data journalists and analysts, providing hands-on training in data pipelines, analytics tools, and newsroom-specific workflows.
-Technologies: SQL, dbt, R, Python, Tableau, Flourish, Quarto/Markdown
+**Key Achievements**:
+
+- **Reduced article production time by 60%** through implementation of coded templates (R/Quarto) for recurring data-driven stories.
+- **Developed self-service analytics tools** and automated dashboards (Tableau, R) enabling 4+ domain experts to access real-time insights independently.
+- **Created 15+ interactive HTML reports** replacing static Excel sheets,  improving stakeholder engagement by ~50%.
+- **Established a data governance framework** including quality assurance protocols, version control (Git), and documentation standards adopted team-wide.
+- **Successfully managed competing priorities** across expert domains (finance, real estate, insurance, and automotive) under tight news deadlines.
+- **Led upskilling initiatives** to help team members become more data and technology savvy. 
+- **Enhanced team integration** by onboarding and mentoring new data journalists and analysts, providing hands-on training in data pipelines, analytics tools, and newsroom-specific workflows.
+
+**Technologies**: SQL, dbt, R, Python, Tableau, Flourish, Quarto/Markdown
 
 comparis.ch is well known in Switzerland (at least 90% of people are aware of this platform and millions make use of it) and, hence, it is interesting and fun to see analysis performed in the newsroom being discussed by media and the public.
 
