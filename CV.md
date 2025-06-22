@@ -9,7 +9,7 @@ published: true
 <button class="button" onclick="window.open('/CV_Thomas_Massie.pdf')">Download CV</button>
 {% endraw %}
 
-<br>
+<br><br>
 
 ---
 
@@ -48,7 +48,7 @@ Since 2023, I'm working as a data analyst [CH Media](https://chmedia.ch)'s strea
 
 **Technologies**: SQL, dbt, R, Python, Tableau, Flourish, Quarto/Markdown
 
-comparis.ch is well known in Switzerland (at least 90% of people are aware of this platform and millions make use of it) and, hence, it is interesting and fun to see analysis performed in the newsroom being discussed by media and the public.
+[comparis.ch](https://en.comparis.ch) is well known in Switzerland (at least 90% of people are aware of this platform and millions make use of it) and, hence, it is interesting and fun to see analysis performed in the newsroom being discussed by media (NZZ, Tagesanzeiger, Zeit Online, Watson...) and the public.
 
 <br>
 
