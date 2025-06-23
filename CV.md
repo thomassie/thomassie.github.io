@@ -16,6 +16,8 @@ published: true
 <img src="{{site.baseurl}}/img/ch_media_logo.png" width="150" alt="ch_media_logo.png">
 ## since 2023: CH Media, oneplus
 
+As Senior Data Analyst for the streaming service oneplus, I drive data-driven decision making by building analytics infrastructure to optimize content performance, understand viewer behavior, and reduce churn while supporting CH Media's broader digital transformation.
+
 **Key achievements**:
 
 - **Designed and established a centralized data warehouse** in BigQuery (GCP) as organization's single source of truth, co-managing ETL pipelines (Airflow DAGs) with data engineering to ensure data consistency across all business units.
@@ -65,7 +67,7 @@ In 2020 I decided to dig deeper into the topics of **[full-stack development](ht
 
 ---
 
-<img src="{{site.baseurl}}/img/pwc_logo.png" width="70" alt="pwc_logo.png">
+<img src="{{site.baseurl}}/img/pwc_logo_new.png" width="70" alt="pwc_logo_new.png">
 ## 2018 – 2020: PwC (PricewaterhouseCoopers)
 
 **Key achievements**:
