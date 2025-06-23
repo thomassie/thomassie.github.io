@@ -18,11 +18,11 @@ published: true
 
 **Key achievements**:
 
-- **Established a centralized data warehouse** in BigQuery (GCP) as single source of truth, and managed ETL pipelines through Airflow DAGs to ensure data consistency across all business units.
-- **Introduced Tableau as primary self-service BI solution**, developing 10+ sophisticated dashboards and 30+ interactive reports (Quarto, html) that enabled detailed performance comparisons and reduced ad-hoc analysis requests by 50%.
+- **Designed and established a centralized data warehouse** in BigQuery (GCP) as organization's single source of truth, co-managing ETL pipelines (Airflow DAGs) with data engineering to ensure data consistency across all business units.
+- **Introduced Tableau as primary self-service BI solution**, developing 10+ sophisticated dashboards and 30+ interactive reports (Quarto, HTML) that enabled detailed performance comparisons and reduced ad-hoc analysis requests by 50%.
 - **Established a comprehensive performance measurement framework**, creating custom scoring systems for content effectiveness and pioneering cohort-based customer analytics for churn and acquisition insights.
-- **Delivered actionable insights** that directly informed editorial strategy and customer retention initiatives.
-- **Fostered cross-functional collaboration** by establishing data partnerships with 5+ business units (Content Management, Marketing, Customer Management, Business Development), breaking down silos and creating shared insights.
+- **Delivered actionable insights** that directly informed content strategy and customer retention initiatives.
+- **Fostered cross-functional collaboration** by establishing data partnerships with 5+ business units (Content Management, Content Creation, Marketing, Customer Management, Business Development), breaking down silos and creating shared insights.
 - **Led adoption of new analytics technologies** through hands-on training and support, upskilling stakeholders in Tableau, Looker Studio, and data interpretation.
 
 **Technologies**: SQL, GCP, Airflow, R, Python, Tableau, Looker Studio, Quarto, Markdown
@@ -140,7 +140,7 @@ For 1.5 years, I was taking a personal sabbatical to (a) spend more **time with 
 
 ---
 
-<img src="{{site.baseurl}}/img/jlu_logo.png" width="150" alt="jlu_logo.png">
+<img src="{{site.baseurl}}/img/jlu_logo.png" width="130" alt="jlu_logo.png">
 ## 2001: Pre-degree (B.Sc.)
 
 * **Biology**  
