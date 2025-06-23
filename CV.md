@@ -38,6 +38,8 @@ As Senior Data Analyst for the streaming service oneplus, I drive data-driven de
 <img src="{{site.baseurl}}/img/comparis_logo.png" width="150" alt="comparis_logo.png">
 ## 2021 – 2023: comparis.ch
 
+As Data Analyst supporting the newsroom, I transformed complex market data into compelling stories and insights, enabling journalists to create data-driven content that empowered Swiss consumers to make better financial and lifestyle decisions.
+
 **Key Achievements**:
 
 - **Reduced article production time by 60%** through implementation of coded templates (R/Quarto) for recurring data-driven stories.
@@ -50,7 +52,7 @@ As Senior Data Analyst for the streaming service oneplus, I drive data-driven de
 
 **Technologies**: SQL, dbt, R, Python, Tableau, Flourish, Quarto/Markdown
 
-[comparis.ch](https://en.comparis.ch) is well known in Switzerland (at least 90% of people are aware of this platform and millions make use of it) and, hence, it is interesting and fun to see analysis performed in the newsroom being discussed by media (NZZ, Tagesanzeiger, Zeit Online, Watson...) and the public.
+[comparis.ch](https://en.comparis.ch) is Switzerland's leading online comparison platform, helping millions of users make informed decisions across insurance, finance, real estate, and automotive sectors through data-driven insights and transparent market comparisons. With over 90% brand awareness in Switzerland, analyses from the newsroom regularly spark discussions in major media outlets (NZZ, Tagesanzeiger, Watson) and public discourse.
 
 <br>
 
@@ -70,6 +72,8 @@ In 2020 I decided to dig deeper into the topics of **[full-stack development](ht
 <img src="{{site.baseurl}}/img/pwc_logo_new.png" width="70" alt="pwc_logo_new.png">
 ## 2018 – 2020: PwC (PricewaterhouseCoopers)
 
+As Data Analyst in the Deals advisory practice, I delivered rapid analytics and visualizations for time-critical M&A transactions, supporting due diligence teams and C-level executives with insights that directly influenced multi-million franc investment decisions across banking, pharmaceutical, and retail sectors.
+
 **Key achievements**:
 
 * **Thrived in high-stakes [Deals environment](https://www.pwc.ch/en/services/deals.html)** with compressed timelines and rapid turnaround requirements, consistently delivering accurate analysis for M&A advisory and decision-making.
@@ -82,7 +86,6 @@ In 2020 I decided to dig deeper into the topics of **[full-stack development](ht
 **Technologies**: R, Alteryx, Tableau, PowerBI, PowerQuery, PowerPivot
 
 [PwC](https://www.pwc.ch/en.html) (PricewaterhouseCoopers) Switzerland is the leading professional services firm among the Big Four, offering audit, tax, legal, and consulting services. Its expertise also extends to areas such as mergers and acquisitions, as well as corporate finance. With a strong local presence and access to PwC’s global network, it delivers tailored solutions that create long-term value for clients across industries.
-<!--My tasks comprise (a) **designing visualisations** to communicate internal and client data efficiently and effectively - mostly in form of interactive dashboards using [Tableau](https://www.tableau.com/), (b) **educating** the Deals team in various data analytics softwares and competencies, and (c) helping them with their **daily project work**.-->
 
 <br>
 
@@ -142,7 +145,7 @@ For 1.5 years, I was taking a personal sabbatical to (a) spend more **time with 
 
 ---
 
-<img src="{{site.baseurl}}/img/jlu_logo.png" width="130" alt="jlu_logo.png">
+<img src="{{site.baseurl}}/img/jlu_logo.png" width="100" alt="jlu_logo.png">
 ## 2001: Pre-degree (B.Sc.)
 
 * **Biology**  
