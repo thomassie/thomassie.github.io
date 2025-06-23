@@ -61,9 +61,13 @@ As Data Analyst supporting the newsroom, I transformed complex market data into 
 <img src="{{site.baseurl}}/img/constructor_academy_logo.png" width="150" alt="constructor_academy_logo.png">
 ## 2020 – 2021: Constructor Academy (further education)
 
-In 2020 I decided to dig deeper into the topics of **[full-stack development](https://learning.constructor.org/de/full-stack)** (front-end + back-end) and **[data science](https://learning.constructor.org/de/data-science)**. I decided to go with two bootcamps with [Constructor Learning](https://learning.constructor.org/de) (back than called Propulsion Acedemy). Although being tough from a time effort perspective, I enjoyed the time as the instructors are competent and very nice, and the topics covered allowed for a very good overview.
+Completed intensive bootcamps with [Constructor Acedemy](https://academy.constructor.org/de) (formerly Propulsion Academy) in **[full-stack web development](https://academy.constructor.org/de/full-stack/zurich)** and **[data science](https://academy.constructor.org/de/data-science/zurich)**, gaining hands-on experience with modern programming frameworks, machine learning techniques, and end-to-end application development. This comprehensive training bridged my analytical expertise with software engineering skills.
 
 **Technologies**: 
+
+**Frontend**: HTML, CSS, JavaScript, React, Three.js | **Backend**: Python, Django, Django REST Framework, Node.js, Express | **Databases**: SQL, PostgreSQL | **DevOps**: Docker, Git, GitLab CI | **Tools**: APIs, Flask, Test Driven Development, Pair Programming
+
+**Data Analysis**: R, Python, NumPy, Pandas, JupyterLab/Jupyter Notebook | **Visualization**: Matplotlib, Seaborn, Plotly, Dash | **Machine Learning**: Scikit-Learn, supervised/unsupervised learning | **Deep Learning & AI**: TensorFlow, Deep Learning, NLP, Generative AI | **Statistics**: A/B testing, hypothesis testing, probabilistic modeling | **Tools**: APIs, Git
 
 <br>
 
@@ -92,9 +96,9 @@ As Data Analyst in the Deals advisory practice, I delivered rapid analytics and 
 ---
 
 <img src="{{site.baseurl}}/img/constructor_academy_logo.png" width="150" alt="constructor_academy_logo.png">
-## 2017: Personal sabbatical
+## 2017: Professional Development Break
 
-For 1.5 years, I was taking a personal sabbatical to (a) spend more **time with my family**, (b) **educate myself** in topics I never really found the time before, and (c) figure out **what to do in the future** after leaving academia. I really enjoyed that break.
+Took an intentional career break to focus on **family priorities**, pursue continuous **learning in emerging data technologies and methodologies**, and **strategically plan my transition** from academia to industry.
 
 <br>
 
