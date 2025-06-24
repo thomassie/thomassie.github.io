@@ -65,9 +65,9 @@ Completed intensive bootcamps with [Constructor Acedemy](https://academy.constru
 
 **Technologies**: 
 
-**Frontend**: HTML, CSS, JavaScript, React, Three.js | **Backend**: Python, Django, Django REST Framework, Node.js, Express | **Databases**: SQL, PostgreSQL | **DevOps**: Docker, Git, GitLab CI | **Tools**: APIs, Flask, Test Driven Development, Pair Programming
+**Frontend**: HTML, CSS, JavaScript, React, Three.js \| **Backend**: Python, Django, Django REST Framework, Node.js, Express \| **Databases**: SQL, PostgreSQL \| **DevOps**: Docker, Git, GitLab CI \| **Tools**: APIs, Flask, Test Driven Development, Pair Programming
 
-**Data Analysis**: R, Python, NumPy, Pandas, JupyterLab/Jupyter Notebook | **Visualization**: Matplotlib, Seaborn, Plotly, Dash | **Machine Learning**: Scikit-Learn, supervised/unsupervised learning | **Deep Learning & AI**: TensorFlow, Deep Learning, NLP, Generative AI | **Statistics**: A/B testing, hypothesis testing, probabilistic modeling | **Tools**: APIs, Git
+**Data Analysis**: R, Python, NumPy, Pandas, JupyterLab/Jupyter Notebook \| **Visualization**: Matplotlib, Seaborn, Plotly, Dash \| **Machine Learning**: Scikit-Learn, supervised/unsupervised learning \| **Deep Learning & AI**: TensorFlow, Deep Learning, NLP, Generative AI \| **Statistics**: A/B testing, hypothesis testing, probabilistic modeling \| **Tools**: APIs, Git
 
 <br>
 
