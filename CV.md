@@ -95,7 +95,7 @@ As Data Analyst in the Deals advisory practice, I delivered rapid analytics and 
 
 ---
 
-<img src="{{site.baseurl}}/img/constructor_academy_logo.png" width="150" alt="constructor_academy_logo.png">
+<img src="{{site.baseurl}}/img/professional_development_logo.png" width="150" alt="professional_development_logo.png">
 ## 2017: Professional Development Break
 
 Took an intentional career break to focus on **family priorities**, pursue continuous **learning in emerging data technologies and methodologies**, and **strategically plan my transition** from academia to industry.
