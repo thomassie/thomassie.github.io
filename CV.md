@@ -95,8 +95,8 @@ As Data Analyst in the Deals advisory practice, I delivered rapid analytics and 
 
 ---
 
-<img src="{{site.baseurl}}/img/professional_development_logo.png" width="150" alt="professional_development_logo.png">
-## 2017: Professional Development Break
+<img src="{{site.baseurl}}/img/professional_development_logo.png" width="70" alt="professional_development_logo.png">
+## 2017: Professional development break
 
 Took an intentional career break to focus on **family priorities**, pursue continuous **learning in emerging data technologies and methodologies**, and **strategically plan my transition** from academia to industry.
 
