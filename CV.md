@@ -14,7 +14,7 @@ published: true
 ---
 
 <img src="{{site.baseurl}}/img/ch_media_logo.png" width="150" alt="ch_media_logo.png">
-## since 2023: CH Media, oneplus
+## since 2023: CH Media, oneplus | Senior Data Analyst
 
 As Senior Data Analyst for the streaming service oneplus, I drive data-driven decision making by building analytics infrastructure to optimize content performance, understand viewer behavior, and reduce churn while supporting CH Media's broader digital transformation.
 
@@ -36,7 +36,7 @@ As Senior Data Analyst for the streaming service oneplus, I drive data-driven de
 ---
 
 <img src="{{site.baseurl}}/img/comparis_logo.png" width="150" alt="comparis_logo.png">
-## 2021 – 2023: comparis.ch
+## 2021 – 2023: comparis.ch | Data Analyst
 
 As Data Analyst supporting the newsroom, I transformed complex market data into compelling stories and insights, enabling journalists to create data-driven content that empowered Swiss consumers to make better financial and lifestyle decisions.
 
@@ -74,7 +74,7 @@ Completed intensive bootcamps with [Constructor Acedemy](https://academy.constru
 ---
 
 <img src="{{site.baseurl}}/img/pwc_logo_new.png" width="70" alt="pwc_logo_new.png">
-## 2018 – 2020: PwC (PricewaterhouseCoopers)
+## 2018 – 2020: PwC (PricewaterhouseCoopers) | Senior Data Analyst
 
 As Data Analyst in the Deals advisory practice, I delivered rapid analytics and visualizations for time-critical M&A transactions, supporting due diligence teams and C-level executives with insights that directly influenced investment decisions across banking, pharmaceutical, and retail sectors.
 
