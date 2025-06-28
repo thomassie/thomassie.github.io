@@ -65,7 +65,7 @@ Completed intensive bootcamps with [Constructor Acedemy](https://academy.constru
 
 **Technologies**: 
 
-**Frontend**: HTML, CSS, JavaScript, React, Three.js \| **Backend**: Python, Django, Django REST Framework, Node.js, Express \| **Databases**: SQL, PostgreSQL \| **DevOps**: Docker, Git, GitLab CI \| **Tools**: APIs, Flask, Test Driven Development, Pair Programming
+**Frontend**: HTML, CSS, JavaScript, React, Three.js \| **Backend**: Python, Django, Django REST Framework, Node.js, Express \| **Databases**: SQL, PostgreSQL \| **DevOps**: Docker, Git, GitLab CI \| **Tools**: APIs, Flask, Test Driven Development
 
 **Data Analysis**: R, Python, NumPy, Pandas, JupyterLab/Jupyter Notebook \| **Visualization**: Matplotlib, Seaborn, Plotly, Dash \| **Machine Learning**: Scikit-Learn, supervised/unsupervised learning \| **Deep Learning & AI**: TensorFlow, Deep Learning, NLP, Generative AI \| **Statistics**: A/B testing, hypothesis testing, probabilistic modeling \| **Tools**: APIs, Git
 
@@ -76,7 +76,7 @@ Completed intensive bootcamps with [Constructor Acedemy](https://academy.constru
 <img src="{{site.baseurl}}/img/pwc_logo_new.png" width="70" alt="pwc_logo_new.png">
 ## 2018 – 2020: PwC (PricewaterhouseCoopers)
 
-As Data Analyst in the Deals advisory practice, I delivered rapid analytics and visualizations for time-critical M&A transactions, supporting due diligence teams and C-level executives with insights that directly influenced multi-million franc investment decisions across banking, pharmaceutical, and retail sectors.
+As Data Analyst in the Deals advisory practice, I delivered rapid analytics and visualizations for time-critical M&A transactions, supporting due diligence teams and C-level executives with insights that directly influenced investment decisions across banking, pharmaceutical, and retail sectors.
 
 **Key achievements**:
 
@@ -95,7 +95,7 @@ As Data Analyst in the Deals advisory practice, I delivered rapid analytics and 
 
 ---
 
-<img src="{{site.baseurl}}/img/professional_development_logo.png" width="70" alt="professional_development_logo.png">
+<img src="{{site.baseurl}}/img/professional_development_logo.png" width="60" alt="professional_development_logo.png">
 ## 2017: Professional development break
 
 Took an intentional career break to focus on **family priorities**, pursue continuous **learning in emerging data technologies and methodologies**, and **strategically plan my transition** from academia to industry.
