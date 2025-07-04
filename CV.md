@@ -80,11 +80,11 @@ Completed intensive bootcamps with [Constructor Acedemy](https://academy.constru
 ### 06/2018 – 05/2020
 ## Data Analyst | PwC (PricewaterhouseCoopers)
 
-As Data Analyst in the Deals advisory practice, I delivered rapid analytics and visualizations for time-critical M&A transactions, supporting due diligence teams and C-level executives with insights that directly influenced investment decisions across banking, pharmaceutical, and retail sectors.
+As Data Analyst in the [Deals advisory](https://www.pwc.ch/en/services/deals.html) practice, I delivered rapid analytics and visualizations for time-critical M&A transactions, supporting due diligence teams and C-level executives with insights that directly influenced investment decisions across banking, pharmaceutical, and retail sectors.
 
 **Key achievements**:
 
-* **Thrived in high-stakes [Deals environment](https://www.pwc.ch/en/services/deals.html)** with compressed timelines and rapid turnaround requirements, consistently delivering accurate analysis for M&A advisory and decision-making.
+* **Thrived in high-stakes Deals environment** with compressed timelines and rapid turnaround requirements, consistently delivering accurate analysis for M&A advisory and decision-making.
 * **Delivered 20+ data analytics projects for M&A deals** across banking, retail, pharmaceutical, and healthcare sectors, supporting due diligence and valuation decisions.
 * **Built interactive Tableau dashboards for C-level executives**, transforming complex financial data into actionable insights for deal negotiations.
 * **Automated data collection and cleansing processes using R and Alteryx**, reducing analysis turnaround time from days to hours for time-sensitive transactions.
