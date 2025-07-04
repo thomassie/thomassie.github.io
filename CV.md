@@ -14,8 +14,8 @@ published: true
 ---
 
 <img src="{{site.baseurl}}/img/ch_media_logo.png" width="150" alt="ch_media_logo.png">
-## Senior Data Analyst
-## since 2023: CH Media, oneplus
+## since 2023
+## Senior Data Analyst | CH Media, oneplus
 
 As Senior Data Analyst for the streaming service oneplus, I drive data-driven decision making by building analytics infrastructure to optimize content performance, understand viewer behavior, and reduce churn while supporting CH Media's broader digital transformation.
 
@@ -37,8 +37,8 @@ As Senior Data Analyst for the streaming service oneplus, I drive data-driven de
 ---
 
 <img src="{{site.baseurl}}/img/comparis_logo.png" width="150" alt="comparis_logo.png">
-## Data Analyst
-## 2021 – 2023: comparis.ch
+## 2021 – 2023
+## Data Analyst | comparis.ch
 
 As Data Analyst supporting the newsroom, I transformed complex market data into compelling stories and insights, enabling journalists to create data-driven content that empowered Swiss consumers to make better financial and lifestyle decisions.
 
@@ -61,8 +61,8 @@ As Data Analyst supporting the newsroom, I transformed complex market data into 
 ---
 
 <img src="{{site.baseurl}}/img/constructor_academy_logo.png" width="150" alt="constructor_academy_logo.png">
-## Further Education
-## 2020 – 2021: Constructor Academy
+## 2020 – 2021
+## Further Education | Constructor Academy
 
 Completed intensive bootcamps with [Constructor Acedemy](https://academy.constructor.org/de) (formerly Propulsion Academy) in **[full-stack web development](https://academy.constructor.org/de/full-stack/zurich)** and **[data science](https://academy.constructor.org/de/data-science/zurich)**, gaining hands-on experience with modern programming frameworks, machine learning techniques, and end-to-end application development. This comprehensive training bridged my analytical expertise with software engineering skills.
 
@@ -77,8 +77,8 @@ Completed intensive bootcamps with [Constructor Acedemy](https://academy.constru
 ---
 
 <img src="{{site.baseurl}}/img/pwc_logo_new.png" width="70" alt="pwc_logo_new.png">
-## Data Analyst
-## 2018 – 2020: PwC (PricewaterhouseCoopers)
+## 2018 – 2020
+## Data Analyst | PwC (PricewaterhouseCoopers)
 
 As Data Analyst in the Deals advisory practice, I delivered rapid analytics and visualizations for time-critical M&A transactions, supporting due diligence teams and C-level executives with insights that directly influenced investment decisions across banking, pharmaceutical, and retail sectors.
 
@@ -100,7 +100,8 @@ As Data Analyst in the Deals advisory practice, I delivered rapid analytics and 
 ---
 
 <img src="{{site.baseurl}}/img/professional_development_logo.png" width="60" alt="professional_development_logo.png">
-## 2017: Professional development break
+## 2017
+## Professional development break
 
 Took an intentional career break to focus on **family priorities**, pursue continuous **learning in emerging data technologies and methodologies**, and **strategically plan my transition** from academia to industry.
 
@@ -109,7 +110,8 @@ Took an intentional career break to focus on **family priorities**, pursue conti
 ---
 
 <img src="{{site.baseurl}}/img/uzh_logo.png" width="120" alt="uzh_logo.png">
-## 2012 – 2016: Postdoctoral researcher
+## 2012 – 2016
+## Postdoctoral researcher | UZH
 
 <!--- In my postdoc project I dealed with the response behaviour of ecological communities to environmental changes. I approached this topic by performing experiments with microbial communities being . --->
 
@@ -123,7 +125,8 @@ Took an intentional career break to focus on **family priorities**, pursue conti
 ---
 
 <img src="{{site.baseurl}}/img/uni_potsdam_logo.png" width="150" alt="uni_potsdam_logo.png">
-## 2006 – 2012: Doctoral thesis (PhD)
+## 2006 – 2012
+## Doctoral thesis (PhD) | University of Potsdam
 
 <!--- Phytoplankton consists of microorganisms mostly belonging to the realm of plants. --->
 
@@ -139,7 +142,8 @@ Took an intentional career break to focus on **family priorities**, pursue conti
 ---
 
 <img src="{{site.baseurl}}/img/uni_potsdam_logo.png" width="150" alt="uni_potsdam_logo.png">
-## 2005: Diploma thesis (M.Sc.)
+## 2005
+## Diploma thesis (M.Sc.) | University of Potsdam
 
 <!--- I received my diploma in Biology in 2005 by successfully graduating in the subjects Ecology & Nature conservation, Limnology, Microbiology, and Botany. In my diploma thesis I dealed with the occurence of harmful algae blooms (HABs), i.e., mass occurrences of specific (phyto-)plankton species that can cause harm to people and other species sharing the same environment. HABs occur almost everywhere on earth, in marine and fresh water environments. --->
 
@@ -154,7 +158,8 @@ Took an intentional career break to focus on **family priorities**, pursue conti
 ---
 
 <img src="{{site.baseurl}}/img/jlu_logo.png" width="100" alt="jlu_logo.png">
-## 2001: Pre-degree (B.Sc.)
+## 2001
+## Pre-degree (B.Sc.) | JLU Giessen
 
 * **Biology**  
 * **Location**: [Justus-Liebig-University](https://www.uni-giessen.de/index.html) Gießen (Germany)
