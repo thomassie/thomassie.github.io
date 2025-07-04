@@ -37,7 +37,7 @@ As Senior Data Analyst for the streaming service oneplus, I drive data-driven de
 ---
 
 <img src="{{site.baseurl}}/img/comparis_logo.png" width="150" alt="comparis_logo.png">
-## 2021 – 2023
+### **2021 – 2023**
 ## Data Analyst | comparis.ch
 
 As Data Analyst supporting the newsroom, I transformed complex market data into compelling stories and insights, enabling journalists to create data-driven content that empowered Swiss consumers to make better financial and lifestyle decisions.
