@@ -21,7 +21,7 @@ As Senior Data Analyst for the streaming service oneplus, I drive data-driven de
 
 **Key achievements**:
 
-- **Managed diverse stakeholders and project requirements** across diverse business units, establishing data partnerships that broke down organizational silos and ensured alignment between stakeholder needs and project objectives.
+- **Managed diverse stakeholders and project requirements** across diverse business units, establishing data partnerships that ensured alignment between stakeholder needs and project objectives.
 - **Designed and established a centralized data warehouse** in BigQuery (GCP) as organization's single source of truth, co-managing ETL pipelines (Airflow DAGs) with data engineering to ensure data consistency across all business units.
 - **Introduced Tableau as primary self-service BI solution**, developing 10+ sophisticated dashboards and 30+ interactive reports (Quarto, HTML) that enabled detailed performance comparisons and reduced ad-hoc analysis requests by 50%.
 - **Established a comprehensive performance measurement framework**, creating custom scoring systems for content effectiveness and pioneering cohort-based customer analytics for churn and acquisition insights.
@@ -39,7 +39,7 @@ As Senior Data Analyst for the streaming service oneplus, I drive data-driven de
 
 <img src="{{site.baseurl}}/img/comparis_logo.png" width="150" alt="comparis_logo.png">
 ### 06/2021 – 11/2023
-## Data Analyst | comparis.ch
+## Data Analyst | comparis.ch, Newsroom
 
 As Data Analyst supporting the newsroom, I transformed complex market data into compelling stories and insights, enabling journalists to create data-driven content that empowered Swiss consumers to make better financial and lifestyle decisions.
 
@@ -79,7 +79,7 @@ Completed intensive bootcamps with [Constructor Acedemy](https://academy.constru
 
 <img src="{{site.baseurl}}/img/pwc_logo_new.png" width="70" alt="pwc_logo_new.png">
 ### 06/2018 – 05/2020
-## Data Analyst | PwC (PricewaterhouseCoopers)
+## Data Analyst | PwC (PricewaterhouseCoopers), Deals
 
 As Data Analyst in the [Deals advisory](https://www.pwc.ch/en/services/deals.html) practice, I delivered rapid analytics and visualizations for time-critical M&A transactions, supporting due diligence teams and C-level executives with insights that directly influenced investment decisions across banking, pharmaceutical, and retail sectors.
 
