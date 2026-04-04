@@ -27,9 +27,13 @@ dbt projects follow a layered convention. Mine has three:
 Staging models are simple by design. Here's `stg_invoices.sql`:
 
 ```sql
-WITH source AS (
-    SELECT * FROM {{ source('main', 'invoices') }}
+WITH 
+
+source AS (
+    SELECT * 
+    FROM {{ source('main', 'invoices') }}
 ),
+
 renamed AS (
     SELECT
         id                           AS invoice_id,
@@ -38,13 +42,15 @@ renamed AS (
         date                         AS invoice_date,
         "datePayment"                AS payment_date,
         status,
-        ROUND(netto  / 100.0, 2)    AS netto_chf,
-        ROUND(brutto / 100.0, 2)    AS brutto_chf,
+        ROUND(netto  / 100.0, 2)     AS netto_chf,
+        ROUND(brutto / 100.0, 2)     AS brutto_chf,
         "createdAt"                  AS created_at,
         "editedAt"                   AS edited_at
     FROM source
 )
-SELECT * FROM renamed
+
+SELECT * 
+FROM renamed
 ```
 
 Clean, readable, and the `{{ source() }}` macro means dbt tracks lineage automatically — the dbt Power User extension renders this as a visual dependency graph right in the sidebar.
@@ -58,12 +64,14 @@ The problem: **revenue is naturally at the company × group grain. Expenses are 
 The fix is a `ROW_NUMBER()` window function. Expenses get assigned to exactly the *first* revenue row per month; all other rows get a zero:
 
 ```sql
-CASE WHEN ROW_NUMBER() OVER (
-        PARTITION BY month
-        ORDER BY company_name, group_name
-     ) = 1
-THEN expenses_netto_chf
-ELSE 0 END AS expenses_netto_chf
+CASE 
+    WHEN ROW_NUMBER() OVER (
+            PARTITION BY month
+            ORDER BY company_name, group_name
+        ) = 1
+    THEN expenses_netto_chf
+    ELSE 0 
+END AS expenses_netto_chf
 ```
 
 Now any aggregation in Tableau — at any grain — sums expenses correctly without double-counting. A small amount of extra care at model design time that saves a lot of confusion downstream.
