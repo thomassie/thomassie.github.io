@@ -191,6 +191,8 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - _quarto.yml
+  - .quartoignore
 
 # prose.io config
 prose:
