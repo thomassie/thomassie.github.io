@@ -3,7 +3,7 @@ layout: page
 title: CV
 published: true
 ---
-![TMM_Portrait_08_more_d.jpg]({{site.baseurl}}/img/TMM_Portrait_08_more_d.jpg)
+![TMM_Portrait_08_more_d.jpg]({{site.baseurl}}/img/TMM_Portrait_09.png)
 
 {% raw %}
 <button class="button" onclick="window.open('/CV_Thomas_Massie.pdf')">Download CV</button>
