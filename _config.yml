@@ -72,22 +72,22 @@ title-img: "/img/Thomas_Sketch_02.png"
 author:
   name: "Thomas M. Massie"
   email: "thomas.massie@outlook.com"
-  facebook: yourname
   github: thomassie
-  #twitter: "thomasmmassie"
-  reddit: yourname
-  google-plus: +yourname
   linkedin: "thomasmmassie"
-  xing: yourname
-  stackoverflow: yourlink
-  snapchat: yourname
-  instagram: yourname
-  youtube: yourlink
-  spotify: yourname
-  telephone: yourphone
-  steam: yourname
-  twitch: yourname
-  yelp: yourname
+  #twitter: "thomasmmassie"
+  #facebook: yourname
+  #reddit: yourname
+  #google-plus: +yourname
+  #xing: yourname
+  #stackoverflow: yourlink
+  #snapchat: yourname
+  #instagram: yourname
+  #youtube: yourlink
+  #spotify: yourname
+  #telephone: yourphone
+  #steam: yourname
+  #twitch: yourname
+  #yelp: yourname
 
 # Select which links to show in the footer
 footer-links-active:
