@@ -20,9 +20,9 @@ In the [previous post](https://thomassie.me/personal-dwh-duckdb/) I described ho
 
 dbt projects follow a layered convention. Mine has three:
 
-- **Staging** (`models/staging/`) — one model per source table. Only job: rename camelCase columns to snake_case, convert Rappen to CHF, and register sources. No business logic here.
+- **Staging** (`models/staging/`) — one model per source table. Only job: rename camelCase columns to snake_case and register sources. No business logic here.
 - **Intermediate** (`models/intermediate/`) — joins and enrichments. Not yet a final output, just a stepping stone between staging and marts.
-- **Marts** (`models/marts/`) — the final, analysis-ready tables. These are what Tableau connects to.
+- **Marts** (`models/marts/`) — the final, analysis-ready tables. These are what Tableau (or any other analytics environment) connects to.
 
 Staging models are simple by design. Here's `stg_invoices.sql`:
 
