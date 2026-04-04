@@ -29,7 +29,7 @@ As Senior Data Analyst for the streaming service oneplus, I drive data-driven de
 - **Fostered cross-functional collaboration** by establishing data partnerships with 5+ business units (Content Management, Content Creation, Marketing, Customer Management, Business Development), working to reduce silos and create shared insights.
 - **Led adoption of new analytics technologies** through hands-on training and support, upskilling stakeholders in Tableau, Looker Studio, and data interpretation.
 
-**Technologies**: SQL, GCP, Airflow, R, Python, Tableau, Looker Studio, Quarto, Markdown
+**Technologies**: SQL, GCP, Airflow, R, Python, Tableau, Looker Studio, Quarto, Markdown, Claude Code
 
 [CH Media](https://chmedia.ch) is Switzerland’s leading media company, active in television, radio, print, and digital media. Its streaming platform, [oneplus](https://www.oneplus.ch/), offers a wide range of Swiss and international series, movies, and original productions. With a strong focus on local content, CH Media aims to strengthen its position in the competitive streaming market.
 
