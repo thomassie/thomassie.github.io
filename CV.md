@@ -53,7 +53,7 @@ As Data Analyst supporting the newsroom, I transformed complex market data into 
 - **Led upskilling initiatives** to help team members become more data and technology savvy. 
 - **Enhanced team integration** by onboarding and mentoring new data journalists and analysts, providing hands-on training in data pipelines, analytics tools, and newsroom-specific workflows.
 
-**Technologies**: SQL, dbt, R, Python, Tableau, Flourish, Quarto/Markdown
+**Technologies**: SQL, dbt, R, Python, Tableau, Flourish, Quarto/Markdown, ChatGPT
 
 [comparis.ch](https://en.comparis.ch) is Switzerland's leading online comparison platform, helping millions of users make informed decisions across insurance, finance, real estate, and automotive sectors through data-driven insights and transparent market comparisons. With over 90% brand awareness in Switzerland, analyses from the newsroom regularly spark discussions in major media outlets (NZZ, Tagesanzeiger, Watson) and public discourse.
 
