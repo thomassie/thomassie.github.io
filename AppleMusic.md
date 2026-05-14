@@ -6,11 +6,11 @@ published: true
 
 ![AppleMusicLibrary_all.png]({{site.baseurl}}/img/AppleMusicLibrary_all.png)<br/>
 
-Recently, I was wondering about **which are the songs I listen to most often on Apple Music**. Sure, [Apple Music](https://www.apple.com/chde/music/) can show you the "Top 25 Most Played" songs. However, it didn’t provide me with the instant overview I wanted to have. And it’s not made for **conditional filtering**.
+Recently, I was wondering **which songs I listen to most often on Apple Music**. Sure, [Apple Music](https://www.apple.com/chde/music/) can show you the "Top 25 Most Played" songs. However, it didn’t provide me with the instant overview I wanted. And it’s not made for **conditional filtering**.
 
-So, I exported the library, read and processed the `.xml?` file in **R**, created an excerpt, and visualised this sample in **Tableau**. Well, that worked quite nicely… You can have a look at [the result](https://public.tableau.com/profile/thomas.massie#!/vizhome/AppleMusicLibrary/APPLEMUSICMEDIATHEK) on [Tableau Public](https://public.tableau.com/) or watch a demo on [Vimeo](https://vimeo.com/427384435).
+So, I exported the library, read and processed the `.xml` file in **R**, created an excerpt, and visualised this sample in **Tableau**. Well, that worked quite nicely… You can have a look at [the result](https://public.tableau.com/profile/thomas.massie#!/vizhome/AppleMusicLibrary/APPLEMUSICMEDIATHEK) on [Tableau Public](https://public.tableau.com/) or watch a demo on [Vimeo](https://vimeo.com/427384435).
 
-Though, the very first thing that I realized when looking at the dashboard: my kids have a huge impact! Just watch out for "Die drei ??? Kids" or "Deine Freunde"...
+That said, the very first thing I realised when looking at the dashboard: my kids have a huge impact! Just watch out for "Die drei ??? Kids" or "Deine Freunde"...
 
 You want to have a look at your Apple Music Library, too? You have R and Tableau (Public)? Just follow these really simple steps.
 
@@ -24,7 +24,7 @@ First, you have to export your library to your project folder. You can do this b
 
 ## Step 2
 
-Use this **R** snippet to read and process the `.xml` file. It might be a bit confusing when first working with `.xml`files. However, once you understand their structuring it's straightforward to generate a nice and clean tibble. This again is saved to an output folder in your project to be read in with Tableau in step 3. (I admit that this was also the first time I worked on `.xml`files...)
+Use this **R** snippet to read and process the `.xml` file. It might be a bit confusing when first working with `.xml` files. However, once you understand their structure, it's straightforward to generate a nice and clean tibble. The output is then saved to a folder in your project to be read in with Tableau in step 3. (I admit that this was also the first time I worked with `.xml` files...)
 
 
 ```r
