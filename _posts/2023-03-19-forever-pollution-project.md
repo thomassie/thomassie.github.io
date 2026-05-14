@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PFAS Map
-image: /img/ForeverPolutionProject_squared.png
+image: /img/ForeverPollutionProject_squared.png
 tags:
   - R
   - Shiny
@@ -24,4 +24,4 @@ I built a Shiny app that allows to
 - access all information for a **specific site**, and
 - come across **biases and flaws** in the data.
 
-You can read more about this little project [here](https://thomassie.me/ForeverPolutionProject/) or jump directly to the **[app](https://thomassie.shinyapps.io/Forever_Polution_Project/)**.
+You can read more about this little project [here](https://thomassie.me/ForeverPollutionProject/) or jump directly to the **[app](https://thomassie.shinyapps.io/Forever_Pollution_Project/)**.
