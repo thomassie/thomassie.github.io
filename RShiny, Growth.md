@@ -1,7 +1,7 @@
 ---
 layout: page
 title: R Shiny
-published: true
+published: false
 ---
 
 Here are some projects that I have done using the R package [Shiny](https://shiny.rstudio.com/). Shiny allows to make interactive web apps straight from R. That is, people who are not familiar with code are given the opportunity to explore data and infer insights from it. Really nice!
