@@ -13,6 +13,7 @@ published: true
 - The one habit that fixes the most: state the decision before asking for the number.
 
 ---
+<br><br>
 
 A message lands in the analyst's chat: *"Can you pull the new FTS numbers?"*
 
@@ -30,6 +31,7 @@ More could easily be added; the set above is illustrative, not exhaustive.
 What makes this moment matter is its scale. **It is the smallest possible version of the entire relationship between a business team and a data team.** Answered well, it produces something someone can act on rather quickly. Answered badly, the result is a number that is technically correct but quietly wrong for the decision at hand. It manufactures false confidence with a deadline attached. The two-way relationship between business and data is built or broken in requests this size, many times a week, with the small failures rarely noticed.
 
 So it is worth taking seriously. As a working problem with a working solution. Every party in this story is under real pressure; this is not a grievance.
+<br><br>
 
 ## Why bother? Because being data-driven appears to pay
 
@@ -44,6 +46,7 @@ A more recent study, in a completely different setting, points in the same direc
 The prize, then, seems real. That is precisely why the way one goes about it deserves rigour.
 
 Even strong empirical findings can be misapplied. A recent *Harvard Business Review* piece catalogues five common pitfalls in data-driven decision-making: conflating correlation with causation, underweighting sample-size effects, measuring what is easy rather than what matters, misjudging generalisability, and overweighting a single result⁴. The remainder of this piece takes the three studies above as directionally credible, not as universal claims.
+<br><br>
 
 ## The paradox: naming the problem, refusing to fund the fix
 
@@ -62,6 +65,7 @@ The difficulty is compounded by a deeper problem: there is no agreement on what 
 A plausible chain runs as follows. Because data literacy is hard to define, it is hard to measure; because it is hard to measure, it is hard to attach a number to its return. And in a budget meeting, the line item that cannot show a number tends to lose to those that can. By this reasoning, the under-2% figure looks less like negligence and more like a framing-and-measurement failure: literacy loses the budget fight because it has not yet been made fundable, not because no one cares. This is a reasoned inference rather than a measured pattern, but each step in the chain is itself a defensible argument.
 
 How "success" is defined turns out to be the lever that unsticks the paradox; the argument returns to it below. First, the relationship itself.
+<br><br>
 
 ## Four pillars of a working relationship
 
@@ -125,6 +129,7 @@ This is not just observation. Research has begun to map the empirical link. A st
 The deeper failure cuts cleanly through both worlds. A vague question to an analyst produces correct-but-useless work. A vague prompt to an LLM produces fluent-but-wrong work. **Enabling business people to ask the right questions is, in the end, what makes AI answers reliable.**
 
 The honest read is two-sided, and recent empirical work allows the positive case to be sharpened. A natural-experiment study of equity-research analysts after the December 2023 launch of FactSet's Mercury AI platform found that AI-assisted reports were broader and more timely (more distinct information sources, more analytical methods, more figures), but forecast accuracy *degraded* by roughly 59%²⁰. The authors' "synthesis-cost hypothesis" is that AI raises the volume of offsetting positive and negative signals faster than the human user can integrate them into a single accurate judgement. The finding does not refute the upside case; it relocates it. AI shifts the analyst bottleneck from information-gathering to synthesis and interpretation, which makes those skills more important under AI, not less. This relocation of effort changes what the organisation has to give the model. With a *semantic layer* (a governed dictionary where each metric has one blessed, documented definition, so "views" means the same thing to every query and every person), natural-language questions begin drawing on trustworthy inputs instead of guesses. The foundation, not the model, is what an organisation actually controls. **AI acts as an amplifier of whatever the foundation supports, including its weaknesses.**
+<br><br>
 
 ## The deeper failure: nobody framed the question
 
@@ -133,6 +138,7 @@ What connects all four pillars is a single failure pattern: the recurring proble
 A practitioner-academic piece in MIT Sloan argues that the most common reason data science projects fail is that teams skip problem definition: they rush to analyse the data before anyone has agreed on the problem to be solved, and different departments never reach consensus on what is actually being asked²¹. The article puts the failure rate above 80%. That figure is the authors' own assessment rather than a traceable statistic, so it is best read as a framing of the seriousness rather than a hard number. The diagnosis is the FTS hook scaled up: a vague question goes in, technically correct work comes out, and it solves the wrong problem.
 
 That is why enabling business people to ask the *right* questions is not a nicety. It is the thing that produces reliable answers from analytics and from AI. A model, like an analyst, will faithfully answer the question actually asked. "Pull the FTS numbers" returns numbers; "which renewal decision is being made, and what would change our mind" returns something usable. Reliability is a function of how a question is framed, not of how many dashboards have been built around it.
+<br><br>
 
 ## Democratisation: the same word, two opposite outcomes
 
@@ -141,6 +147,7 @@ That is why enabling business people to ask the *right* questions is not a nicet
 Done badly, it means handing people raw access and calling it empowerment. The predictable result is misinterpretation, three teams computing "views" three different ways, and false confidence at scale: the worst of both worlds.
 
 Done well, it means access *plus* **the things that make access safe: data literacy, a semantic layer with shared definitions, and a small set of trusted standard reports everyone agrees on**. That combination delivers faster insight while managing the risk, a consistent direction across the practitioner and review literature²². **The difference between the two is not ambition but governance.**
+<br><br>
 
 ## The two-way relationship is an informal SLA
 
@@ -161,6 +168,7 @@ This is where the paradox closes. The literacy budget fight keeps being lost bec
 One honest gap. The Qlik and Accenture survey reports that data-literate employees are at least 50% more likely to feel empowered and trusted to make better decisions¹¹, but that is a self-reported attitudinal lift, not a measured decision outcome, and it sits inside vendor research. No controlled, large-scale study was found in the research for this article showing that data-literacy training for non-technical business users improves measured business performance. The absence is not a proof; deeper or differently-framed searches may surface one. What the evidence supports is that training improves *confidence* and *self-reported empowerment*. That is genuinely worth funding. It should not, however, be dressed up as a proven ROI lever it has not yet earned.
 
 Where success is defined narrowly as ROI, literacy loses every budget fight it enters: the financial returns of literacy investment, if they emerge at all, emerge over years rather than over the quarterly cycles on which budgets are reviewed. With decision quality, adoption, and rework counted alongside, the case for investing in the human side acquires its own measurable basis. **A too-narrow definition of success may be the quiet reason the most-cited barrier never gets funded.**
+<br><br>
 
 ## Now, what to change?
 
@@ -173,7 +181,7 @@ A reorganisation is not the prerequisite. One new habit is. And it can be run fr
 **For those leading the people doing both:** stop asking only what the data work *returned*, and start asking whether it was *trusted, used, and consistent.* Fund a named bridging role instead of hoping for volunteers. Decide whether the organisation is shipping governed self-serve or raw access, because AI will amplify whichever one was chosen, for better or for worse. That foundation is the part actually under leadership's control.
 
 The FTS request will arrive again, tomorrow and the day after. **Whether it remains a thirty-second favour or opens a substantive conversation depends on whether the foundations described above have been built.**
-
+<br><br>
 ---
 
 ## References
