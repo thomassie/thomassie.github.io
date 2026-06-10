@@ -1,19 +1,7 @@
 ---
-layout: post
+layout: page
 title: "Becoming Data-Driven Is a Relationship, Not a Hand-Off. Especially With AI."
-# subtitle: optional one-line teaser; leave commented if not used
-# image: /img/your-thumbnail.png  # optional thumbnail for the listing
-tags:
-  - Data and Business
-  - data analytics
-  - business
-  - AI
-  - data literacy
-  - data-driven decision making
-  - governance
-  - data team
 published: true
-date: '2026-06-10'
 ---
 
 **TL;DR**

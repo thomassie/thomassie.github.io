@@ -19,7 +19,7 @@ Now, these are my own observations, drawn from years of working at the analystâ€
 
 **Articles**
 
-1. **[Becoming Data-Driven Is a Relationship, Not a Hand-Off. Especially With AI.](/2026-06-10-becoming-data-driven-two-way-relationship/)** *The two-way relationship between business and data teams is the real foundation of data-driven work; AI raises the stakes without changing the structure.*
+1. **[Becoming Data-Driven Is a Relationship, Not a Hand-Off. Especially With AI.](/articles/becoming-data-driven-two-way-relationship/)** *The two-way relationship between business and data teams is the real foundation of data-driven work; AI raises the stakes without changing the structure.*
 
 <br>
 More to come...

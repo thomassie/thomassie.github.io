@@ -25,7 +25,8 @@ description: "Data analyst and visualisation expert. R, Python, SQL, Tableau, Du
 navbar-links:
   #About Me: "aboutme"
   CV: "CV"
-  Projects: 
+  Projects:
+    - Data, Business, and AI: "DataBusinessAI"
     - Forever Pollution Project: "ForeverPollutionProject"
     - Apple Music Library: "AppleMusic"
     - Charts in Flourish: "FlourishCharts"
