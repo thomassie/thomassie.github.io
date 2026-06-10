@@ -15,6 +15,8 @@ published: true
 ---
 <br><br>
 
+## A typical situation...
+
 A message lands in the analyst's chat: *"Can you pull the new FTS numbers?"*
 
 FTS (short for *Finest Trash Stuff*) is a show on the streaming service, with seasons and episodes, the kind of thing a lot of people inside the company talk about all day. The request *feels* like a thirty-second favour. Unfortunately, it isn't. Hidden inside that one sentence are several questions, and not one of them has been asked out loud:
@@ -185,8 +187,6 @@ The FTS request will arrive again, tomorrow and the day after. **Whether it rema
 ---
 
 ## References
-
-Tier 1 = peer-reviewed academic. Tier 2 = named industry research / recognised consultancy. Tier 3 = practitioner/vendor colour — used for illustration only, never as the sole support for a factual claim.
 
 1. Brynjolfsson, E., Hitt, L. M., & Kim, H. H. (2011). "Strength in Numbers: How Does Data-Driven Decisionmaking Affect Firm Performance?" *ICIS 2011 Proceedings*, AIS Electronic Library. https://aisel.aisnet.org/icis2011/proceedings/economicvalueIS/13/
 
