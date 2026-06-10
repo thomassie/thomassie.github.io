@@ -6,7 +6,7 @@ published: true
 
 **Why this series of articles?**
 
-Well in my conversations with colleagues, friends, and former teammates, I sensed that becoming data-driven remains a genuine challenge for most companies and the people inside them. Despite all the effort that might be put into that topic (strategies get written, tools get bought, dashboards get built, reports are sent out), it somehow does not fully pay off. Neither for non-technical people, nor for the analytics specialist. And most often not for the company itself when looking at return on investments (ROI).
+Well, in my conversations with colleagues, friends, and former teammates, I sensed that becoming data-driven remains a genuine challenge for most companies and the people inside them. Despite all the effort that might be put into that topic (strategies get written, tools get bought, dashboards get built, reports are sent out), it somehow does not fully pay off. Neither for non-technical people, nor for the analytics specialist. And most often not for the company itself when looking at return on investments (ROI).
 
 The reasons can be manifold, but, usually, they are not technical. All too often, it is that the people supposed to create value from data, or to work more efficiently with it, in some form or other, were missing from the strategy in the first place.
 
