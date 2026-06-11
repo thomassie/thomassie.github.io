@@ -17,6 +17,10 @@ It feels like a thirty-second favour. The reality runs deeper. Hidden inside tha
 
 That tiny exchange is the smallest possible version of the entire relationship between business and data teams. Answered well, it produces something someone can act on. Answered badly, it manufactures false confidence with a deadline attached. Multiply by every Slack message in every company, every week. That is where becoming data-driven gets built or broken.
 
+And the damage is rarely just financial. The wrong number becomes a decision (renew or cancel, hire or hold), and by the time anyone notices, it is baked into something expensive and hard to undo. Nobody goes back to check, because nothing looked broken.
+
+It also spreads. Every wrong answer that slips through chips away at trust in the numbers, and at the nerve to act on them. Past a certain point, people stop relying on the figures and route around them, which is the exact opposite of becoming data-driven.
+
 **The paradox**
 
 When senior data leaders are asked what is blocking them, they point at people, culture, and process. They name the human side as the wall they keep hitting. Then in the same conversations, fewer than one in fifty rank data literacy as an investment priority.

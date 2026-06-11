@@ -26,7 +26,7 @@ The same rule applies the moment a chat window opens with an LLM. A vague prompt
 
 For analysts and data teams: when the next vague ask arrives, do not pull a number. Ask one question first. *"What decision is this feeding?"*
 
-Watch how much rework that one question prevents. Watch how much false confidence it prevents downstream.
+Watch how much rework that one question prevents. Watch how much false confidence it prevents downstream. Watch how much trust it earns back.
 
 And when a metric has no shared definition, do not quietly pick one. Write the definition down. Get it agreed. Put it where the next person will find it. One blessed definition per metric is what stops three teams computing "views" three different ways.
 
