@@ -6,10 +6,11 @@ published: true
 
 **TL;DR**
 
-- Firms using data-driven decision-making outperform, but only when paired with the right organisational foundations.
-- Most organisations name the human side as the wall, then invest less than 2% in fixing it.
-- The fix is a working two-way bargain: business commits to decision framing; data commits to timeliness, interpretability, and honesty about limits; leadership organises the structure around them.
-- AI raises the stakes without changing the structure. A vague question to a model is still a vague question. The answer just sounds more confident.
+- A routine request like *"pull the FTS numbers"* looks like a thirty-second favour and quietly isn't. It comes back as a number that is technically correct but wrong for the decision, and someone acts on it anyway. This happens many times a week, and the small failures, rarely noticed one at a time, add up to worse decisions and lost trust in the data.
+- Organisations buy the tools, build the dashboards, and layer AI on top, then still do not feel data-driven or see a clear return. The reason is consistent: technology lifts performance only when the organisational foundations are already in place, and those foundations are the part that goes unfunded. The problem is almost never technical.
+- Here is the paradox: leaders name the human side (framing, literacy, plain communication) as the thing blocking them, then invest less than 2% in fixing it. The firms that *do* get those foundations right measurably outperform.
+- AI raises the stakes without changing the structure. A vague question to a model is still a vague question; the answer just sounds more confident. Every existing data problem becomes an AI problem, now at scale.
+- The fix is a working two-way bargain: business commits to framing the decision; data commits to timeliness, interpretability, and honesty about limits; leadership organises the structure around them.
 - The one habit that fixes the most: state the decision before asking for the number.
 
 ---
@@ -31,6 +32,10 @@ FTS (short for *Finest Trash Stuff*) is a show on the streaming service, with se
 More could easily be added; the set above is illustrative, not exhaustive.
 
 What makes this moment matter is its scale. **It is the smallest possible version of the entire relationship between a business team and a data team.** Answered well, it produces something someone can act on rather quickly. Answered badly, the result is a number that is technically correct but quietly wrong for the decision at hand. It manufactures false confidence with a deadline attached. The two-way relationship between business and data is built or broken in requests this size, many times a week, with the small failures rarely noticed.
+
+Follow the bad answer downstream and the cost stops looking small. The number does not stay a number; it becomes a slide, then a decision: renew the show or drop it, move the budget or hold it, greenlight the next season or pass. By the time anyone might notice the figure was wrong, it is wrong inside something expensive and hard to walk back, and because it looked right, nobody goes looking. One such request is a rounding error. The trouble is the volume: a mid-sized company runs hundreds of these exchanges a week, and a small, unaudited quality loss on each one compounds into **a steady tax on the quality of the decisions the business makes**. This is the cost that sits beneath the money spent on dashboards, warehouses, and now AI.
+
+The consequences reach every role. The business side acts on the confident, wrong number and owns the decision it produced. The data side sees its work either trusted or quietly routed around, and is the one asked why the figure was off. Leadership answers for the outcome, and the damage is rarely only financial: trust in the numbers erodes, confidence in the next decision weakens, and the organisation drifts from the performance the whole effort was meant to deliver. And doubt, once it sets in, is far slower to undo than the number was to produce.
 
 So it is worth taking seriously. As a working problem with a working solution. Every party in this story is under real pressure; this is not a grievance.
 <br><br>
