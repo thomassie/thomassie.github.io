@@ -25,7 +25,7 @@ As Senior Data Analyst for the streaming service oneplus, I drive data-driven de
 - **Designed and established a centralized data warehouse** in BigQuery (GCP) as organization's single source of truth, co-managing ETL pipelines (Airflow DAGs) with data engineering to ensure data consistency across all business units.
 - **Introduced Tableau as primary self-service BI solution**, developing 10+ sophisticated dashboards and 30+ interactive reports (Quarto, HTML) that enabled detailed performance comparisons and reduced ad-hoc analysis requests by 50%.
 - **Established a comprehensive performance measurement framework**, creating custom scoring systems for content effectiveness and pioneering cohort-based customer analytics for churn and acquisition insights.
-- **Implemented predictive models** to classify accounts and anticipate and avoid churn events.
+- **Implemented predictive models** to classify accounts, and anticipate and avoid churn events.
 - **Delivered actionable insights** that directly informed content strategy and customer retention initiatives.
 - **Fostered cross-functional collaboration** by establishing data partnerships with 5+ business units (Content Management, Content Creation, Marketing, Customer Management, Business Development), working to reduce silos and create shared insights.
 - **Led adoption of new analytics technologies** through hands-on training and support, upskilling stakeholders in Tableau, Looker Studio, and data interpretation.
