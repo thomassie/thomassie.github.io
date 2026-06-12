@@ -15,7 +15,7 @@ date: '2026-06-10'
 
 *"Can you pull the new FTS numbers?"* The message looks like a thirty-second favour. [The first part of this pair](/2026-05-27-becoming-data-driven-the-problem/) followed it downstream, into a wrong number baked into an expensive decision, and landed on a single observation: the recurring failure is a question that was never framed properly before the work began.
 
-The fix is smaller than it sounds. No reorganisation required. One habit, run from either side of the table.
+The fix is smaller than it sounds. No reorganisation required. Two mirror habits, one on each side of the table, and a structure leadership builds around them.
 
 **State the decision**
 
@@ -35,9 +35,9 @@ And when a metric has no shared definition, do not pick one in private. Write th
 
 **What leadership owes**
 
-Goodwill between two people does not scale. Two colleagues can settle the FTS question over coffee; a large organisation needs structure. This is leadership's part of the bargain, and it is the part most often skipped.
+Goodwill doesn't scale. Two colleagues can settle the FTS question over coffee; a large organisation needs structure. Building that structure is leadership's job, and the part most often skipped.
 
-A named bridging role, for one. Someone whose job is to turn a business problem into a solvable data problem and turn the answer back into a decision. It can be filled from either side: an analyst with real business sense, or a business person whose data literacy is strong enough to frame the question and read the answer.
+A named bridging role, for one. Someone who turns a business problem into a solvable data problem, and the answer back into a decision. It can be filled from either side: an analyst with business sense, or a business person literate enough to frame the question and read the answer.
 
 Clear ownership of metrics, for another. One team accountable for a given metric's definition and quality, so that when "views" is wrong, a name is attached to fixing it. What fails is the arrangement where nobody owns the metric on either side.
 
@@ -67,4 +67,4 @@ Leading the people doing both? Fund a named bridging role rather than hoping som
 
 None of it costs a new platform. What it buys back is trust in the numbers, which is slow to rebuild and worth more than any dashboard. The next FTS request arrives tomorrow. Whether it stays a thirty-second favour or opens a real conversation depends on which habits got built first.
 
-The full argument with sources lives in the [long-form article](/articles/becoming-data-driven-two-way-relationship/).
+[Part one](/2026-05-27-becoming-data-driven-the-problem/) lays out the problem; the full argument, with sources, lives in the [long-form article](/articles/becoming-data-driven-two-way-relationship/).
