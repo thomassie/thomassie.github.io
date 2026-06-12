@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A personal data warehouse — free, fast, and local
-image: /img/blog_personal-data-warehouse_light.png  #duckdb_logo.png
+image: /img/duckdb-light-1024.png
 tags:
   - DuckDB
   - dbt

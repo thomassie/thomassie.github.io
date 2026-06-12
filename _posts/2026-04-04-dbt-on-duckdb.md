@@ -1,7 +1,7 @@
 ---
 layout: post
 title: dbt on DuckDB — from raw tables to mart models
-image: /img/blog_dbt-on-duckdb_light.png  #dbt_logo.png
+image: /img/dbt-light-1024.png
 tags:
   - DuckDB
   - dbt
