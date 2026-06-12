@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Geocoding made easy
-image: /img/tidygeocoder_hex.png
+image: /img/geocoding-light-1024.png
 tags:
   - R
   - tidygeocoder
