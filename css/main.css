@@ -49,11 +49,11 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 250;   /* original: 800 */
 }
 a {
-  color: #FEC166; /* unified link colour (gold) */
+  color: #404040; /* neutral default */
 }
 a:hover,
 a:focus {
-  color: #FFB13D; /* deeper gold on hover */
+  color: #FEC166; /* gold on hover only */
 }
 blockquote {
   color: #808080;
@@ -434,13 +434,13 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #FEC166; /* unified link colour (gold) */
+  color: #404040; /* neutral default */
 }
 
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #FFB13D; /* deeper gold on hover */
+  color: #FEC166; /* gold on hover only */
 }
 
 .post-preview .post-title {
@@ -509,14 +509,14 @@ footer .theme-by {
 }
 
 .blog-tags a {
-  color: #FEC166; /* unified link colour (gold) */
+  color: #999; /* neutral default */
   text-decoration: none;
   padding: 0px 5px;
 }
 
 .blog-tags a:hover {
   border-radius: 2px;
-  color: #FFB13D; /* deeper gold on hover */
+  color: #FEC166; /* gold on hover only */
   background-color: #CCC;
 }
 
