@@ -14,7 +14,7 @@ tags:
 published: true
 date: '2020-03-10'
 ---
-A feature recently introduced in Tableau is **animations**. While you might think that this is rather a gimmick than truly adding value to your visualisations, please, have a look at [this dashboard](https://public.tableau.com/profile/thomas.massie#!/vizhome/SuperstoreUS_15829114428100/DASHBOARD) build from Tableau's Superstore dataset.
+A feature recently introduced in Tableau is **animations**. While you might think that this is rather a gimmick than truly adding value to your visualisations, please, have a look at [this dashboard](https://public.tableau.com/profile/thomas.massie#!/vizhome/SuperstoreUS_15829114428100/DASHBOARD) built from Tableau's Superstore dataset.
 
 ![Complex Superstore --- Dashboard.png]({{site.baseurl}}/img/Complex Superstore --- Dashboard.png)
 

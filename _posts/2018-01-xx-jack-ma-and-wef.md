@@ -50,7 +50,7 @@ the money comes from. It is more about the impression that cash-strapped communi
 on these private persons to fund institutes, museums, listed buildings and whatnot.
 
 In Potsdam, I actually appreciated that [Günther Jauch](https://en.wikipedia.org/wiki/Günther_Jauch),
-a well know TV personality in German speaking countries, put a lot of money into restoring
+a well-known TV personality in German-speaking countries, put a lot of money into restoring
 the [Marmorpalais](https://en.wikipedia.org/wiki/Marmorpalais), for example.
 Or [Hasso Plattner](https://en.wikipedia.org/wiki/Hasso_Plattner),
 co-founder of SAP and multi-billionaire, put vast amounts of money in his hands to
@@ -64,24 +64,24 @@ People clearly benefit from such projects, no doubt. But philanthropists also ha
 the means to shape communities/societies according to their notion. And that is fine because
 it is their money. And it is fine as long as these projects really serve the majority of people (which actually makes them philanthropic),
 or, whether it is simply a personal project. In latter case one cannot talk about philanthropists but rather investors.
-This is why I think that each presumably philanthropic project should be part of a public discourse about the pros and cons and to see if the majority actually supports it. The discussion about rebuilding the historically controversial [Garnisonskirche](https://en.wikipedia.org/wiki/Garrison_Church_(Potsdam)) in Postdam is a good example. But that is a personal and highly subjective point of view.  
+This is why I think that each presumably philanthropic project should be part of a public discourse about the pros and cons and to see if the majority actually supports it. The discussion about rebuilding the historically controversial [Garnisonskirche](https://en.wikipedia.org/wiki/Garrison_Church_(Potsdam)) in Potsdam is a good example. But that is a personal and highly subjective point of view.  
 
 **Why is it possible that single persons accumulate such an unimaginable wealth?**
 
-That is a good question to me – and a hard one to answer. I believe that persons should not be able accumulate wealth that it is beyond the imagination of most others. I guess one answer is that we consider money as the means to realise our dreams and wishes. To most people the pursuit of happiness is directly linked to money. Which is absolutely okay up to a specific amount. You cannot tell people that are barely able to make a living (or not even such) that money is not everything. For many it is rather "first the grubs, then the morals". To set the amount of individual wealth which is still acceptable (from a moral and social peace perspective) is far from being easy. I could not do it. However, when considering the massive and completely unacceptable maldistribution of wealth we cannot agree and be happy that 1 percent of adults hold 50.1 percent of all household wealth in the world (according to [Credit Suisses's Global Wealth Report](https://www.credit-suisse.com/corporate/en/articles/news-and-expertise/global-wealth-report-2017-201711.html)). That is incredible and hard to swallow!
+That is a good question to me – and a hard one to answer. I believe that persons should not be able to accumulate wealth that is beyond the imagination of most others. I guess one answer is that we consider money as the means to realise our dreams and wishes. To most people the pursuit of happiness is directly linked to money. Which is absolutely okay up to a specific amount. You cannot tell people that are barely able to make a living (or not even such) that money is not everything. For many it is rather "first the grubs, then the morals". To set the amount of individual wealth which is still acceptable (from a moral and social peace perspective) is far from being easy. I could not do it. However, when considering the massive and completely unacceptable maldistribution of wealth we cannot agree and be happy that 1 percent of adults hold 50.1 percent of all household wealth in the world (according to [Credit Suisse's Global Wealth Report](https://www.credit-suisse.com/corporate/en/articles/news-and-expertise/global-wealth-report-2017-201711.html)). That is incredible and hard to swallow!
 
-The Harry Gants (from Matt Ruff's [Sewer, Gas and Electric](https://www.amazon.de/Sewer-Gas-Electric-Public-Trilogy/dp/0802141552/ref=sr_1_16?ie=UTF8&qid=1518000670&sr=8-16&keywords=matt+ruff)) and others are not fictionally characters but real. We have Bill Gates (Microsoft), Warren Buffet (Berkshire Hathaway), Jeff Bezos (Amazon), Amancio Ortega (Zara), Mark Zuckerberg (Facebook) and so forth. Have a look at Forbes' list of the world's billionaires. It is a long list getting longer and longer. I guess for most people these billionaires serve as role models; not because of what they do, but because of what they possess.
+The Harry Gants (from Matt Ruff's [Sewer, Gas and Electric](https://www.amazon.de/Sewer-Gas-Electric-Public-Trilogy/dp/0802141552/ref=sr_1_16?ie=UTF8&qid=1518000670&sr=8-16&keywords=matt+ruff)) and others are not fictional characters but real. We have Bill Gates (Microsoft), Warren Buffet (Berkshire Hathaway), Jeff Bezos (Amazon), Amancio Ortega (Zara), Mark Zuckerberg (Facebook) and so forth. Have a look at Forbes' list of the world's billionaires. It is a long list getting longer and longer. I guess for most people these billionaires serve as role models; not because of what they do, but because of what they possess.
 
 Actually, that this is true for *most* people is just my personal impression derived from the attention we give them (see the next point). I have not done any research on this. But, let us assume that it is true. This would mean that the majority of people does not really care about how money is generated or earned, respectively, given the businesses many (or most?) billionaires follow. That is a problem. And it directly or indirectly rebounds upon us with respect to sustainability, (technological) progress, and social functioning. Because, if we do not care about how we earn money or which businesses we follow, we also do not care about our future because we set our priorities all wrong: money before well-being, before freedom, before equality, before peace. Progress is biased by the desire to gain wealth. A desire motivated by greed.
 
 That might sound harsh and exaggerated. However, if you do not pay attention to the personal impacts of your actions this will have severe consequences for society. Reckless and ignorant behaviour might work out for a minority of individuals, and as long as the majority still accepts or tolerates its behavior a society can still thrive. However, under reverse conditions it will certainly fail. That is, we should be clear that these individuals with an intent only on personal well-being are not capable of dictating the course of a society.
-Because I believe that personal credibility and integrity scale up and are reflected in the behaviour of a society I also believe that mankind can do much better than now. A redistribution of wealth (and power?) is is an important step in the right direction.
+Because I believe that personal credibility and integrity scale up and are reflected in the behaviour of a society I also believe that mankind can do much better than now. A redistribution of wealth (and power?) is an important step in the right direction.
 
 
 **Which are the people we listen to?**  
 Why do we assume that (economically) successful people are worth listening to?
 That is related to mainly two points: how people think about money, and the skills these
-people have to get accumulate incredible amounts of money.
+people have to accumulate incredible amounts of money.
 
 
 
