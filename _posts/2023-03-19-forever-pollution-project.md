@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PFAS Map
-image: /img/ForeverPollutionProject_squared.png
+image: /img/pfas-light-1024.png
 tags:
   - R
   - Shiny
