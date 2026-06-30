@@ -49,12 +49,11 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 250;   /* original: 800 */
 }
 a {
-  color: #526E9B; /* #335987;   /* org.: #008AFF */
+  color: #FEC166; /* unified link colour (gold) */
 }
 a:hover,
 a:focus {
-  /*color: #FFB13D;   /* org.: #0085a1; */
-  color: #FEC166; /*#4F91E2; /* #91A3C7; */
+  color: #FFB13D; /* deeper gold on hover */
 }
 blockquote {
   color: #808080;
@@ -420,13 +419,13 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #404040;
+  color: #FEC166; /* unified link colour (gold) */
 }
 
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #0085a1;
+  color: #FFB13D; /* deeper gold on hover */
 }
 
 .post-preview .post-title {
@@ -495,14 +494,14 @@ footer .theme-by {
 }
 
 .blog-tags a {
-  color: #008AFF;
+  color: #FEC166; /* unified link colour (gold) */
   text-decoration: none;
   padding: 0px 5px;
 }
 
 .blog-tags a:hover {
   border-radius: 2px;
-  color: #008AFF;
+  color: #FFB13D; /* deeper gold on hover */
   background-color: #CCC;
 }
 
