@@ -2,6 +2,7 @@
 layout: page
 title: "Becoming Data-Driven Is a Relationship, Not a Hand-Off. Especially With AI."
 published: true
+audio: /audio/audio_files/becoming-data-driven-two-way-relationship.mp3
 ---
 
 **TL;DR**

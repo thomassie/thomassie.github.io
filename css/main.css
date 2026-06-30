@@ -396,6 +396,21 @@ footer .theme-by {
 
 
 
+/* --- Article audio player --- */
+
+.article-audio {
+  margin: 0 0 35px;
+}
+.article-audio-label {
+  font-family: 'SF Pro Rounded', sans-serif;
+  font-size: 15px;
+  color: #808080;
+  margin: 0 0 8px;
+}
+.article-audio audio {
+  width: 100%;
+}
+
 /* --- Post preview --- */
 
 .posts-list {
