@@ -8,3 +8,6 @@ _site
 Thumbs.db
 ehthumbs.db
 .RMD
+
+# local-only audio variants (backups, alt cuts) — not served on the site
+audio/audio_files/*_tldr.mp3
