@@ -1,0 +1,9 @@
+{% if page.audio %}
+<div class="article-audio">
+  <p class="article-audio-label">🎧 Listen to this article</p>
+  <audio controls preload="metadata">
+    <source src="{{ page.audio | prepend: site.baseurl }}" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+{% endif %}

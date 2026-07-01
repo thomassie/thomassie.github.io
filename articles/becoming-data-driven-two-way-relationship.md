@@ -17,6 +17,8 @@ audio: /audio/audio_files/becoming-data-driven-two-way-relationship.mp3
 ---
 <br><br>
 
+{% include audio-player.html %}
+
 ## A typical situation...
 
 A message lands in the analyst's chat: *"Can you pull the new FTS numbers?"*
