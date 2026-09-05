@@ -24,7 +24,7 @@
   const PARAMS = {
     // Particles
     density: 0.00077,   // particles per px² of header area
-    minParticles: 120,
+    minParticles: 40,
     maxParticles: 620,
     trailLength: 92,
     speed: 0.5,
@@ -124,7 +124,8 @@
   }
 
   function buildParticles() {
-    const target = Math.round(width * height * PARAMS.density);
+    const density = isSmallScreen ? PARAMS.density * 0.55 : PARAMS.density;
+    const target = Math.round(width * height * density);
     const count = Math.max(
       PARAMS.minParticles,
       Math.min(PARAMS.maxParticles, target)
@@ -228,9 +229,10 @@
     const progress = (band + 0.5) / BANDS;
     const fade = Math.pow(progress, PARAMS.tailFade);
 
+    const opacity = isSmallScreen ? PARAMS.opacity * 0.8 : PARAMS.opacity;
     const base = useAccent
-      ? Math.min(PARAMS.opacity * 1.65, 1)
-      : PARAMS.opacity;
+      ? Math.min(opacity * 1.65, 1)
+      : opacity;
 
     ctx.beginPath();
     let drew = false;

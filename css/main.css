@@ -564,7 +564,9 @@ footer .theme-by {
   width: 100%;
   /* A canvas is a replaced element: with height:auto it takes its size from
      the intrinsic ratio and ignores `bottom`, so the height is explicit. */
-  height: calc(100% + 100px);
+  /* Short headers (CV, Photography) would otherwise squeeze the field into
+     a ~180px strip where the trails read as scratches. */
+  height: max(calc(100% + 100px), 280px);
   display: block;
   z-index: 0;
   pointer-events: none;

@@ -11,3 +11,5 @@ ehthumbs.db
 
 # local-only audio variants (backups, alt cuts) — not served on the site
 audio/audio_files/*_tldr.mp3
+# local jekyll build cache
+.jekyll-cache
