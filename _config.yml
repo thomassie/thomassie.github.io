@@ -181,7 +181,7 @@ defaults:
 
 # Animated flow-field background in the page/post header band.
 # Set to false to turn it off site-wide.
-flow-field: true
+flow-field: false
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
 link-tags: false
