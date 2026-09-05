@@ -554,6 +554,26 @@ footer .theme-by {
   margin: 80px 0 20px;
   position: relative;
 }
+
+/* Flow-field canvas sits behind the heading and bleeds past the header box,
+   so the trails dissolve into the page instead of ending on a hard edge. */
+.flow-field {
+  position: absolute;
+  top: -70px;
+  bottom: -30px;
+  left: 0;
+  right: 0;
+  width: 100%;
+  display: block;
+  z-index: 0;
+  pointer-events: none;
+  -webkit-mask-image: linear-gradient(to bottom, transparent 0%, #000 18%, #000 74%, transparent 100%);
+  mask-image: linear-gradient(to bottom, transparent 0%, #000 18%, #000 74%, transparent 100%);
+}
+.intro-header > .container {
+  position: relative;
+  z-index: 1;
+}
 .intro-header.big-img {
   background: no-repeat center center;
   -webkit-background-size: cover;

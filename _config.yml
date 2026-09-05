@@ -179,6 +179,10 @@ defaults:
       layout: "page"
       show-avatar: true
 
+# Animated flow-field background in the page/post header band.
+# Set to false to turn it off site-wide.
+flow-field: true
+
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
 link-tags: false
 
