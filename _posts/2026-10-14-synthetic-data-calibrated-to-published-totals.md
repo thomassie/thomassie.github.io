@@ -42,27 +42,8 @@ rake <- function(a, constraints, rounds, locked = fixed) {
   a
 }
 ```
-_From the simulation script._
 
 There were 342 such figures to match, each recorded with its source. Year-end exposure, claim payments and earned premiums are all among them, and the generated data lands on every one. Premiums needed more care, because SERV books them not at issue but by its own rule, part earned immediately and the rest in proportion to the outstanding engagement over the term. The generator simply copied that rule.
-
-**A cross-check I never set up**
-
-One result surprised me. The calibration was never told anything about SERV's 2019 management report, and yet it produced a record premium year in 2018 and a sharp fall in 2019, exactly what that report describes. Numbers that were only forced to match a handful of totals had, on their own, reproduced a pattern nobody had put into them. I would not read too much into a single case, but it was reassuring to see.
-
-**A pattern that came from the method, not the business**
-
-The opposite also happened, and this is where working with the AI coding agent was genuinely useful. An early version of the generator scaled only the short-lived contracts. The cohort charts then showed a clean break around the first calibrated year, and at first this looked like a finding. It was really an artefact, because the break came from the way the data had been built and said nothing about SERV. The code even carries a note about it.
-
-```r
-# All measured contracts are rescaled here, not only short-lived ones. Restricting the
-# adjustment to contracts expiring before 2023 gave the vintages up to 2022 a surplus of short
-# contracts: their run-off curve fell more steeply than that of the vintages from 2023, and the
-# cohort comparison showed a break that does not exist in the data.
-```
-_From the simulation script._
-
-The fix was to let the calibration scale all contracts. What caught the problem was checking the chart against how the data was made, rather than trusting a pattern because it looked tidy.
 
 **Checking the totals**
 
@@ -78,7 +59,6 @@ earned_premiums |>
          deviation = sprintf("%+.1f %%", (model / published - 1) * 100), model = round(model, 1)) |>
   as.data.frame() |> print(row.names = FALSE)
 ```
-_From the simulation script; the earned-premium check._
 
 The results are close. Year-end exposure lands within about 0.3 % for every year from 2017 to 2024. Claim payments, recoveries and write-offs match exactly. Earned premiums match all eight years to 0.0 %. And because the whole thing runs from a fixed random seed, every run produces byte-identical files, checked by regenerating the data into a clean folder and comparing checksums.
 
