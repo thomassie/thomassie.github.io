@@ -9,7 +9,7 @@ tags:
   - AI
   - synthetic data
 published: true
-date: '2026-10-09'
+date: '2026-10-01'
 ---
 
 When applying for a position with SERV, Switzerland's export risk insurance, I thought I might showcase a couple of reporting solutions that avoid the typical BI tools. The reporting should work in a transitional phase, where one cannot rely on a top-notch analytics environment (I'm mainly speaking about data availability here), and also once data is easily accessible and up to date. I wanted to show what's possible without any overkill solutions (e.g., Tableau). Something that is easy to automate, versionable and does not involve any costs. Yes, this is possible.
