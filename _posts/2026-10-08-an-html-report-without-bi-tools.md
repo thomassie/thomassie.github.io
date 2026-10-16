@@ -46,9 +46,9 @@ The report has six sections. An overview with the key figures and the exposure s
 
 In my opinion, maybe the coolest feature of the report is the cross-filtering in the country view. The world map, the country table, the bubble chart and the treemap all share a single selection. Click a country in any one of them (in the treemap, after opening an industry), and the others follow: the table shows only that country, the map and the bubble chart fade out the rest, and the treemap shows only its business. Shift-click adds further countries, and a double-click clears the selection. Moreover, a single selector decides which figure the whole view is about, from exposure and new commitments to the change since the last year-end or the OECD country risk category. Changing it recolours the map, sorts the table by that figure and redraws the treemap, all at once, and the chart titles change with it.
 
-![html_report_world_map_table_default.png]({{site.baseurl}}/html_report_world_map_table_default.png)<br/><br/>
+![html_report_world_map_table_default.png]({{site.baseurl}}/img/html_report_world_map_table_default.png)<br/><br/>
 
-![html_report_world_map_table_filtered.png]({{site.baseurl}}/html_report_world_map_table_filtered.png)<br/><br/>
+![html_report_world_map_table_filtered.png]({{site.baseurl}}/img/html_report_world_map_table_filtered.png)<br/><br/>
 
 **A single file**
 
